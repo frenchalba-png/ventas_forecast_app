@@ -10,8 +10,8 @@ def preparar_datos(df, sucursal=None, departamento=None, categoria=None):
     if categoria:
         data = data[data["Categoría"] == categoria]
     
-    data = data.groupby("Fecha", as_index=False).agg({"Monto_Venta": "sum"})
-    data = data.rename(columns={"Fecha": "ds", "Monto_Venta": "y"})
+    data = data.groupby("Fecha", as_index=False).agg({"Monto_Venta_USD": "sum"})
+    data = data.rename(columns={"Fecha": "ds", "Monto_Venta_USD": "y"})
     return data
 
 def entrenar_y_predecir(df, periodos=90):
@@ -20,3 +20,4 @@ def entrenar_y_predecir(df, periodos=90):
     future = model.make_future_dataframe(periods=periodos)
     forecast = model.predict(future)
     return forecast
+
