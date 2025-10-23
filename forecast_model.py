@@ -1,40 +1,22 @@
-# forecast_model.py
 import pandas as pd
-from statsmodels.tsa.arima.model import ARIMA
+from prophet import Prophet
 
-def make_forecast(df, periods=3):
-    """
-    Genera un forecast de ventas mensuales usando ARIMA.
+def preparar_datos(df, sucursal=None, departamento=None, categoria=None):
+    data = df.copy()
+    if sucursal:
+        data = data[data["Sucursal"] == sucursal]
+    if departamento:
+        data = data[data["Departamento"] == departamento]
+    if categoria:
+        data = data[data["Categoría"] == categoria]
     
-    Parámetros:
-    df : DataFrame con columnas ['Fecha', 'Venta_USD']
-    periods : int - cantidad de meses a proyectar
-    
-    Retorna:
-    DataFrame con las fechas futuras y el forecast de ventas
-    """
-    # Asegurar que la fecha sea tipo datetime
-    df = df.copy()
-    df['Fecha'] = pd.to_datetime(df['Fecha'])
-    df = df.sort_values('Fecha')
+    data = data.groupby("Fecha", as_index=False).agg({"Monto_Venta": "sum"})
+    data = data.rename(columns={"Fecha": "ds", "Monto_Venta": "y"})
+    return data
 
-    # Agrupar por mes en caso de que haya varias filas por mes
-    df = df.groupby('Fecha', as_index=False)['Venta_USD'].sum()
-
-    # Definir la serie temporal
-    ts = df.set_index('Fecha')['Venta_USD']
-    ts = ts.asfreq('MS')  # Frecuencia mensual
-
-    # Entrenar modelo ARIMA
-    model = ARIMA(ts, order=(1, 1, 1))
-    model_fit = model.fit()
-
-    # Forecast futuro
-    forecast = model_fit.forecast(steps=periods)
-
-    # Convertir a DataFrame con fechas
-    forecast_df = pd.DataFrame({
-        'Fecha': pd.date_range(ts.index[-1] + pd.offsets.MonthBegin(1), periods=periods, freq='MS'),
-        'Forecast_USD': forecast.values
-    })
-    return forecast_df
+def entrenar_y_predecir(df, periodos=90):
+    model = Prophet(yearly_seasonality=True, weekly_seasonality=True, daily_seasonality=False)
+    model.fit(df)
+    future = model.make_future_dataframe(periods=periodos)
+    forecast = model.predict(future)
+    return forecast
