@@ -1,43 +1,39 @@
 🛒 Forecast de Ventas Retail
 
-Aplicación interactiva en Python y Streamlit para generar pronósticos de ventas a 3, 6 y 12 meses usando Prophet (Meta).
+Aplicación interactiva en Python + Streamlit para generar pronósticos de ventas a 3, 6 y 12 meses utilizando Prophet (Meta).
+
+Ideal para empresas retail tipo Walmart / Costco / Albertsons que quieran anticipar sus ventas y tomar decisiones basadas en datos.
 
 Descripción del Proyecto
 
-Esta app simula un entorno de retail tipo Walmart / Costco / Albertsons y permite generar pronósticos automáticos a partir de datos históricos.
+Esta app permite:
 
-Cómo funciona la carga de datos:
+Cargar automáticamente un CSV de ventas por defecto (ventas_retail_2022_2025.csv) incluido en los Main Files.
 
-La app intenta leer automáticamente el CSV por defecto:
-ventas_retail_2022_2025.csv (ya incluido en los Main Files).
+Subir tu propio CSV si quieres usar tus propios datos históricos.
 
-Si quieres usar tus propios datos, puedes subir un CSV desde la interfaz.
+Formato requerido del CSV:
 
-El CSV debe contener estas columnas mínimas:
+Columna	Tipo de dato	Descripción
+Sucursal	Texto	Nombre de la sucursal
+Departamento	Texto	Nombre del departamento
+Categoría	Texto	Categoría de productos
+Ventas	Numérico	Monto vendido en USD
+Cantidad vendida	Numérico	Unidades vendidas
+Fecha	Fecha	Fecha de la venta (YYYY-MM-DD)
 
-🏬 Sucursal
+⚙️ Funcionalidades Principales
 
-🗂️ Departamento
+🔄 Carga automática o manual del CSV
 
-🛍️ Categoría
+📊 Pronósticos a 3, 6 y 12 meses
 
-💰 Ventas (USD)
+📈 Visualizaciones interactivas con Plotly
 
-📦 Cantidad vendida
+🎯 Filtros por sucursal, departamento y categoría
 
-📅 Fecha
 
-⚙️ Funcionalidades
-
-Carga automática de CSV o subida manual.
-
-Pronósticos automáticos a 3, 6 y 12 meses.
-
-Visualizaciones interactivas con Plotly.
-
-Filtros por sucursal, departamento y categoría.
-
-Descarga de resultados en CSV:
+💾 Descarga de resultados en CSV:
 
 forecast_3m.csv
 
@@ -47,22 +43,28 @@ forecast_12m.csv
 
 🚀 Cómo Ejecutar
 
-Clona el repositorio:
+1️⃣ Clonar el repositorio:
 
 git clone https://github.com/tu_usuario/forecast-retail-app.git
 cd forecast-retail-app
 
 
-Instala dependencias:
+2️⃣ Instalar dependencias:
 
 pip install -r requirements.txt
 
 
-Ejecuta la app:
+3️⃣ Ejecutar la app:
 
 streamlit run forecast-app.py
 
 
-La app cargará automáticamente el CSV por defecto si está disponible.
+4️⃣ Uso de la app:
 
-Si quieres usar tus propios datos, sube tu CSV desde la interfaz.
+La app intentará cargar automáticamente el CSV por defecto.
+
+Si quieres usar tus propios datos, sube un archivo CSV desde la interfaz.
+
+Aplica filtros, visualiza la evolución de ventas y descarga tus pronósticos.
+
+💡 Tip: El CSV por defecto está diseñado para que puedas probar la app sin necesidad de preparar tus propios datos.
