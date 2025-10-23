@@ -2,17 +2,30 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from forecast_model import preparar_datos, entrenar_y_predecir
+import os
 
 # --- Configuración inicial ---
 st.set_page_config(page_title="Forecast de Ventas Retail", layout="wide")
 
 st.title("📈 Forecast de Ventas - Supermercado")
 
-# --- Subir archivo ---
-uploaded_file = st.file_uploader("📂 Sube el archivo CSV de ventas", type=["csv"])
+# --- Intentar cargar CSV por defecto ---
+default_csv = "ventas_retail_2022_2025.csv"
+df = None
+
+uploaded_file = st.file_uploader("📂 Sube el archivo CSV de ventas (opcional)", type=["csv"])
 
 if uploaded_file:
     df = pd.read_csv(uploaded_file, parse_dates=["Fecha"])
+    st.success("✅ CSV cargado correctamente desde tu archivo.")
+elif os.path.exists(default_csv):
+    df = pd.read_csv(default_csv, parse_dates=["Fecha"])
+    st.info(f"📄 CSV cargado automáticamente desde '{default_csv}'.")
+else:
+    st.warning("⬆️ No se encontró el archivo por defecto. Por favor sube tu CSV para comenzar.")
+
+# --- Procesar datos si df existe ---
+if df is not None:
     st.write("✅ Columnas detectadas:", list(df.columns))
 
     # --- Sidebar: filtros ---
@@ -88,8 +101,7 @@ if uploaded_file:
     mostrar_forecast(forecast_6m, "6 meses")
     mostrar_forecast(forecast_12m, "12 meses")
 
-else:
-    st.info("⬆️ Sube un archivo CSV para comenzar el análisis.")
+
 
 
 
