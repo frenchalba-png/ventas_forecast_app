@@ -1,39 +1,68 @@
-# 🛒 Forecast de Ventas Retail
+🛒 Forecast de Ventas Retail
 
-Aplicación interactiva desarrollada en **Python y Streamlit** para generar pronósticos de ventas a **3, 6 y 12 meses** usando modelos estadísticos de series de tiempo basados en **Prophet (Meta)**.
+Aplicación interactiva en Python y Streamlit para generar pronósticos de ventas a 3, 6 y 12 meses usando Prophet (Meta).
 
----
+Descripción del Proyecto
 
-## Descripción del Proyecto
+Esta app simula un entorno de retail tipo Walmart / Costco / Albertsons y permite generar pronósticos automáticos a partir de datos históricos.
 
-Este proyecto simula el entorno de una empresa retail tipo **Walmart / Costco / Albertsons**, permitiendo cargar datos históricos de ventas y generar proyecciones automáticas actualizadas mensualmente.
+Cómo funciona la carga de datos:
 
-El dataset base contiene información de ventas desde **enero 2022 hasta octubre 2025**, con:
-- 🏬 Sucursales  
-- 🗂️ Departamentos  
-- 🛍️ Categorías  
-- 💰 Ventas (en USD)  
-- 📦 Cantidades vendidas  
+La app intenta leer automáticamente el CSV por defecto:
+ventas_retail_2022_2025.csv (ya incluido en los Main Files).
 
----
+Si quieres usar tus propios datos, puedes subir un CSV desde la interfaz.
 
-## ⚙️ Funcionalidades Principales
+El CSV debe contener estas columnas mínimas:
 
-- Carga de archivo CSV con ventas históricas.  
-- Pronóstico automático de ventas (3, 6 y 12 meses).  
-- Visualización interactiva con **Plotly**.  
-- Filtros por **sucursal, departamento y categoría**.  
-- Descarga de los resultados en tres archivos Excel:
-  - `forecast_3m.xlsx`
-  - `forecast_6m.xlsx`
-  - `forecast_12m.xlsx`
+🏬 Sucursal
 
----
+🗂️ Departamento
 
-## 🚀 Cómo Ejecutar la App
+🛍️ Categoría
 
-### Opción 1: Localmente
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/forecast-retail-app.git
-   cd forecast-retail-app
+💰 Ventas (USD)
+
+📦 Cantidad vendida
+
+📅 Fecha
+
+⚙️ Funcionalidades
+
+Carga automática de CSV o subida manual.
+
+Pronósticos automáticos a 3, 6 y 12 meses.
+
+Visualizaciones interactivas con Plotly.
+
+Filtros por sucursal, departamento y categoría.
+
+Descarga de resultados en CSV:
+
+forecast_3m.csv
+
+forecast_6m.csv
+
+forecast_12m.csv
+
+🚀 Cómo Ejecutar
+
+Clona el repositorio:
+
+git clone https://github.com/tu_usuario/forecast-retail-app.git
+cd forecast-retail-app
+
+
+Instala dependencias:
+
+pip install -r requirements.txt
+
+
+Ejecuta la app:
+
+streamlit run forecast-app.py
+
+
+La app cargará automáticamente el CSV por defecto si está disponible.
+
+Si quieres usar tus propios datos, sube tu CSV desde la interfaz.
