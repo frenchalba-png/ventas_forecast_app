@@ -1,7 +1,12 @@
 import pandas as pd
-from prophet import Prophet  # o el modelo que uses
+from prophet import Prophet
 
 def preparar_datos(df, sucursal=None, departamento=None, categoria=None):
+    """
+    Prepara los datos para el modelo Prophet.
+    Aplica filtros opcionales y renombra columnas.
+    """
+
     # --- Filtros opcionales ---
     if sucursal:
         df = df[df["Sucursal"] == sucursal]
@@ -10,15 +15,12 @@ def preparar_datos(df, sucursal=None, departamento=None, categoria=None):
     if categoria:
         df = df[df["Categoría"] == categoria]
 
-    # --- Verificar que existan las columnas esperadas ---
-    if "Fecha" not in df.columns or "Monto_Ventas_USD" not in df.columns:
-        raise ValueError("❌ El archivo debe tener las columnas 'Fecha' y 'Monto_Ventas_USD'.")
-        df = pd.read_csv(uploaded_file, parse_dates=["Fecha"])
-        st.write("🧾 Columnas detectadas en el archivo:", df.columns.tolist())
-
+    # --- Verificar columnas esperadas ---
+    if "Fecha" not in df.columns or "Monto_Venta_USD" not in df.columns:
+        raise ValueError("❌ El archivo debe tener las columnas 'Fecha' y 'Monto_Venta_USD'.")
 
     # --- Renombrar columnas ---
-    df = df.rename(columns={"Fecha": "ds", "Monto_Ventas_USD": "y"})
+    df = df.rename(columns={"Fecha": "ds", "Monto_Venta_USD": "y"})
 
     # --- Ordenar por fecha ---
     df = df.sort_values("ds")
@@ -28,9 +30,14 @@ def preparar_datos(df, sucursal=None, departamento=None, categoria=None):
 
 
 def entrenar_y_predecir(data, dias_prediccion):
+    """
+    Entrena un modelo Prophet y genera el forecast.
+    """
     modelo = Prophet()
     modelo.fit(data)
+
+    # Crear dataframe futuro para predicciones
     futuro = modelo.make_future_dataframe(periods=dias_prediccion)
     forecast = modelo.predict(futuro)
-    return forecast
 
+    return forecast
