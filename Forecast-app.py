@@ -1,67 +1,46 @@
-# app.py
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-from io import BytesIO
-from forecast_model import make_forecast
+from forecast_model import preparar_datos, entrenar_y_predecir
+import plotly.express as px
 
-# Título y descripción
-st.set_page_config(page_title="Forecast de Ventas Retail", page_icon="📈", layout="wide")
-st.title("📈 Forecast de Ventas Retail")
-st.write("""
-Sube tu archivo de ventas (CSV) para generar pronósticos a **3, 6 y 12 meses**.
-Puedes filtrar por sucursal, departamento y categoría para ver predicciones específicas.
-""")
+st.set_page_config(page_title="Forecast de Ventas Retail", layout="wide")
 
-# Cargar archivo
-uploaded_file = st.file_uploader("📂 Sube tu archivo CSV", type=["csv"])
+st.title("📈 Forecast de Ventas - Supermercado")
+
+# --- Subir archivo ---
+uploaded_file = st.file_uploader("Sube el archivo CSV de ventas", type=["csv"])
 
 if uploaded_file:
-    df = pd.read_csv(uploaded_file)
-    df['Fecha'] = pd.to_datetime(df['Fecha'])
+    df = pd.read_csv(uploaded_file, parse_dates=["Fecha"])
+    
+    st.sidebar.header("Filtros")
+    sucursales = [None] + sorted(df["Sucursal"].unique().tolist())
+    departamentos = [None] + sorted(df["Departamento"].unique().tolist())
+    categorias = [None] + sorted(df["Categoría"].unique().tolist())
 
-    # Filtros
-    col1, col2, col3 = st.columns(3)
-    with col1:
-        sucursal = st.selectbox("Sucursal", ["Todas"] + sorted(df['Sucursal'].unique().tolist()))
-    with col2:
-        departamento = st.selectbox("Departamento", ["Todos"] + sorted(df['Departamento'].unique().tolist()))
-    with col3:
-        categoria = st.selectbox("Categoría", ["Todas"] + sorted(df['Categoría'].unique().tolist()))
+    sucursal = st.sidebar.selectbox("Sucursal", sucursales)
+    departamento = st.sidebar.selectbox("Departamento", departamentos)
+    categoria = st.sidebar.selectbox("Categoría", categorias)
+    dias_prediccion = st.sidebar.slider("Días a predecir", 30, 365, 90)
 
-    # Aplicar filtros
-    df_filtrado = df.copy()
-    if sucursal != "Todas":
-        df_filtrado = df_filtrado[df_filtrado['Sucursal'] == sucursal]
-    if departamento != "Todos":
-        df_filtrado = df_filtrado[df_filtrado['Departamento'] == departamento]
-    if categoria != "Todas":
-        df_filtrado = df_filtrado[df_filtrado['Categoría'] == categoria]
+    data = preparar_datos(df, sucursal, departamento, categoria)
+    forecast = entrenar_y_predecir(data, dias_prediccion)
 
-    st.subheader("📊 Datos seleccionados")
-    st.dataframe(df_filtrado.head())
+    # --- Gráfico ---
+    fig = px.line(forecast, x="ds", y="yhat", title="Predicción de Ventas", labels={"ds": "Fecha", "yhat": "Monto Predicho"})
+    fig.add_scatter(x=data["ds"], y=data["y"], mode="lines", name="Ventas Reales")
 
-    # Agregar botón para generar forecast
-    if st.button("🚀 Generar Forecast"):
-        with st.spinner("Calculando pronósticos..."):
-            forecast_3m = make_forecast(df_filtrado[['Fecha', 'Venta_USD']], 3)
-            forecast_6m = make_forecast(df_filtrado[['Fecha', 'Venta_USD']], 6)
-            forecast_12m = make_forecast(df_filtrado[['Fecha', 'Venta_USD']], 12)
+    st.plotly_chart(fig, use_container_width=True)
 
-            # Gráfico
-            fig, ax = plt.subplots(figsize=(10, 5))
-            ax.plot(df_filtrado['Fecha'], df_filtrado['Venta_USD'], label='Ventas reales', marker='o')
-            ax.plot(forecast_12m['Fecha'], forecast_12m['Forecast_USD'], label='Forecast 12M', linestyle='--', marker='x')
-            ax.set_title("Forecast de Ventas")
-            ax.legend()
-            st.pyplot(fig)
+    # --- Mostrar tabla ---
+    st.subheader("Predicciones futuras")
+    st.dataframe(forecast[["ds", "yhat", "yhat_lower", "yhat_upper"]].tail(10))
 
-            # Guardar Excel para descarga
-            def to_excel(df):
-                output = BytesIO()
-                df.to_excel(output, index=False, engine='openpyxl')
-                return output.getvalue()
+    # --- KPIs ---
+    st.metric("Promedio proyectado", f"${forecast['yhat'].tail(dias_prediccion).mean():,.2f}")
+    st.metric("Máximo proyectado", f"${forecast['yhat'].tail(dias_prediccion).max():,.2f}")
+    st.metric("Mínimo proyectado", f"${forecast['yhat'].tail(dias_prediccion).min():,.2f}")
 
-            st.download_button("📄 Descargar Forecast 3 Meses", to_excel(forecast_3m), file_name="forecast_3m.xlsx")
-            st.download_button("📄 Descargar Forecast 6 Meses", to_excel(forecast_6m), file_name="forecast_6m.xlsx")
-            st.download_button("📄 Descargar Forecast 12 Meses", to_excel(forecast_12m), file_name="forecast_12m.xlsx")
+else:
+    st.info("⬆️ Sube un archivo CSV para comenzar el análisis.")
+
