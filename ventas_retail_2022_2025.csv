@@ -1,0 +1,3129 @@
+Fecha,Sucursal,Departamento,Categoría,Unidades_Vendidas,Venta_USD
+2022-01-01,Panamá Norte,Abarrotes,Bebidas,49375,2153409.09
+2022-02-01,Panamá Norte,Abarrotes,Bebidas,50036,2356012.36
+2022-03-01,Panamá Norte,Abarrotes,Bebidas,69401,2689652.66
+2022-04-01,Panamá Norte,Abarrotes,Bebidas,64301,2501567.56
+2022-05-01,Panamá Norte,Abarrotes,Bebidas,63592,2696948.65
+2022-06-01,Panamá Norte,Abarrotes,Bebidas,70497,2628677.08
+2022-07-01,Panamá Norte,Abarrotes,Bebidas,74697,2777382.43
+2022-08-01,Panamá Norte,Abarrotes,Bebidas,62701,2801166.47
+2022-09-01,Panamá Norte,Abarrotes,Bebidas,65869,2477876.86
+2022-10-01,Panamá Norte,Abarrotes,Bebidas,65225,2839837.82
+2022-11-01,Panamá Norte,Abarrotes,Bebidas,85134,3549125.53
+2022-12-01,Panamá Norte,Abarrotes,Bebidas,97202,3426671.51
+2023-01-01,Panamá Norte,Abarrotes,Bebidas,54474,2386821.76
+2023-02-01,Panamá Norte,Abarrotes,Bebidas,59294,2520499.85
+2023-03-01,Panamá Norte,Abarrotes,Bebidas,70410,2961916.73
+2023-04-01,Panamá Norte,Abarrotes,Bebidas,75649,2611592.51
+2023-05-01,Panamá Norte,Abarrotes,Bebidas,70690,2620861.37
+2023-06-01,Panamá Norte,Abarrotes,Bebidas,66108,2911575.51
+2023-07-01,Panamá Norte,Abarrotes,Bebidas,73028,3123114.52
+2023-08-01,Panamá Norte,Abarrotes,Bebidas,64575,2634538.12
+2023-09-01,Panamá Norte,Abarrotes,Bebidas,62504,3171734.77
+2023-10-01,Panamá Norte,Abarrotes,Bebidas,68149,2742375.94
+2023-11-01,Panamá Norte,Abarrotes,Bebidas,81305,3191999.21
+2023-12-01,Panamá Norte,Abarrotes,Bebidas,92891,4152145.26
+2024-01-01,Panamá Norte,Abarrotes,Bebidas,49932,2260821.61
+2024-02-01,Panamá Norte,Abarrotes,Bebidas,58905,2877541.67
+2024-03-01,Panamá Norte,Abarrotes,Bebidas,76859,3066476.14
+2024-04-01,Panamá Norte,Abarrotes,Bebidas,78022,3309223.68
+2024-05-01,Panamá Norte,Abarrotes,Bebidas,75305,3198318.46
+2024-06-01,Panamá Norte,Abarrotes,Bebidas,80030,3056434.98
+2024-07-01,Panamá Norte,Abarrotes,Bebidas,83567,3065135.5
+2024-08-01,Panamá Norte,Abarrotes,Bebidas,79862,3360011.78
+2024-09-01,Panamá Norte,Abarrotes,Bebidas,78905,3126070.81
+2024-10-01,Panamá Norte,Abarrotes,Bebidas,72997,3016252.93
+2024-11-01,Panamá Norte,Abarrotes,Bebidas,81330,3345785.51
+2024-12-01,Panamá Norte,Abarrotes,Bebidas,100572,4089191.03
+2025-01-01,Panamá Norte,Abarrotes,Bebidas,60919,2339130.27
+2025-02-01,Panamá Norte,Abarrotes,Bebidas,69003,2898298.23
+2025-03-01,Panamá Norte,Abarrotes,Bebidas,80007,3361564.69
+2025-04-01,Panamá Norte,Abarrotes,Bebidas,75032,3508393.62
+2025-05-01,Panamá Norte,Abarrotes,Bebidas,79535,3074330.31
+2025-06-01,Panamá Norte,Abarrotes,Bebidas,76733,3217539.6
+2025-07-01,Panamá Norte,Abarrotes,Bebidas,94584,3388182.93
+2025-08-01,Panamá Norte,Abarrotes,Bebidas,84056,3457191.56
+2025-09-01,Panamá Norte,Abarrotes,Bebidas,82057,3239968.86
+2025-10-01,Panamá Norte,Abarrotes,Bebidas,74424,3097076.48
+2022-01-01,Panamá Norte,Abarrotes,Lácteos,33824,1032877.39
+2022-02-01,Panamá Norte,Abarrotes,Lácteos,38205,1075065.67
+2022-03-01,Panamá Norte,Abarrotes,Lácteos,42618,1287832.85
+2022-04-01,Panamá Norte,Abarrotes,Lácteos,47998,1266462.86
+2022-05-01,Panamá Norte,Abarrotes,Lácteos,46994,1435545.55
+2022-06-01,Panamá Norte,Abarrotes,Lácteos,42755,1345536.43
+2022-07-01,Panamá Norte,Abarrotes,Lácteos,49378,1539798.01
+2022-08-01,Panamá Norte,Abarrotes,Lácteos,50804,1511329.39
+2022-09-01,Panamá Norte,Abarrotes,Lácteos,44522,1327352.14
+2022-10-01,Panamá Norte,Abarrotes,Lácteos,43633,1372374.44
+2022-11-01,Panamá Norte,Abarrotes,Lácteos,56244,1762612.21
+2022-12-01,Panamá Norte,Abarrotes,Lácteos,72143,1850274.12
+2023-01-01,Panamá Norte,Abarrotes,Lácteos,35938,1032004.11
+2023-02-01,Panamá Norte,Abarrotes,Lácteos,44423,1223976.44
+2023-03-01,Panamá Norte,Abarrotes,Lácteos,53167,1401331.48
+2023-04-01,Panamá Norte,Abarrotes,Lácteos,47872,1632363.23
+2023-05-01,Panamá Norte,Abarrotes,Lácteos,52830,1595812.71
+2023-06-01,Panamá Norte,Abarrotes,Lácteos,49187,1543286.58
+2023-07-01,Panamá Norte,Abarrotes,Lácteos,57046,1776340.57
+2023-08-01,Panamá Norte,Abarrotes,Lácteos,51873,1594475.39
+2023-09-01,Panamá Norte,Abarrotes,Lácteos,50885,1408952.23
+2023-10-01,Panamá Norte,Abarrotes,Lácteos,46383,1621198.01
+2023-11-01,Panamá Norte,Abarrotes,Lácteos,64694,1818009.95
+2023-12-01,Panamá Norte,Abarrotes,Lácteos,68198,2233851.49
+2024-01-01,Panamá Norte,Abarrotes,Lácteos,38205,1308776.85
+2024-02-01,Panamá Norte,Abarrotes,Lácteos,41952,1324375.34
+2024-03-01,Panamá Norte,Abarrotes,Lácteos,55335,1490839.42
+2024-04-01,Panamá Norte,Abarrotes,Lácteos,56277,1528961.55
+2024-05-01,Panamá Norte,Abarrotes,Lácteos,49093,1593371.76
+2024-06-01,Panamá Norte,Abarrotes,Lácteos,54479,1719786.72
+2024-07-01,Panamá Norte,Abarrotes,Lácteos,56512,1906960.59
+2024-08-01,Panamá Norte,Abarrotes,Lácteos,55925,1457498.1
+2024-09-01,Panamá Norte,Abarrotes,Lácteos,50808,1620419.84
+2024-10-01,Panamá Norte,Abarrotes,Lácteos,56423,1590235.92
+2024-11-01,Panamá Norte,Abarrotes,Lácteos,63739,1832492.46
+2024-12-01,Panamá Norte,Abarrotes,Lácteos,82732,2091618.17
+2025-01-01,Panamá Norte,Abarrotes,Lácteos,40667,1262122.55
+2025-02-01,Panamá Norte,Abarrotes,Lácteos,48112,1609381.49
+2025-03-01,Panamá Norte,Abarrotes,Lácteos,53941,1677816.58
+2025-04-01,Panamá Norte,Abarrotes,Lácteos,63426,1745854.41
+2025-05-01,Panamá Norte,Abarrotes,Lácteos,62872,1809940.74
+2025-06-01,Panamá Norte,Abarrotes,Lácteos,55630,1691879.55
+2025-07-01,Panamá Norte,Abarrotes,Lácteos,66364,2093777.0
+2025-08-01,Panamá Norte,Abarrotes,Lácteos,62169,1900186.41
+2025-09-01,Panamá Norte,Abarrotes,Lácteos,59106,1652971.94
+2025-10-01,Panamá Norte,Abarrotes,Lácteos,58807,1738360.69
+2022-01-01,Panamá Norte,Abarrotes,Enlatados,66753,961524.99
+2022-02-01,Panamá Norte,Abarrotes,Enlatados,68767,1035787.6
+2022-03-01,Panamá Norte,Abarrotes,Enlatados,94107,1148762.45
+2022-04-01,Panamá Norte,Abarrotes,Enlatados,94340,1151179.08
+2022-05-01,Panamá Norte,Abarrotes,Enlatados,93664,1240616.79
+2022-06-01,Panamá Norte,Abarrotes,Enlatados,84242,1281248.07
+2022-07-01,Panamá Norte,Abarrotes,Enlatados,85917,1406755.31
+2022-08-01,Panamá Norte,Abarrotes,Enlatados,93897,1253417.11
+2022-09-01,Panamá Norte,Abarrotes,Enlatados,85246,1220693.63
+2022-10-01,Panamá Norte,Abarrotes,Enlatados,94560,1088252.82
+2022-11-01,Panamá Norte,Abarrotes,Enlatados,113409,1327977.94
+2022-12-01,Panamá Norte,Abarrotes,Enlatados,129632,1794227.19
+2023-01-01,Panamá Norte,Abarrotes,Enlatados,67605,988204.14
+2023-02-01,Panamá Norte,Abarrotes,Enlatados,78068,988977.12
+2023-03-01,Panamá Norte,Abarrotes,Enlatados,100607,1187311.97
+2023-04-01,Panamá Norte,Abarrotes,Enlatados,90563,1332331.92
+2023-05-01,Panamá Norte,Abarrotes,Enlatados,87791,1162435.42
+2023-06-01,Panamá Norte,Abarrotes,Enlatados,95073,1202622.49
+2023-07-01,Panamá Norte,Abarrotes,Enlatados,112426,1432990.33
+2023-08-01,Panamá Norte,Abarrotes,Enlatados,97691,1339658.25
+2023-09-01,Panamá Norte,Abarrotes,Enlatados,95322,1329354.14
+2023-10-01,Panamá Norte,Abarrotes,Enlatados,86432,1218997.32
+2023-11-01,Panamá Norte,Abarrotes,Enlatados,115401,1613870.53
+2023-12-01,Panamá Norte,Abarrotes,Enlatados,144506,1711285.07
+2024-01-01,Panamá Norte,Abarrotes,Enlatados,71115,1014983.15
+2024-02-01,Panamá Norte,Abarrotes,Enlatados,87168,1250697.17
+2024-03-01,Panamá Norte,Abarrotes,Enlatados,109887,1444243.91
+2024-04-01,Panamá Norte,Abarrotes,Enlatados,107096,1500220.21
+2024-05-01,Panamá Norte,Abarrotes,Enlatados,106202,1446481.95
+2024-06-01,Panamá Norte,Abarrotes,Enlatados,106314,1421436.05
+2024-07-01,Panamá Norte,Abarrotes,Enlatados,109235,1417154.51
+2024-08-01,Panamá Norte,Abarrotes,Enlatados,97958,1365178.66
+2024-09-01,Panamá Norte,Abarrotes,Enlatados,108498,1336428.18
+2024-10-01,Panamá Norte,Abarrotes,Enlatados,108513,1330478.95
+2024-11-01,Panamá Norte,Abarrotes,Enlatados,131612,1841924.42
+2024-12-01,Panamá Norte,Abarrotes,Enlatados,154869,1921216.02
+2025-01-01,Panamá Norte,Abarrotes,Enlatados,83481,1232750.94
+2025-02-01,Panamá Norte,Abarrotes,Enlatados,94427,1329514.63
+2025-03-01,Panamá Norte,Abarrotes,Enlatados,117682,1614027.51
+2025-04-01,Panamá Norte,Abarrotes,Enlatados,114387,1524963.48
+2025-05-01,Panamá Norte,Abarrotes,Enlatados,115543,1547602.37
+2025-06-01,Panamá Norte,Abarrotes,Enlatados,117627,1521878.77
+2025-07-01,Panamá Norte,Abarrotes,Enlatados,131691,1574385.94
+2025-08-01,Panamá Norte,Abarrotes,Enlatados,107458,1591970.12
+2025-09-01,Panamá Norte,Abarrotes,Enlatados,108293,1457332.03
+2025-10-01,Panamá Norte,Abarrotes,Enlatados,102038,1379155.94
+2022-01-01,Panamá Norte,Abarrotes,Cereales,22967,814394.41
+2022-02-01,Panamá Norte,Abarrotes,Cereales,24685,1086914.3
+2022-03-01,Panamá Norte,Abarrotes,Cereales,29057,1245387.39
+2022-04-01,Panamá Norte,Abarrotes,Cereales,30431,1250395.86
+2022-05-01,Panamá Norte,Abarrotes,Cereales,34656,1108068.33
+2022-06-01,Panamá Norte,Abarrotes,Cereales,29570,1058752.19
+2022-07-01,Panamá Norte,Abarrotes,Cereales,31427,1232478.16
+2022-08-01,Panamá Norte,Abarrotes,Cereales,33289,1174976.04
+2022-09-01,Panamá Norte,Abarrotes,Cereales,33565,1125889.77
+2022-10-01,Panamá Norte,Abarrotes,Cereales,30651,1242806.43
+2022-11-01,Panamá Norte,Abarrotes,Cereales,37680,1335641.9
+2022-12-01,Panamá Norte,Abarrotes,Cereales,45599,1784794.29
+2023-01-01,Panamá Norte,Abarrotes,Cereales,23081,927842.06
+2023-02-01,Panamá Norte,Abarrotes,Cereales,31341,1133170.68
+2023-03-01,Panamá Norte,Abarrotes,Cereales,36449,1171517.79
+2023-04-01,Panamá Norte,Abarrotes,Cereales,32214,1225665.25
+2023-05-01,Panamá Norte,Abarrotes,Cereales,30553,1297577.32
+2023-06-01,Panamá Norte,Abarrotes,Cereales,36765,1157535.85
+2023-07-01,Panamá Norte,Abarrotes,Cereales,37223,1271750.05
+2023-08-01,Panamá Norte,Abarrotes,Cereales,34099,1364964.0
+2023-09-01,Panamá Norte,Abarrotes,Cereales,35077,1301341.37
+2023-10-01,Panamá Norte,Abarrotes,Cereales,34616,1133257.5
+2023-11-01,Panamá Norte,Abarrotes,Cereales,44203,1467045.05
+2023-12-01,Panamá Norte,Abarrotes,Cereales,51574,1723676.01
+2024-01-01,Panamá Norte,Abarrotes,Cereales,29140,1050071.36
+2024-02-01,Panamá Norte,Abarrotes,Cereales,31605,1078158.33
+2024-03-01,Panamá Norte,Abarrotes,Cereales,38374,1250659.71
+2024-04-01,Panamá Norte,Abarrotes,Cereales,37478,1223036.96
+2024-05-01,Panamá Norte,Abarrotes,Cereales,36726,1315799.59
+2024-06-01,Panamá Norte,Abarrotes,Cereales,33506,1385265.91
+2024-07-01,Panamá Norte,Abarrotes,Cereales,42293,1338680.03
+2024-08-01,Panamá Norte,Abarrotes,Cereales,38516,1445795.73
+2024-09-01,Panamá Norte,Abarrotes,Cereales,37107,1319547.5
+2024-10-01,Panamá Norte,Abarrotes,Cereales,38515,1265465.16
+2024-11-01,Panamá Norte,Abarrotes,Cereales,44750,1471809.47
+2024-12-01,Panamá Norte,Abarrotes,Cereales,47701,1750374.99
+2025-01-01,Panamá Norte,Abarrotes,Cereales,27729,1164238.59
+2025-02-01,Panamá Norte,Abarrotes,Cereales,31036,1247521.17
+2025-03-01,Panamá Norte,Abarrotes,Cereales,37773,1432946.03
+2025-04-01,Panamá Norte,Abarrotes,Cereales,35153,1473053.54
+2025-05-01,Panamá Norte,Abarrotes,Cereales,39639,1409802.89
+2025-06-01,Panamá Norte,Abarrotes,Cereales,37458,1493884.35
+2025-07-01,Panamá Norte,Abarrotes,Cereales,43922,1428887.57
+2025-08-01,Panamá Norte,Abarrotes,Cereales,37836,1447039.55
+2025-09-01,Panamá Norte,Abarrotes,Cereales,40130,1330674.33
+2025-10-01,Panamá Norte,Abarrotes,Cereales,37489,1319682.56
+2022-01-01,Panamá Norte,Abarrotes,Snacks,10419,410412.84
+2022-02-01,Panamá Norte,Abarrotes,Snacks,12405,388351.86
+2022-03-01,Panamá Norte,Abarrotes,Snacks,13845,495007.99
+2022-04-01,Panamá Norte,Abarrotes,Snacks,14243,550330.57
+2022-05-01,Panamá Norte,Abarrotes,Snacks,14322,508095.53
+2022-06-01,Panamá Norte,Abarrotes,Snacks,14247,495564.09
+2022-07-01,Panamá Norte,Abarrotes,Snacks,14461,561180.18
+2022-08-01,Panamá Norte,Abarrotes,Snacks,12603,510909.07
+2022-09-01,Panamá Norte,Abarrotes,Snacks,13067,526583.13
+2022-10-01,Panamá Norte,Abarrotes,Snacks,14389,465792.71
+2022-11-01,Panamá Norte,Abarrotes,Snacks,14880,573726.37
+2022-12-01,Panamá Norte,Abarrotes,Snacks,18731,715923.64
+2023-01-01,Panamá Norte,Abarrotes,Snacks,10141,433707.74
+2023-02-01,Panamá Norte,Abarrotes,Snacks,12338,463579.8
+2023-03-01,Panamá Norte,Abarrotes,Snacks,15321,510557.47
+2023-04-01,Panamá Norte,Abarrotes,Snacks,15370,558099.48
+2023-05-01,Panamá Norte,Abarrotes,Snacks,13531,564571.05
+2023-06-01,Panamá Norte,Abarrotes,Snacks,15448,510518.61
+2023-07-01,Panamá Norte,Abarrotes,Snacks,16000,578102.99
+2023-08-01,Panamá Norte,Abarrotes,Snacks,13855,542420.8
+2023-09-01,Panamá Norte,Abarrotes,Snacks,14878,538351.7
+2023-10-01,Panamá Norte,Abarrotes,Snacks,14231,526829.17
+2023-11-01,Panamá Norte,Abarrotes,Snacks,16722,620302.23
+2023-12-01,Panamá Norte,Abarrotes,Snacks,20817,693871.93
+2024-01-01,Panamá Norte,Abarrotes,Snacks,10891,393882.34
+2024-02-01,Panamá Norte,Abarrotes,Snacks,12555,535126.98
+2024-03-01,Panamá Norte,Abarrotes,Snacks,15089,616713.01
+2024-04-01,Panamá Norte,Abarrotes,Snacks,14536,559940.73
+2024-05-01,Panamá Norte,Abarrotes,Snacks,15000,629360.39
+2024-06-01,Panamá Norte,Abarrotes,Snacks,15508,597063.01
+2024-07-01,Panamá Norte,Abarrotes,Snacks,17629,632125.22
+2024-08-01,Panamá Norte,Abarrotes,Snacks,16107,575870.86
+2024-09-01,Panamá Norte,Abarrotes,Snacks,16277,528613.33
+2024-10-01,Panamá Norte,Abarrotes,Snacks,16036,529584.42
+2024-11-01,Panamá Norte,Abarrotes,Snacks,19012,706188.33
+2024-12-01,Panamá Norte,Abarrotes,Snacks,20282,816016.72
+2025-01-01,Panamá Norte,Abarrotes,Snacks,12030,436376.5
+2025-02-01,Panamá Norte,Abarrotes,Snacks,13850,571531.02
+2025-03-01,Panamá Norte,Abarrotes,Snacks,15001,652031.0
+2025-04-01,Panamá Norte,Abarrotes,Snacks,16460,569580.25
+2025-05-01,Panamá Norte,Abarrotes,Snacks,16158,670504.76
+2025-06-01,Panamá Norte,Abarrotes,Snacks,17356,675852.95
+2025-07-01,Panamá Norte,Abarrotes,Snacks,19724,746382.94
+2025-08-01,Panamá Norte,Abarrotes,Snacks,16550,562469.74
+2025-09-01,Panamá Norte,Abarrotes,Snacks,15786,646566.58
+2025-10-01,Panamá Norte,Abarrotes,Snacks,14872,622970.85
+2022-01-01,Panamá Norte,Electrónica,TV,57614,764525.63
+2022-02-01,Panamá Norte,Electrónica,TV,60775,795773.38
+2022-03-01,Panamá Norte,Electrónica,TV,70725,956016.29
+2022-04-01,Panamá Norte,Electrónica,TV,68690,968382.6
+2022-05-01,Panamá Norte,Electrónica,TV,65567,923426.37
+2022-06-01,Panamá Norte,Electrónica,TV,77199,955673.25
+2022-07-01,Panamá Norte,Electrónica,TV,84099,1042374.83
+2022-08-01,Panamá Norte,Electrónica,TV,79141,1006666.75
+2022-09-01,Panamá Norte,Electrónica,TV,79097,847179.39
+2022-10-01,Panamá Norte,Electrónica,TV,72748,891074.96
+2022-11-01,Panamá Norte,Electrónica,TV,90986,1219015.92
+2022-12-01,Panamá Norte,Electrónica,TV,109691,1406490.8
+2023-01-01,Panamá Norte,Electrónica,TV,62160,745799.35
+2023-02-01,Panamá Norte,Electrónica,TV,62516,873292.35
+2023-03-01,Panamá Norte,Electrónica,TV,76697,958626.47
+2023-04-01,Panamá Norte,Electrónica,TV,71718,940715.6
+2023-05-01,Panamá Norte,Electrónica,TV,84498,996012.77
+2023-06-01,Panamá Norte,Electrónica,TV,79108,973870.77
+2023-07-01,Panamá Norte,Electrónica,TV,80585,1122091.75
+2023-08-01,Panamá Norte,Electrónica,TV,80123,918565.51
+2023-09-01,Panamá Norte,Electrónica,TV,79293,1098488.81
+2023-10-01,Panamá Norte,Electrónica,TV,75266,1100859.79
+2023-11-01,Panamá Norte,Electrónica,TV,85771,1251672.05
+2023-12-01,Panamá Norte,Electrónica,TV,112170,1414756.14
+2024-01-01,Panamá Norte,Electrónica,TV,62802,779262.7
+2024-02-01,Panamá Norte,Electrónica,TV,74749,975762.05
+2024-03-01,Panamá Norte,Electrónica,TV,83734,1120073.3
+2024-04-01,Panamá Norte,Electrónica,TV,89272,1007279.37
+2024-05-01,Panamá Norte,Electrónica,TV,84264,1168939.11
+2024-06-01,Panamá Norte,Electrónica,TV,84414,1149843.96
+2024-07-01,Panamá Norte,Electrónica,TV,98649,1295070.6
+2024-08-01,Panamá Norte,Electrónica,TV,81788,1128928.13
+2024-09-01,Panamá Norte,Electrónica,TV,77293,1104666.69
+2024-10-01,Panamá Norte,Electrónica,TV,75538,1062503.05
+2024-11-01,Panamá Norte,Electrónica,TV,105184,1408378.7
+2024-12-01,Panamá Norte,Electrónica,TV,119567,1622946.02
+2025-01-01,Panamá Norte,Electrónica,TV,70089,792860.76
+2025-02-01,Panamá Norte,Electrónica,TV,71938,894848.61
+2025-03-01,Panamá Norte,Electrónica,TV,83258,1134190.09
+2025-04-01,Panamá Norte,Electrónica,TV,81070,1235152.71
+2025-05-01,Panamá Norte,Electrónica,TV,87104,1276255.7
+2025-06-01,Panamá Norte,Electrónica,TV,91402,1081615.17
+2025-07-01,Panamá Norte,Electrónica,TV,96638,1303297.77
+2025-08-01,Panamá Norte,Electrónica,TV,88665,1135219.85
+2025-09-01,Panamá Norte,Electrónica,TV,97045,1272217.63
+2025-10-01,Panamá Norte,Electrónica,TV,87063,1242494.38
+2022-01-01,Panamá Norte,Electrónica,Celulares,38365,1125697.01
+2022-02-01,Panamá Norte,Electrónica,Celulares,48343,1335788.96
+2022-03-01,Panamá Norte,Electrónica,Celulares,61214,1625960.63
+2022-04-01,Panamá Norte,Electrónica,Celulares,56197,1656877.26
+2022-05-01,Panamá Norte,Electrónica,Celulares,60520,1551415.6
+2022-06-01,Panamá Norte,Electrónica,Celulares,52844,1671148.29
+2022-07-01,Panamá Norte,Electrónica,Celulares,64558,1813083.38
+2022-08-01,Panamá Norte,Electrónica,Celulares,56138,1428440.08
+2022-09-01,Panamá Norte,Electrónica,Celulares,58249,1422066.32
+2022-10-01,Panamá Norte,Electrónica,Celulares,50905,1601924.23
+2022-11-01,Panamá Norte,Electrónica,Celulares,62230,1819679.83
+2022-12-01,Panamá Norte,Electrónica,Celulares,72373,2062397.92
+2023-01-01,Panamá Norte,Electrónica,Celulares,47198,1295847.09
+2023-02-01,Panamá Norte,Electrónica,Celulares,55113,1399791.14
+2023-03-01,Panamá Norte,Electrónica,Celulares,63688,1713378.73
+2023-04-01,Panamá Norte,Electrónica,Celulares,54964,1687138.82
+2023-05-01,Panamá Norte,Electrónica,Celulares,65115,1729536.33
+2023-06-01,Panamá Norte,Electrónica,Celulares,58891,1666792.06
+2023-07-01,Panamá Norte,Electrónica,Celulares,65354,1944732.6
+2023-08-01,Panamá Norte,Electrónica,Celulares,55866,1591881.76
+2023-09-01,Panamá Norte,Electrónica,Celulares,63540,1767542.09
+2023-10-01,Panamá Norte,Electrónica,Celulares,56805,1670656.3
+2023-11-01,Panamá Norte,Electrónica,Celulares,73723,2193629.53
+2023-12-01,Panamá Norte,Electrónica,Celulares,90711,2388240.86
+2024-01-01,Panamá Norte,Electrónica,Celulares,45403,1518130.87
+2024-02-01,Panamá Norte,Electrónica,Celulares,56459,1603864.32
+2024-03-01,Panamá Norte,Electrónica,Celulares,62437,1747067.79
+2024-04-01,Panamá Norte,Electrónica,Celulares,63885,1968210.43
+2024-05-01,Panamá Norte,Electrónica,Celulares,65613,1791904.8
+2024-06-01,Panamá Norte,Electrónica,Celulares,64045,1792842.93
+2024-07-01,Panamá Norte,Electrónica,Celulares,74712,1843646.33
+2024-08-01,Panamá Norte,Electrónica,Celulares,65687,1867216.29
+2024-09-01,Panamá Norte,Electrónica,Celulares,67067,1861930.61
+2024-10-01,Panamá Norte,Electrónica,Celulares,69081,1795939.33
+2024-11-01,Panamá Norte,Electrónica,Celulares,80062,2393996.03
+2024-12-01,Panamá Norte,Electrónica,Celulares,93938,2396654.08
+2025-01-01,Panamá Norte,Electrónica,Celulares,54480,1456753.67
+2025-02-01,Panamá Norte,Electrónica,Celulares,59480,1648076.37
+2025-03-01,Panamá Norte,Electrónica,Celulares,69384,1846707.62
+2025-04-01,Panamá Norte,Electrónica,Celulares,77448,2003078.63
+2025-05-01,Panamá Norte,Electrónica,Celulares,73258,2086174.95
+2025-06-01,Panamá Norte,Electrónica,Celulares,68049,2015348.34
+2025-07-01,Panamá Norte,Electrónica,Celulares,78859,2059992.42
+2025-08-01,Panamá Norte,Electrónica,Celulares,69282,1961313.42
+2025-09-01,Panamá Norte,Electrónica,Celulares,77936,1810638.15
+2025-10-01,Panamá Norte,Electrónica,Celulares,64652,2158766.39
+2022-01-01,Panamá Norte,Electrónica,Audio,77870,1937188.3
+2022-02-01,Panamá Norte,Electrónica,Audio,76791,1882444.29
+2022-03-01,Panamá Norte,Electrónica,Audio,104934,2561218.45
+2022-04-01,Panamá Norte,Electrónica,Audio,102879,2199080.45
+2022-05-01,Panamá Norte,Electrónica,Audio,96261,2578812.98
+2022-06-01,Panamá Norte,Electrónica,Audio,106546,2197140.9
+2022-07-01,Panamá Norte,Electrónica,Audio,118451,2399123.77
+2022-08-01,Panamá Norte,Electrónica,Audio,92270,2508649.17
+2022-09-01,Panamá Norte,Electrónica,Audio,95687,2653605.51
+2022-10-01,Panamá Norte,Electrónica,Audio,106419,2605022.56
+2022-11-01,Panamá Norte,Electrónica,Audio,122881,2940310.26
+2022-12-01,Panamá Norte,Electrónica,Audio,124870,3661078.34
+2023-01-01,Panamá Norte,Electrónica,Audio,83480,1752815.11
+2023-02-01,Panamá Norte,Electrónica,Audio,95442,2414123.63
+2023-03-01,Panamá Norte,Electrónica,Audio,110653,2588909.32
+2023-04-01,Panamá Norte,Electrónica,Audio,111686,2709333.81
+2023-05-01,Panamá Norte,Electrónica,Audio,112226,2760152.53
+2023-06-01,Panamá Norte,Electrónica,Audio,98765,2707031.2
+2023-07-01,Panamá Norte,Electrónica,Audio,109784,2873071.66
+2023-08-01,Panamá Norte,Electrónica,Audio,108193,2581579.87
+2023-09-01,Panamá Norte,Electrónica,Audio,113969,2769345.2
+2023-10-01,Panamá Norte,Electrónica,Audio,101500,2440719.76
+2023-11-01,Panamá Norte,Electrónica,Audio,128682,3403771.6
+2023-12-01,Panamá Norte,Electrónica,Audio,152922,3784393.42
+2024-01-01,Panamá Norte,Electrónica,Audio,84112,1964831.82
+2024-02-01,Panamá Norte,Electrónica,Audio,100368,2481137.84
+2024-03-01,Panamá Norte,Electrónica,Audio,122290,2803922.45
+2024-04-01,Panamá Norte,Electrónica,Audio,116049,2902809.89
+2024-05-01,Panamá Norte,Electrónica,Audio,114139,2936563.62
+2024-06-01,Panamá Norte,Electrónica,Audio,111851,2557219.69
+2024-07-01,Panamá Norte,Electrónica,Audio,126492,3069759.66
+2024-08-01,Panamá Norte,Electrónica,Audio,109962,3028117.58
+2024-09-01,Panamá Norte,Electrónica,Audio,110781,2687303.54
+2024-10-01,Panamá Norte,Electrónica,Audio,113960,2839623.75
+2024-11-01,Panamá Norte,Electrónica,Audio,124108,3257267.34
+2024-12-01,Panamá Norte,Electrónica,Audio,149942,3866511.94
+2025-01-01,Panamá Norte,Electrónica,Audio,92049,2268323.63
+2025-02-01,Panamá Norte,Electrónica,Audio,102020,2570929.14
+2025-03-01,Panamá Norte,Electrónica,Audio,117621,2816632.92
+2025-04-01,Panamá Norte,Electrónica,Audio,127301,3105885.16
+2025-05-01,Panamá Norte,Electrónica,Audio,126404,2748422.19
+2025-06-01,Panamá Norte,Electrónica,Audio,113579,2778948.44
+2025-07-01,Panamá Norte,Electrónica,Audio,143995,2967148.42
+2025-08-01,Panamá Norte,Electrónica,Audio,121578,2765691.95
+2025-09-01,Panamá Norte,Electrónica,Audio,127566,2979240.03
+2025-10-01,Panamá Norte,Electrónica,Audio,123470,3058876.89
+2022-01-01,Panamá Norte,Electrónica,Electrodomésticos,26312,1204709.21
+2022-02-01,Panamá Norte,Electrónica,Electrodomésticos,30550,1200975.37
+2022-03-01,Panamá Norte,Electrónica,Electrodomésticos,35408,1431601.39
+2022-04-01,Panamá Norte,Electrónica,Electrodomésticos,35565,1586649.09
+2022-05-01,Panamá Norte,Electrónica,Electrodomésticos,40507,1519677.56
+2022-06-01,Panamá Norte,Electrónica,Electrodomésticos,36672,1598994.98
+2022-07-01,Panamá Norte,Electrónica,Electrodomésticos,40167,1540743.2
+2022-08-01,Panamá Norte,Electrónica,Electrodomésticos,35877,1532610.34
+2022-09-01,Panamá Norte,Electrónica,Electrodomésticos,38765,1484634.18
+2022-10-01,Panamá Norte,Electrónica,Electrodomésticos,37030,1508424.09
+2022-11-01,Panamá Norte,Electrónica,Electrodomésticos,47760,1863772.28
+2022-12-01,Panamá Norte,Electrónica,Electrodomésticos,49996,2131087.49
+2023-01-01,Panamá Norte,Electrónica,Electrodomésticos,32542,1243638.42
+2023-02-01,Panamá Norte,Electrónica,Electrodomésticos,35597,1394494.08
+2023-03-01,Panamá Norte,Electrónica,Electrodomésticos,37862,1615114.84
+2023-04-01,Panamá Norte,Electrónica,Electrodomésticos,40326,1734522.82
+2023-05-01,Panamá Norte,Electrónica,Electrodomésticos,44011,1484577.85
+2023-06-01,Panamá Norte,Electrónica,Electrodomésticos,44498,1677458.88
+2023-07-01,Panamá Norte,Electrónica,Electrodomésticos,44821,1833285.32
+2023-08-01,Panamá Norte,Electrónica,Electrodomésticos,40870,1716195.79
+2023-09-01,Panamá Norte,Electrónica,Electrodomésticos,44461,1677651.9
+2023-10-01,Panamá Norte,Electrónica,Electrodomésticos,41742,1752591.23
+2023-11-01,Panamá Norte,Electrónica,Electrodomésticos,44633,2155334.25
+2023-12-01,Panamá Norte,Electrónica,Electrodomésticos,62181,2230561.39
+2024-01-01,Panamá Norte,Electrónica,Electrodomésticos,31594,1261256.07
+2024-02-01,Panamá Norte,Electrónica,Electrodomésticos,38291,1488763.01
+2024-03-01,Panamá Norte,Electrónica,Electrodomésticos,41392,1703224.58
+2024-04-01,Panamá Norte,Electrónica,Electrodomésticos,40224,1819556.61
+2024-05-01,Panamá Norte,Electrónica,Electrodomésticos,42687,1925174.51
+2024-06-01,Panamá Norte,Electrónica,Electrodomésticos,46848,1650286.73
+2024-07-01,Panamá Norte,Electrónica,Electrodomésticos,46625,1800319.93
+2024-08-01,Panamá Norte,Electrónica,Electrodomésticos,41876,1691871.69
+2024-09-01,Panamá Norte,Electrónica,Electrodomésticos,41810,1859094.67
+2024-10-01,Panamá Norte,Electrónica,Electrodomésticos,44494,1811734.99
+2024-11-01,Panamá Norte,Electrónica,Electrodomésticos,58294,1964590.72
+2024-12-01,Panamá Norte,Electrónica,Electrodomésticos,61594,2698679.75
+2025-01-01,Panamá Norte,Electrónica,Electrodomésticos,36384,1526011.69
+2025-02-01,Panamá Norte,Electrónica,Electrodomésticos,43708,1478705.4
+2025-03-01,Panamá Norte,Electrónica,Electrodomésticos,48298,1981328.5
+2025-04-01,Panamá Norte,Electrónica,Electrodomésticos,44935,2027436.76
+2025-05-01,Panamá Norte,Electrónica,Electrodomésticos,46040,1874814.45
+2025-06-01,Panamá Norte,Electrónica,Electrodomésticos,46139,1757307.15
+2025-07-01,Panamá Norte,Electrónica,Electrodomésticos,51675,1936591.57
+2025-08-01,Panamá Norte,Electrónica,Electrodomésticos,47260,1770894.08
+2025-09-01,Panamá Norte,Electrónica,Electrodomésticos,50838,2054049.88
+2025-10-01,Panamá Norte,Electrónica,Electrodomésticos,46517,2081068.25
+2022-01-01,Panamá Norte,Hogar,Muebles,17059,551663.24
+2022-02-01,Panamá Norte,Hogar,Muebles,17605,587028.87
+2022-03-01,Panamá Norte,Hogar,Muebles,20359,700535.66
+2022-04-01,Panamá Norte,Hogar,Muebles,20874,688875.73
+2022-05-01,Panamá Norte,Hogar,Muebles,21774,683298.69
+2022-06-01,Panamá Norte,Hogar,Muebles,20396,705450.47
+2022-07-01,Panamá Norte,Hogar,Muebles,24111,713972.8
+2022-08-01,Panamá Norte,Hogar,Muebles,21001,652787.19
+2022-09-01,Panamá Norte,Hogar,Muebles,21611,747577.68
+2022-10-01,Panamá Norte,Hogar,Muebles,21115,759335.54
+2022-11-01,Panamá Norte,Hogar,Muebles,24611,815365.08
+2022-12-01,Panamá Norte,Hogar,Muebles,32629,931238.86
+2023-01-01,Panamá Norte,Hogar,Muebles,17933,571244.24
+2023-02-01,Panamá Norte,Hogar,Muebles,17917,617800.26
+2023-03-01,Panamá Norte,Hogar,Muebles,24388,670062.49
+2023-04-01,Panamá Norte,Hogar,Muebles,22657,689424.72
+2023-05-01,Panamá Norte,Hogar,Muebles,24506,772315.79
+2023-06-01,Panamá Norte,Hogar,Muebles,24076,763868.8
+2023-07-01,Panamá Norte,Hogar,Muebles,24611,737347.2
+2023-08-01,Panamá Norte,Hogar,Muebles,20544,699170.46
+2023-09-01,Panamá Norte,Hogar,Muebles,21663,700518.26
+2023-10-01,Panamá Norte,Hogar,Muebles,22903,765789.06
+2023-11-01,Panamá Norte,Hogar,Muebles,27984,803066.51
+2023-12-01,Panamá Norte,Hogar,Muebles,30260,954406.17
+2024-01-01,Panamá Norte,Hogar,Muebles,16786,625032.6
+2024-02-01,Panamá Norte,Hogar,Muebles,21876,625319.71
+2024-03-01,Panamá Norte,Hogar,Muebles,26458,810235.29
+2024-04-01,Panamá Norte,Hogar,Muebles,24245,745047.94
+2024-05-01,Panamá Norte,Hogar,Muebles,22537,723231.78
+2024-06-01,Panamá Norte,Hogar,Muebles,23023,745832.49
+2024-07-01,Panamá Norte,Hogar,Muebles,23978,903283.68
+2024-08-01,Panamá Norte,Hogar,Muebles,26120,842147.89
+2024-09-01,Panamá Norte,Hogar,Muebles,22277,838141.86
+2024-10-01,Panamá Norte,Hogar,Muebles,24490,770049.76
+2024-11-01,Panamá Norte,Hogar,Muebles,27638,975176.7
+2024-12-01,Panamá Norte,Hogar,Muebles,34136,1035758.78
+2025-01-01,Panamá Norte,Hogar,Muebles,19794,600298.49
+2025-02-01,Panamá Norte,Hogar,Muebles,23210,765954.67
+2025-03-01,Panamá Norte,Hogar,Muebles,24112,753617.01
+2025-04-01,Panamá Norte,Hogar,Muebles,23111,765724.74
+2025-05-01,Panamá Norte,Hogar,Muebles,23756,786160.35
+2025-06-01,Panamá Norte,Hogar,Muebles,27666,755876.4
+2025-07-01,Panamá Norte,Hogar,Muebles,30285,859917.72
+2025-08-01,Panamá Norte,Hogar,Muebles,26115,848806.77
+2025-09-01,Panamá Norte,Hogar,Muebles,26131,821818.67
+2025-10-01,Panamá Norte,Hogar,Muebles,26462,900511.28
+2022-01-01,Panamá Norte,Hogar,Limpieza,9115,320986.37
+2022-02-01,Panamá Norte,Hogar,Limpieza,12293,390972.07
+2022-03-01,Panamá Norte,Hogar,Limpieza,13934,429522.46
+2022-04-01,Panamá Norte,Hogar,Limpieza,13617,423574.06
+2022-05-01,Panamá Norte,Hogar,Limpieza,13935,476348.19
+2022-06-01,Panamá Norte,Hogar,Limpieza,13843,408782.57
+2022-07-01,Panamá Norte,Hogar,Limpieza,14974,440634.34
+2022-08-01,Panamá Norte,Hogar,Limpieza,14522,459973.64
+2022-09-01,Panamá Norte,Hogar,Limpieza,14318,398649.22
+2022-10-01,Panamá Norte,Hogar,Limpieza,13638,465741.27
+2022-11-01,Panamá Norte,Hogar,Limpieza,16513,517014.2
+2022-12-01,Panamá Norte,Hogar,Limpieza,16885,661620.24
+2023-01-01,Panamá Norte,Hogar,Limpieza,11149,370840.73
+2023-02-01,Panamá Norte,Hogar,Limpieza,11106,411341.34
+2023-03-01,Panamá Norte,Hogar,Limpieza,14631,516023.41
+2023-04-01,Panamá Norte,Hogar,Limpieza,15813,463689.38
+2023-05-01,Panamá Norte,Hogar,Limpieza,14537,516476.07
+2023-06-01,Panamá Norte,Hogar,Limpieza,14300,438912.55
+2023-07-01,Panamá Norte,Hogar,Limpieza,15223,519131.65
+2023-08-01,Panamá Norte,Hogar,Limpieza,13286,451687.88
+2023-09-01,Panamá Norte,Hogar,Limpieza,15041,477249.12
+2023-10-01,Panamá Norte,Hogar,Limpieza,13493,441470.52
+2023-11-01,Panamá Norte,Hogar,Limpieza,15925,606980.91
+2023-12-01,Panamá Norte,Hogar,Limpieza,19813,708791.12
+2024-01-01,Panamá Norte,Hogar,Limpieza,12392,420426.45
+2024-02-01,Panamá Norte,Hogar,Limpieza,13911,406558.67
+2024-03-01,Panamá Norte,Hogar,Limpieza,14212,526462.87
+2024-04-01,Panamá Norte,Hogar,Limpieza,15461,511142.16
+2024-05-01,Panamá Norte,Hogar,Limpieza,15671,497798.68
+2024-06-01,Panamá Norte,Hogar,Limpieza,16052,498534.06
+2024-07-01,Panamá Norte,Hogar,Limpieza,17677,555311.16
+2024-08-01,Panamá Norte,Hogar,Limpieza,15179,534847.2
+2024-09-01,Panamá Norte,Hogar,Limpieza,15790,523889.15
+2024-10-01,Panamá Norte,Hogar,Limpieza,15542,509646.44
+2024-11-01,Panamá Norte,Hogar,Limpieza,20163,564255.95
+2024-12-01,Panamá Norte,Hogar,Limpieza,21974,658562.15
+2025-01-01,Panamá Norte,Hogar,Limpieza,12547,376531.88
+2025-02-01,Panamá Norte,Hogar,Limpieza,14115,518233.89
+2025-03-01,Panamá Norte,Hogar,Limpieza,17175,502367.48
+2025-04-01,Panamá Norte,Hogar,Limpieza,17959,513277.32
+2025-05-01,Panamá Norte,Hogar,Limpieza,17060,536861.38
+2025-06-01,Panamá Norte,Hogar,Limpieza,17477,591815.8
+2025-07-01,Panamá Norte,Hogar,Limpieza,19508,669968.67
+2025-08-01,Panamá Norte,Hogar,Limpieza,16998,589873.71
+2025-09-01,Panamá Norte,Hogar,Limpieza,16682,578783.97
+2025-10-01,Panamá Norte,Hogar,Limpieza,18205,559910.34
+2022-01-01,Panamá Norte,Hogar,Cocina,13422,142431.52
+2022-02-01,Panamá Norte,Hogar,Cocina,15354,191892.38
+2022-03-01,Panamá Norte,Hogar,Cocina,17934,211232.46
+2022-04-01,Panamá Norte,Hogar,Cocina,20204,228459.34
+2022-05-01,Panamá Norte,Hogar,Cocina,18560,222566.91
+2022-06-01,Panamá Norte,Hogar,Cocina,17442,230931.93
+2022-07-01,Panamá Norte,Hogar,Cocina,23022,224121.03
+2022-08-01,Panamá Norte,Hogar,Cocina,20602,221239.82
+2022-09-01,Panamá Norte,Hogar,Cocina,20771,205897.76
+2022-10-01,Panamá Norte,Hogar,Cocina,21028,209171.71
+2022-11-01,Panamá Norte,Hogar,Cocina,21463,258447.2
+2022-12-01,Panamá Norte,Hogar,Cocina,26231,315997.79
+2023-01-01,Panamá Norte,Hogar,Cocina,16391,187637.99
+2023-02-01,Panamá Norte,Hogar,Cocina,18356,204287.92
+2023-03-01,Panamá Norte,Hogar,Cocina,19343,224348.61
+2023-04-01,Panamá Norte,Hogar,Cocina,22094,224512.39
+2023-05-01,Panamá Norte,Hogar,Cocina,19636,238938.6
+2023-06-01,Panamá Norte,Hogar,Cocina,19633,216183.1
+2023-07-01,Panamá Norte,Hogar,Cocina,23028,231362.9
+2023-08-01,Panamá Norte,Hogar,Cocina,21167,221467.95
+2023-09-01,Panamá Norte,Hogar,Cocina,21114,218393.93
+2023-10-01,Panamá Norte,Hogar,Cocina,19083,218807.66
+2023-11-01,Panamá Norte,Hogar,Cocina,26820,259136.72
+2023-12-01,Panamá Norte,Hogar,Cocina,27730,290094.52
+2024-01-01,Panamá Norte,Hogar,Cocina,15673,167888.84
+2024-02-01,Panamá Norte,Hogar,Cocina,20677,231119.99
+2024-03-01,Panamá Norte,Hogar,Cocina,24627,244161.48
+2024-04-01,Panamá Norte,Hogar,Cocina,24205,242008.79
+2024-05-01,Panamá Norte,Hogar,Cocina,23968,256641.35
+2024-06-01,Panamá Norte,Hogar,Cocina,23271,233780.21
+2024-07-01,Panamá Norte,Hogar,Cocina,25080,297038.36
+2024-08-01,Panamá Norte,Hogar,Cocina,20706,261928.01
+2024-09-01,Panamá Norte,Hogar,Cocina,22157,227396.3
+2024-10-01,Panamá Norte,Hogar,Cocina,21996,243656.47
+2024-11-01,Panamá Norte,Hogar,Cocina,25783,319829.7
+2024-12-01,Panamá Norte,Hogar,Cocina,33011,377686.09
+2025-01-01,Panamá Norte,Hogar,Cocina,18370,200487.81
+2025-02-01,Panamá Norte,Hogar,Cocina,19091,233898.32
+2025-03-01,Panamá Norte,Hogar,Cocina,23142,251153.02
+2025-04-01,Panamá Norte,Hogar,Cocina,25412,295503.23
+2025-05-01,Panamá Norte,Hogar,Cocina,22436,254631.45
+2025-06-01,Panamá Norte,Hogar,Cocina,26236,292896.63
+2025-07-01,Panamá Norte,Hogar,Cocina,26939,304836.92
+2025-08-01,Panamá Norte,Hogar,Cocina,24419,274869.12
+2025-09-01,Panamá Norte,Hogar,Cocina,24967,269754.17
+2025-10-01,Panamá Norte,Hogar,Cocina,26106,254577.54
+2022-01-01,Panamá Norte,Hogar,Decoración,16403,609098.74
+2022-02-01,Panamá Norte,Hogar,Decoración,18370,673508.27
+2022-03-01,Panamá Norte,Hogar,Decoración,20637,760169.6
+2022-04-01,Panamá Norte,Hogar,Decoración,18912,812686.94
+2022-05-01,Panamá Norte,Hogar,Decoración,18982,718389.73
+2022-06-01,Panamá Norte,Hogar,Decoración,22209,705075.73
+2022-07-01,Panamá Norte,Hogar,Decoración,25059,776092.79
+2022-08-01,Panamá Norte,Hogar,Decoración,21477,731821.57
+2022-09-01,Panamá Norte,Hogar,Decoración,20522,717391.23
+2022-10-01,Panamá Norte,Hogar,Decoración,21359,822062.46
+2022-11-01,Panamá Norte,Hogar,Decoración,25366,836733.77
+2022-12-01,Panamá Norte,Hogar,Decoración,28369,1101906.75
+2023-01-01,Panamá Norte,Hogar,Decoración,15292,573057.91
+2023-02-01,Panamá Norte,Hogar,Decoración,20201,745366.44
+2023-03-01,Panamá Norte,Hogar,Decoración,21758,889884.71
+2023-04-01,Panamá Norte,Hogar,Decoración,23754,809090.05
+2023-05-01,Panamá Norte,Hogar,Decoración,21225,876483.64
+2023-06-01,Panamá Norte,Hogar,Decoración,20102,734083.2
+2023-07-01,Panamá Norte,Hogar,Decoración,22888,953534.65
+2023-08-01,Panamá Norte,Hogar,Decoración,22189,770497.77
+2023-09-01,Panamá Norte,Hogar,Decoración,24314,881311.62
+2023-10-01,Panamá Norte,Hogar,Decoración,20553,733427.35
+2023-11-01,Panamá Norte,Hogar,Decoración,28694,988645.1
+2023-12-01,Panamá Norte,Hogar,Decoración,31431,1199146.99
+2024-01-01,Panamá Norte,Hogar,Decoración,19200,625927.1
+2024-02-01,Panamá Norte,Hogar,Decoración,19605,699611.61
+2024-03-01,Panamá Norte,Hogar,Decoración,25668,803950.2
+2024-04-01,Panamá Norte,Hogar,Decoración,25346,846450.5
+2024-05-01,Panamá Norte,Hogar,Decoración,22736,887385.62
+2024-06-01,Panamá Norte,Hogar,Decoración,22262,809517.68
+2024-07-01,Panamá Norte,Hogar,Decoración,28384,940791.84
+2024-08-01,Panamá Norte,Hogar,Decoración,26261,790792.31
+2024-09-01,Panamá Norte,Hogar,Decoración,21781,932779.61
+2024-10-01,Panamá Norte,Hogar,Decoración,25146,811728.3
+2024-11-01,Panamá Norte,Hogar,Decoración,31203,1006672.02
+2024-12-01,Panamá Norte,Hogar,Decoración,36053,1109406.24
+2025-01-01,Panamá Norte,Hogar,Decoración,21204,698263.75
+2025-02-01,Panamá Norte,Hogar,Decoración,23132,856809.02
+2025-03-01,Panamá Norte,Hogar,Decoración,25570,923450.96
+2025-04-01,Panamá Norte,Hogar,Decoración,24895,883310.04
+2025-05-01,Panamá Norte,Hogar,Decoración,24941,991697.32
+2025-06-01,Panamá Norte,Hogar,Decoración,27029,998324.39
+2025-07-01,Panamá Norte,Hogar,Decoración,29854,970448.41
+2025-08-01,Panamá Norte,Hogar,Decoración,24318,994935.58
+2025-09-01,Panamá Norte,Hogar,Decoración,27773,1028241.41
+2025-10-01,Panamá Norte,Hogar,Decoración,26980,880833.54
+2022-01-01,Panamá Norte,Ropa,Hombre,2864,144676.09
+2022-02-01,Panamá Norte,Ropa,Hombre,3375,140497.59
+2022-03-01,Panamá Norte,Ropa,Hombre,3630,189388.92
+2022-04-01,Panamá Norte,Ropa,Hombre,3838,186142.51
+2022-05-01,Panamá Norte,Ropa,Hombre,3587,185942.31
+2022-06-01,Panamá Norte,Ropa,Hombre,3623,188547.92
+2022-07-01,Panamá Norte,Ropa,Hombre,4263,204152.46
+2022-08-01,Panamá Norte,Ropa,Hombre,3666,180837.67
+2022-09-01,Panamá Norte,Ropa,Hombre,4010,163376.43
+2022-10-01,Panamá Norte,Ropa,Hombre,4107,159893.93
+2022-11-01,Panamá Norte,Ropa,Hombre,5033,229477.5
+2022-12-01,Panamá Norte,Ropa,Hombre,5207,252700.1
+2023-01-01,Panamá Norte,Ropa,Hombre,2976,150531.92
+2023-02-01,Panamá Norte,Ropa,Hombre,3327,160456.13
+2023-03-01,Panamá Norte,Ropa,Hombre,4366,174970.23
+2023-04-01,Panamá Norte,Ropa,Hombre,4426,175268.75
+2023-05-01,Panamá Norte,Ropa,Hombre,3852,196504.0
+2023-06-01,Panamá Norte,Ropa,Hombre,4621,186831.1
+2023-07-01,Panamá Norte,Ropa,Hombre,4256,195936.04
+2023-08-01,Panamá Norte,Ropa,Hombre,4285,189153.59
+2023-09-01,Panamá Norte,Ropa,Hombre,4428,172958.06
+2023-10-01,Panamá Norte,Ropa,Hombre,4566,192578.37
+2023-11-01,Panamá Norte,Ropa,Hombre,5319,216861.9
+2023-12-01,Panamá Norte,Ropa,Hombre,6310,281047.12
+2024-01-01,Panamá Norte,Ropa,Hombre,3314,146858.12
+2024-02-01,Panamá Norte,Ropa,Hombre,4125,171451.32
+2024-03-01,Panamá Norte,Ropa,Hombre,4182,183650.25
+2024-04-01,Panamá Norte,Ropa,Hombre,4926,186126.25
+2024-05-01,Panamá Norte,Ropa,Hombre,4609,199154.08
+2024-06-01,Panamá Norte,Ropa,Hombre,4855,202713.63
+2024-07-01,Panamá Norte,Ropa,Hombre,4974,228361.85
+2024-08-01,Panamá Norte,Ropa,Hombre,4697,195049.65
+2024-09-01,Panamá Norte,Ropa,Hombre,4590,211467.19
+2024-10-01,Panamá Norte,Ropa,Hombre,4777,218189.4
+2024-11-01,Panamá Norte,Ropa,Hombre,5020,257906.25
+2024-12-01,Panamá Norte,Ropa,Hombre,5830,258705.92
+2025-01-01,Panamá Norte,Ropa,Hombre,3492,163334.31
+2025-02-01,Panamá Norte,Ropa,Hombre,3885,171153.02
+2025-03-01,Panamá Norte,Ropa,Hombre,5269,207352.02
+2025-04-01,Panamá Norte,Ropa,Hombre,4629,239911.38
+2025-05-01,Panamá Norte,Ropa,Hombre,5371,202999.09
+2025-06-01,Panamá Norte,Ropa,Hombre,4744,218582.82
+2025-07-01,Panamá Norte,Ropa,Hombre,5052,246177.74
+2025-08-01,Panamá Norte,Ropa,Hombre,5189,227484.47
+2025-09-01,Panamá Norte,Ropa,Hombre,5060,221239.65
+2025-10-01,Panamá Norte,Ropa,Hombre,4903,197195.53
+2022-01-01,Panamá Norte,Ropa,Mujer,12196,510279.37
+2022-02-01,Panamá Norte,Ropa,Mujer,12657,576050.13
+2022-03-01,Panamá Norte,Ropa,Mujer,15617,637541.31
+2022-04-01,Panamá Norte,Ropa,Mujer,17463,581740.38
+2022-05-01,Panamá Norte,Ropa,Mujer,15192,641242.84
+2022-06-01,Panamá Norte,Ropa,Mujer,16465,565976.9
+2022-07-01,Panamá Norte,Ropa,Mujer,16947,616917.48
+2022-08-01,Panamá Norte,Ropa,Mujer,16838,588937.39
+2022-09-01,Panamá Norte,Ropa,Mujer,14786,614306.22
+2022-10-01,Panamá Norte,Ropa,Mujer,17465,664520.2
+2022-11-01,Panamá Norte,Ropa,Mujer,18980,776464.18
+2022-12-01,Panamá Norte,Ropa,Mujer,21171,908567.54
+2023-01-01,Panamá Norte,Ropa,Mujer,11684,487853.56
+2023-02-01,Panamá Norte,Ropa,Mujer,13521,543970.05
+2023-03-01,Panamá Norte,Ropa,Mujer,17099,643280.02
+2023-04-01,Panamá Norte,Ropa,Mujer,16477,724710.99
+2023-05-01,Panamá Norte,Ropa,Mujer,18152,599576.74
+2023-06-01,Panamá Norte,Ropa,Mujer,16796,708781.91
+2023-07-01,Panamá Norte,Ropa,Mujer,17793,737771.07
+2023-08-01,Panamá Norte,Ropa,Mujer,17431,652204.34
+2023-09-01,Panamá Norte,Ropa,Mujer,17736,690058.94
+2023-10-01,Panamá Norte,Ropa,Mujer,15898,658550.4
+2023-11-01,Panamá Norte,Ropa,Mujer,19080,851551.22
+2023-12-01,Panamá Norte,Ropa,Mujer,21635,998519.88
+2024-01-01,Panamá Norte,Ropa,Mujer,14272,520069.72
+2024-02-01,Panamá Norte,Ropa,Mujer,15951,572060.33
+2024-03-01,Panamá Norte,Ropa,Mujer,18078,717466.45
+2024-04-01,Panamá Norte,Ropa,Mujer,19421,762553.41
+2024-05-01,Panamá Norte,Ropa,Mujer,19281,663690.02
+2024-06-01,Panamá Norte,Ropa,Mujer,18481,721780.0
+2024-07-01,Panamá Norte,Ropa,Mujer,21460,795289.85
+2024-08-01,Panamá Norte,Ropa,Mujer,17101,737298.65
+2024-09-01,Panamá Norte,Ropa,Mujer,16760,652546.31
+2024-10-01,Panamá Norte,Ropa,Mujer,17334,734862.92
+2024-11-01,Panamá Norte,Ropa,Mujer,19873,914500.95
+2024-12-01,Panamá Norte,Ropa,Mujer,25598,923055.48
+2025-01-01,Panamá Norte,Ropa,Mujer,15808,534075.46
+2025-02-01,Panamá Norte,Ropa,Mujer,14959,699045.06
+2025-03-01,Panamá Norte,Ropa,Mujer,17920,703598.12
+2025-04-01,Panamá Norte,Ropa,Mujer,19200,804818.17
+2025-05-01,Panamá Norte,Ropa,Mujer,21068,750389.79
+2025-06-01,Panamá Norte,Ropa,Mujer,18673,713556.78
+2025-07-01,Panamá Norte,Ropa,Mujer,21355,888005.76
+2025-08-01,Panamá Norte,Ropa,Mujer,17608,743329.33
+2025-09-01,Panamá Norte,Ropa,Mujer,18022,753777.7
+2025-10-01,Panamá Norte,Ropa,Mujer,21272,730391.86
+2022-01-01,Panamá Norte,Ropa,Niños,5955,204243.43
+2022-02-01,Panamá Norte,Ropa,Niños,6955,262669.67
+2022-03-01,Panamá Norte,Ropa,Niños,7447,286834.31
+2022-04-01,Panamá Norte,Ropa,Niños,8145,268433.98
+2022-05-01,Panamá Norte,Ropa,Niños,8110,283537.93
+2022-06-01,Panamá Norte,Ropa,Niños,7264,273426.87
+2022-07-01,Panamá Norte,Ropa,Niños,8906,312544.79
+2022-08-01,Panamá Norte,Ropa,Niños,7353,261179.54
+2022-09-01,Panamá Norte,Ropa,Niños,7234,261573.26
+2022-10-01,Panamá Norte,Ropa,Niños,7765,262184.62
+2022-11-01,Panamá Norte,Ropa,Niños,8738,368573.03
+2022-12-01,Panamá Norte,Ropa,Niños,10831,413645.38
+2023-01-01,Panamá Norte,Ropa,Niños,6129,209385.37
+2023-02-01,Panamá Norte,Ropa,Niños,6883,238625.09
+2023-03-01,Panamá Norte,Ropa,Niños,7805,313218.78
+2023-04-01,Panamá Norte,Ropa,Niños,8074,278808.16
+2023-05-01,Panamá Norte,Ropa,Niños,8151,283502.55
+2023-06-01,Panamá Norte,Ropa,Niños,8070,327141.77
+2023-07-01,Panamá Norte,Ropa,Niños,8698,313219.24
+2023-08-01,Panamá Norte,Ropa,Niños,7220,309075.3
+2023-09-01,Panamá Norte,Ropa,Niños,8136,328057.0
+2023-10-01,Panamá Norte,Ropa,Niños,7466,291869.82
+2023-11-01,Panamá Norte,Ropa,Niños,9870,324607.22
+2023-12-01,Panamá Norte,Ropa,Niños,11776,397707.18
+2024-01-01,Panamá Norte,Ropa,Niños,6361,253896.44
+2024-02-01,Panamá Norte,Ropa,Niños,7269,289570.06
+2024-03-01,Panamá Norte,Ropa,Niños,9246,334568.65
+2024-04-01,Panamá Norte,Ropa,Niños,9069,292947.95
+2024-05-01,Panamá Norte,Ropa,Niños,9183,336282.67
+2024-06-01,Panamá Norte,Ropa,Niños,9013,344104.21
+2024-07-01,Panamá Norte,Ropa,Niños,8599,356296.39
+2024-08-01,Panamá Norte,Ropa,Niños,7885,345513.83
+2024-09-01,Panamá Norte,Ropa,Niños,8526,338272.14
+2024-10-01,Panamá Norte,Ropa,Niños,8050,328120.02
+2024-11-01,Panamá Norte,Ropa,Niños,10129,386901.95
+2024-12-01,Panamá Norte,Ropa,Niños,11622,431060.97
+2025-01-01,Panamá Norte,Ropa,Niños,6812,235340.6
+2025-02-01,Panamá Norte,Ropa,Niños,8022,292231.38
+2025-03-01,Panamá Norte,Ropa,Niños,9381,324483.75
+2025-04-01,Panamá Norte,Ropa,Niños,9032,361411.75
+2025-05-01,Panamá Norte,Ropa,Niños,9574,369957.93
+2025-06-01,Panamá Norte,Ropa,Niños,8869,353733.5
+2025-07-01,Panamá Norte,Ropa,Niños,10678,340069.0
+2025-08-01,Panamá Norte,Ropa,Niños,8223,322502.01
+2025-09-01,Panamá Norte,Ropa,Niños,9812,310408.16
+2025-10-01,Panamá Norte,Ropa,Niños,9272,346869.79
+2022-01-01,Panamá Norte,Ropa,Accesorios,11282,496723.61
+2022-02-01,Panamá Norte,Ropa,Accesorios,13135,609988.45
+2022-03-01,Panamá Norte,Ropa,Accesorios,14181,684659.02
+2022-04-01,Panamá Norte,Ropa,Accesorios,15909,688703.03
+2022-05-01,Panamá Norte,Ropa,Accesorios,16292,691929.59
+2022-06-01,Panamá Norte,Ropa,Accesorios,14329,763282.55
+2022-07-01,Panamá Norte,Ropa,Accesorios,15358,797833.98
+2022-08-01,Panamá Norte,Ropa,Accesorios,13742,692507.88
+2022-09-01,Panamá Norte,Ropa,Accesorios,15621,735547.72
+2022-10-01,Panamá Norte,Ropa,Accesorios,15515,750778.3
+2022-11-01,Panamá Norte,Ropa,Accesorios,18398,824328.0
+2022-12-01,Panamá Norte,Ropa,Accesorios,20126,990113.36
+2023-01-01,Panamá Norte,Ropa,Accesorios,11930,534131.89
+2023-02-01,Panamá Norte,Ropa,Accesorios,14083,613111.45
+2023-03-01,Panamá Norte,Ropa,Accesorios,16251,798346.59
+2023-04-01,Panamá Norte,Ropa,Accesorios,17848,721352.12
+2023-05-01,Panamá Norte,Ropa,Accesorios,15079,774315.93
+2023-06-01,Panamá Norte,Ropa,Accesorios,16896,802650.02
+2023-07-01,Panamá Norte,Ropa,Accesorios,17545,780849.43
+2023-08-01,Panamá Norte,Ropa,Accesorios,16028,780810.54
+2023-09-01,Panamá Norte,Ropa,Accesorios,16969,732927.87
+2023-10-01,Panamá Norte,Ropa,Accesorios,16887,841769.9
+2023-11-01,Panamá Norte,Ropa,Accesorios,21431,921483.77
+2023-12-01,Panamá Norte,Ropa,Accesorios,21074,1144623.55
+2024-01-01,Panamá Norte,Ropa,Accesorios,12022,624807.95
+2024-02-01,Panamá Norte,Ropa,Accesorios,15461,637052.94
+2024-03-01,Panamá Norte,Ropa,Accesorios,17681,846756.42
+2024-04-01,Panamá Norte,Ropa,Accesorios,16622,899254.75
+2024-05-01,Panamá Norte,Ropa,Accesorios,15944,841553.7
+2024-06-01,Panamá Norte,Ropa,Accesorios,15966,877444.86
+2024-07-01,Panamá Norte,Ropa,Accesorios,20659,976987.07
+2024-08-01,Panamá Norte,Ropa,Accesorios,16336,779936.46
+2024-09-01,Panamá Norte,Ropa,Accesorios,16793,777291.36
+2024-10-01,Panamá Norte,Ropa,Accesorios,16457,843099.23
+2024-11-01,Panamá Norte,Ropa,Accesorios,20284,972138.46
+2024-12-01,Panamá Norte,Ropa,Accesorios,22273,1233196.94
+2025-01-01,Panamá Norte,Ropa,Accesorios,14031,715216.84
+2025-02-01,Panamá Norte,Ropa,Accesorios,14471,728530.55
+2025-03-01,Panamá Norte,Ropa,Accesorios,19756,836512.36
+2025-04-01,Panamá Norte,Ropa,Accesorios,17644,932519.65
+2025-05-01,Panamá Norte,Ropa,Accesorios,18786,843211.62
+2025-06-01,Panamá Norte,Ropa,Accesorios,20053,939952.36
+2025-07-01,Panamá Norte,Ropa,Accesorios,21119,956463.69
+2025-08-01,Panamá Norte,Ropa,Accesorios,18759,912568.61
+2025-09-01,Panamá Norte,Ropa,Accesorios,17982,811553.12
+2025-10-01,Panamá Norte,Ropa,Accesorios,18014,904853.03
+2022-01-01,Panamá Este,Abarrotes,Bebidas,177894,2061650.82
+2022-02-01,Panamá Este,Abarrotes,Bebidas,201295,2640457.31
+2022-03-01,Panamá Este,Abarrotes,Bebidas,228613,2796015.69
+2022-04-01,Panamá Este,Abarrotes,Bebidas,233760,2732263.16
+2022-05-01,Panamá Este,Abarrotes,Bebidas,228900,2871830.96
+2022-06-01,Panamá Este,Abarrotes,Bebidas,235563,2593884.29
+2022-07-01,Panamá Este,Abarrotes,Bebidas,263655,3396036.56
+2022-08-01,Panamá Este,Abarrotes,Bebidas,241853,2902629.62
+2022-09-01,Panamá Este,Abarrotes,Bebidas,235224,2970392.72
+2022-10-01,Panamá Este,Abarrotes,Bebidas,244055,2640072.66
+2022-11-01,Panamá Este,Abarrotes,Bebidas,260327,3330206.05
+2022-12-01,Panamá Este,Abarrotes,Bebidas,308341,3895695.46
+2023-01-01,Panamá Este,Abarrotes,Bebidas,199757,2417174.52
+2023-02-01,Panamá Este,Abarrotes,Bebidas,205270,2317066.21
+2023-03-01,Panamá Este,Abarrotes,Bebidas,226490,2907408.71
+2023-04-01,Panamá Este,Abarrotes,Bebidas,233045,3319450.52
+2023-05-01,Panamá Este,Abarrotes,Bebidas,236541,3012803.79
+2023-06-01,Panamá Este,Abarrotes,Bebidas,273283,2956870.18
+2023-07-01,Panamá Este,Abarrotes,Bebidas,279443,3077558.06
+2023-08-01,Panamá Este,Abarrotes,Bebidas,272051,3315167.85
+2023-09-01,Panamá Este,Abarrotes,Bebidas,254146,2737339.32
+2023-10-01,Panamá Este,Abarrotes,Bebidas,249348,3171649.5
+2023-11-01,Panamá Este,Abarrotes,Bebidas,289265,3828812.74
+2023-12-01,Panamá Este,Abarrotes,Bebidas,357992,4021878.6
+2024-01-01,Panamá Este,Abarrotes,Bebidas,186668,2516537.94
+2024-02-01,Panamá Este,Abarrotes,Bebidas,246172,2532966.54
+2024-03-01,Panamá Este,Abarrotes,Bebidas,285916,3086442.92
+2024-04-01,Panamá Este,Abarrotes,Bebidas,258458,3430869.34
+2024-05-01,Panamá Este,Abarrotes,Bebidas,292540,3480688.08
+2024-06-01,Panamá Este,Abarrotes,Bebidas,285695,3314461.85
+2024-07-01,Panamá Este,Abarrotes,Bebidas,304887,3573362.25
+2024-08-01,Panamá Este,Abarrotes,Bebidas,247955,3023025.65
+2024-09-01,Panamá Este,Abarrotes,Bebidas,267080,2960612.91
+2024-10-01,Panamá Este,Abarrotes,Bebidas,268575,2995999.27
+2024-11-01,Panamá Este,Abarrotes,Bebidas,304679,3680615.55
+2024-12-01,Panamá Este,Abarrotes,Bebidas,343998,4397890.45
+2025-01-01,Panamá Este,Abarrotes,Bebidas,227470,2544578.88
+2025-02-01,Panamá Este,Abarrotes,Bebidas,225814,2863420.09
+2025-03-01,Panamá Este,Abarrotes,Bebidas,292808,3294167.48
+2025-04-01,Panamá Este,Abarrotes,Bebidas,312474,3482312.31
+2025-05-01,Panamá Este,Abarrotes,Bebidas,309006,3701662.7
+2025-06-01,Panamá Este,Abarrotes,Bebidas,274614,3322422.48
+2025-07-01,Panamá Este,Abarrotes,Bebidas,338348,4161366.86
+2025-08-01,Panamá Este,Abarrotes,Bebidas,258669,3735063.14
+2025-09-01,Panamá Este,Abarrotes,Bebidas,259666,3240441.61
+2025-10-01,Panamá Este,Abarrotes,Bebidas,293283,3674546.33
+2022-01-01,Panamá Este,Abarrotes,Lácteos,121301,2234590.7
+2022-02-01,Panamá Este,Abarrotes,Lácteos,150543,2378610.27
+2022-03-01,Panamá Este,Abarrotes,Lácteos,173826,2571757.95
+2022-04-01,Panamá Este,Abarrotes,Lácteos,187509,3100254.13
+2022-05-01,Panamá Este,Abarrotes,Lácteos,161325,2571541.72
+2022-06-01,Panamá Este,Abarrotes,Lácteos,175014,2931086.67
+2022-07-01,Panamá Este,Abarrotes,Lácteos,179464,3403336.31
+2022-08-01,Panamá Este,Abarrotes,Lácteos,169276,2673889.02
+2022-09-01,Panamá Este,Abarrotes,Lácteos,183755,2619199.8
+2022-10-01,Panamá Este,Abarrotes,Lácteos,174585,2607427.9
+2022-11-01,Panamá Este,Abarrotes,Lácteos,205287,3252062.43
+2022-12-01,Panamá Este,Abarrotes,Lácteos,240414,3634333.33
+2023-01-01,Panamá Este,Abarrotes,Lácteos,138573,2332968.57
+2023-02-01,Panamá Este,Abarrotes,Lácteos,167360,2323279.33
+2023-03-01,Panamá Este,Abarrotes,Lácteos,200883,3001145.66
+2023-04-01,Panamá Este,Abarrotes,Lácteos,203239,3293072.03
+2023-05-01,Panamá Este,Abarrotes,Lácteos,196964,3183600.51
+2023-06-01,Panamá Este,Abarrotes,Lácteos,179398,3064528.85
+2023-07-01,Panamá Este,Abarrotes,Lácteos,212613,3167370.11
+2023-08-01,Panamá Este,Abarrotes,Lácteos,183951,3069726.88
+2023-09-01,Panamá Este,Abarrotes,Lácteos,177136,3011701.41
+2023-10-01,Panamá Este,Abarrotes,Lácteos,198975,2951217.41
+2023-11-01,Panamá Este,Abarrotes,Lácteos,202895,3329111.26
+2023-12-01,Panamá Este,Abarrotes,Lácteos,281740,4517961.72
+2024-01-01,Panamá Este,Abarrotes,Lácteos,147203,2361599.75
+2024-02-01,Panamá Este,Abarrotes,Lácteos,172739,2538506.79
+2024-03-01,Panamá Este,Abarrotes,Lácteos,204099,3096619.37
+2024-04-01,Panamá Este,Abarrotes,Lácteos,213425,3126117.84
+2024-05-01,Panamá Este,Abarrotes,Lácteos,203201,3389106.95
+2024-06-01,Panamá Este,Abarrotes,Lácteos,202302,3329357.61
+2024-07-01,Panamá Este,Abarrotes,Lácteos,198717,3687268.3
+2024-08-01,Panamá Este,Abarrotes,Lácteos,198523,2869687.22
+2024-09-01,Panamá Este,Abarrotes,Lácteos,183956,3127405.57
+2024-10-01,Panamá Este,Abarrotes,Lácteos,207187,3168876.21
+2024-11-01,Panamá Este,Abarrotes,Lácteos,237934,3449854.6
+2024-12-01,Panamá Este,Abarrotes,Lácteos,286894,4239129.38
+2025-01-01,Panamá Este,Abarrotes,Lácteos,143081,2664949.25
+2025-02-01,Panamá Este,Abarrotes,Lácteos,163698,2662467.43
+2025-03-01,Panamá Este,Abarrotes,Lácteos,219113,3401294.46
+2025-04-01,Panamá Este,Abarrotes,Lácteos,192052,3185064.99
+2025-05-01,Panamá Este,Abarrotes,Lácteos,192017,3047886.03
+2025-06-01,Panamá Este,Abarrotes,Lácteos,189532,3202627.41
+2025-07-01,Panamá Este,Abarrotes,Lácteos,252122,4068779.17
+2025-08-01,Panamá Este,Abarrotes,Lácteos,220003,3581127.75
+2025-09-01,Panamá Este,Abarrotes,Lácteos,203862,3687881.64
+2025-10-01,Panamá Este,Abarrotes,Lácteos,201480,3369238.42
+2022-01-01,Panamá Este,Abarrotes,Enlatados,14922,715761.48
+2022-02-01,Panamá Este,Abarrotes,Enlatados,14960,745334.37
+2022-03-01,Panamá Este,Abarrotes,Enlatados,18657,887211.4
+2022-04-01,Panamá Este,Abarrotes,Enlatados,18997,912043.47
+2022-05-01,Panamá Este,Abarrotes,Enlatados,17462,962781.94
+2022-06-01,Panamá Este,Abarrotes,Enlatados,20263,825184.46
+2022-07-01,Panamá Este,Abarrotes,Enlatados,21353,978349.65
+2022-08-01,Panamá Este,Abarrotes,Enlatados,18708,827695.9
+2022-09-01,Panamá Este,Abarrotes,Enlatados,17312,905729.4
+2022-10-01,Panamá Este,Abarrotes,Enlatados,16844,975130.03
+2022-11-01,Panamá Este,Abarrotes,Enlatados,21394,1144924.09
+2022-12-01,Panamá Este,Abarrotes,Enlatados,27203,1195496.23
+2023-01-01,Panamá Este,Abarrotes,Enlatados,14398,807267.75
+2023-02-01,Panamá Este,Abarrotes,Enlatados,17243,863337.21
+2023-03-01,Panamá Este,Abarrotes,Enlatados,21044,886566.57
+2023-04-01,Panamá Este,Abarrotes,Enlatados,18548,934720.8
+2023-05-01,Panamá Este,Abarrotes,Enlatados,20872,935762.53
+2023-06-01,Panamá Este,Abarrotes,Enlatados,18484,898129.48
+2023-07-01,Panamá Este,Abarrotes,Enlatados,24199,1180497.72
+2023-08-01,Panamá Este,Abarrotes,Enlatados,20080,978522.44
+2023-09-01,Panamá Este,Abarrotes,Enlatados,18720,1060597.61
+2023-10-01,Panamá Este,Abarrotes,Enlatados,19492,947851.36
+2023-11-01,Panamá Este,Abarrotes,Enlatados,23734,1090959.28
+2023-12-01,Panamá Este,Abarrotes,Enlatados,29632,1368852.92
+2024-01-01,Panamá Este,Abarrotes,Enlatados,17227,740226.86
+2024-02-01,Panamá Este,Abarrotes,Enlatados,19034,906572.66
+2024-03-01,Panamá Este,Abarrotes,Enlatados,20177,1159453.04
+2024-04-01,Panamá Este,Abarrotes,Enlatados,20377,1073989.99
+2024-05-01,Panamá Este,Abarrotes,Enlatados,20123,1094467.88
+2024-06-01,Panamá Este,Abarrotes,Enlatados,22241,996099.19
+2024-07-01,Panamá Este,Abarrotes,Enlatados,25911,1069143.02
+2024-08-01,Panamá Este,Abarrotes,Enlatados,21613,986295.61
+2024-09-01,Panamá Este,Abarrotes,Enlatados,20417,1090624.33
+2024-10-01,Panamá Este,Abarrotes,Enlatados,22157,982916.64
+2024-11-01,Panamá Este,Abarrotes,Enlatados,27923,1251625.42
+2024-12-01,Panamá Este,Abarrotes,Enlatados,32147,1512367.68
+2025-01-01,Panamá Este,Abarrotes,Enlatados,19241,853526.42
+2025-02-01,Panamá Este,Abarrotes,Enlatados,19361,922814.76
+2025-03-01,Panamá Este,Abarrotes,Enlatados,22377,1111296.48
+2025-04-01,Panamá Este,Abarrotes,Enlatados,25647,1263664.41
+2025-05-01,Panamá Este,Abarrotes,Enlatados,24588,1204922.99
+2025-06-01,Panamá Este,Abarrotes,Enlatados,22935,1163035.84
+2025-07-01,Panamá Este,Abarrotes,Enlatados,27491,1155572.21
+2025-08-01,Panamá Este,Abarrotes,Enlatados,25339,1278585.83
+2025-09-01,Panamá Este,Abarrotes,Enlatados,24385,1203869.06
+2025-10-01,Panamá Este,Abarrotes,Enlatados,24732,1121337.03
+2022-01-01,Panamá Este,Abarrotes,Cereales,27247,1092250.8
+2022-02-01,Panamá Este,Abarrotes,Cereales,32081,1445541.76
+2022-03-01,Panamá Este,Abarrotes,Cereales,38570,1466058.44
+2022-04-01,Panamá Este,Abarrotes,Cereales,35869,1695705.48
+2022-05-01,Panamá Este,Abarrotes,Cereales,36901,1520096.59
+2022-06-01,Panamá Este,Abarrotes,Cereales,39853,1764345.18
+2022-07-01,Panamá Este,Abarrotes,Cereales,45021,1730940.52
+2022-08-01,Panamá Este,Abarrotes,Cereales,42981,1560325.92
+2022-09-01,Panamá Este,Abarrotes,Cereales,42471,1502772.59
+2022-10-01,Panamá Este,Abarrotes,Cereales,40200,1553431.75
+2022-11-01,Panamá Este,Abarrotes,Cereales,46164,2085629.93
+2022-12-01,Panamá Este,Abarrotes,Cereales,56210,2487398.42
+2023-01-01,Panamá Este,Abarrotes,Cereales,33363,1270716.9
+2023-02-01,Panamá Este,Abarrotes,Cereales,33038,1463900.54
+2023-03-01,Panamá Este,Abarrotes,Cereales,41322,1817406.71
+2023-04-01,Panamá Este,Abarrotes,Cereales,44940,1874526.12
+2023-05-01,Panamá Este,Abarrotes,Cereales,41103,1772502.34
+2023-06-01,Panamá Este,Abarrotes,Cereales,42685,1702368.99
+2023-07-01,Panamá Este,Abarrotes,Cereales,47101,1880682.06
+2023-08-01,Panamá Este,Abarrotes,Cereales,39425,1808200.5
+2023-09-01,Panamá Este,Abarrotes,Cereales,40921,1567228.63
+2023-10-01,Panamá Este,Abarrotes,Cereales,40688,1781740.64
+2023-11-01,Panamá Este,Abarrotes,Cereales,45712,2027794.5
+2023-12-01,Panamá Este,Abarrotes,Cereales,53307,2579511.81
+2024-01-01,Panamá Este,Abarrotes,Cereales,36233,1290718.01
+2024-02-01,Panamá Este,Abarrotes,Cereales,36761,1620532.85
+2024-03-01,Panamá Este,Abarrotes,Cereales,45469,1866331.23
+2024-04-01,Panamá Este,Abarrotes,Cereales,43481,1926788.79
+2024-05-01,Panamá Este,Abarrotes,Cereales,49298,1710414.61
+2024-06-01,Panamá Este,Abarrotes,Cereales,43124,1903429.83
+2024-07-01,Panamá Este,Abarrotes,Cereales,49134,2086148.16
+2024-08-01,Panamá Este,Abarrotes,Cereales,48682,1896189.4
+2024-09-01,Panamá Este,Abarrotes,Cereales,48403,1912236.55
+2024-10-01,Panamá Este,Abarrotes,Cereales,42461,1939581.68
+2024-11-01,Panamá Este,Abarrotes,Cereales,57657,2385285.01
+2024-12-01,Panamá Este,Abarrotes,Cereales,62897,2502099.85
+2025-01-01,Panamá Este,Abarrotes,Cereales,36458,1611107.93
+2025-02-01,Panamá Este,Abarrotes,Cereales,38421,1713867.03
+2025-03-01,Panamá Este,Abarrotes,Cereales,44685,1846401.62
+2025-04-01,Panamá Este,Abarrotes,Cereales,51000,1838935.69
+2025-05-01,Panamá Este,Abarrotes,Cereales,48742,1950148.96
+2025-06-01,Panamá Este,Abarrotes,Cereales,48161,2131946.27
+2025-07-01,Panamá Este,Abarrotes,Cereales,56117,2310876.75
+2025-08-01,Panamá Este,Abarrotes,Cereales,51367,2133446.12
+2025-09-01,Panamá Este,Abarrotes,Cereales,45449,2023984.21
+2025-10-01,Panamá Este,Abarrotes,Cereales,49852,1992893.88
+2022-01-01,Panamá Este,Abarrotes,Snacks,41605,1810236.27
+2022-02-01,Panamá Este,Abarrotes,Snacks,43317,1717856.21
+2022-03-01,Panamá Este,Abarrotes,Snacks,59192,2015742.07
+2022-04-01,Panamá Este,Abarrotes,Snacks,57676,2115325.85
+2022-05-01,Panamá Este,Abarrotes,Snacks,50441,2106266.23
+2022-06-01,Panamá Este,Abarrotes,Snacks,57511,2099752.02
+2022-07-01,Panamá Este,Abarrotes,Snacks,61266,2630509.61
+2022-08-01,Panamá Este,Abarrotes,Snacks,50596,2100887.67
+2022-09-01,Panamá Este,Abarrotes,Snacks,54755,2110797.52
+2022-10-01,Panamá Este,Abarrotes,Snacks,55046,2326412.77
+2022-11-01,Panamá Este,Abarrotes,Snacks,61829,2627328.24
+2022-12-01,Panamá Este,Abarrotes,Snacks,84192,3267698.84
+2023-01-01,Panamá Este,Abarrotes,Snacks,47842,1635287.72
+2023-02-01,Panamá Este,Abarrotes,Snacks,52387,2024721.67
+2023-03-01,Panamá Este,Abarrotes,Snacks,59167,2165218.86
+2023-04-01,Panamá Este,Abarrotes,Snacks,58565,2179087.95
+2023-05-01,Panamá Este,Abarrotes,Snacks,61417,2582072.79
+2023-06-01,Panamá Este,Abarrotes,Snacks,60158,2215667.77
+2023-07-01,Panamá Este,Abarrotes,Snacks,59837,2643789.79
+2023-08-01,Panamá Este,Abarrotes,Snacks,59766,2345501.35
+2023-09-01,Panamá Este,Abarrotes,Snacks,63270,2315053.75
+2023-10-01,Panamá Este,Abarrotes,Snacks,59131,2578918.72
+2023-11-01,Panamá Este,Abarrotes,Snacks,65129,2591505.53
+2023-12-01,Panamá Este,Abarrotes,Snacks,88242,3452660.53
+2024-01-01,Panamá Este,Abarrotes,Snacks,45393,2112942.6
+2024-02-01,Panamá Este,Abarrotes,Snacks,52072,2217929.6
+2024-03-01,Panamá Este,Abarrotes,Snacks,60052,2803554.69
+2024-04-01,Panamá Este,Abarrotes,Snacks,62183,2347419.66
+2024-05-01,Panamá Este,Abarrotes,Snacks,67674,2536427.51
+2024-06-01,Panamá Este,Abarrotes,Snacks,64618,2454625.43
+2024-07-01,Panamá Este,Abarrotes,Snacks,66626,2967060.63
+2024-08-01,Panamá Este,Abarrotes,Snacks,69233,2826488.5
+2024-09-01,Panamá Este,Abarrotes,Snacks,69255,2452754.76
+2024-10-01,Panamá Este,Abarrotes,Snacks,69139,2657804.35
+2024-11-01,Panamá Este,Abarrotes,Snacks,73207,2907148.15
+2024-12-01,Panamá Este,Abarrotes,Snacks,89237,3656787.15
+2025-01-01,Panamá Este,Abarrotes,Snacks,57180,2072800.92
+2025-02-01,Panamá Este,Abarrotes,Snacks,62288,2589619.17
+2025-03-01,Panamá Este,Abarrotes,Snacks,62927,2844239.6
+2025-04-01,Panamá Este,Abarrotes,Snacks,63456,2700026.32
+2025-05-01,Panamá Este,Abarrotes,Snacks,68998,2568958.38
+2025-06-01,Panamá Este,Abarrotes,Snacks,75187,2589642.72
+2025-07-01,Panamá Este,Abarrotes,Snacks,77041,2893970.44
+2025-08-01,Panamá Este,Abarrotes,Snacks,69469,2645163.04
+2025-09-01,Panamá Este,Abarrotes,Snacks,64015,2979025.71
+2025-10-01,Panamá Este,Abarrotes,Snacks,71679,2817902.21
+2022-01-01,Panamá Este,Electrónica,TV,30187,808573.66
+2022-02-01,Panamá Este,Electrónica,TV,33927,898260.58
+2022-03-01,Panamá Este,Electrónica,TV,45088,1117191.68
+2022-04-01,Panamá Este,Electrónica,TV,38368,1209391.18
+2022-05-01,Panamá Este,Electrónica,TV,43768,1098736.35
+2022-06-01,Panamá Este,Electrónica,TV,45669,1106996.21
+2022-07-01,Panamá Este,Electrónica,TV,49442,1301279.97
+2022-08-01,Panamá Este,Electrónica,TV,42869,1080195.53
+2022-09-01,Panamá Este,Electrónica,TV,40060,1241475.19
+2022-10-01,Panamá Este,Electrónica,TV,39563,1154806.47
+2022-11-01,Panamá Este,Electrónica,TV,53117,1365730.77
+2022-12-01,Panamá Este,Electrónica,TV,62676,1628847.52
+2023-01-01,Panamá Este,Electrónica,TV,33430,858028.55
+2023-02-01,Panamá Este,Electrónica,TV,35768,1065681.56
+2023-03-01,Panamá Este,Electrónica,TV,40915,1192355.65
+2023-04-01,Panamá Este,Electrónica,TV,40686,1323305.02
+2023-05-01,Panamá Este,Electrónica,TV,46291,1144729.46
+2023-06-01,Panamá Este,Electrónica,TV,43640,1227650.01
+2023-07-01,Panamá Este,Electrónica,TV,52738,1374974.55
+2023-08-01,Panamá Este,Electrónica,TV,46474,1111514.2
+2023-09-01,Panamá Este,Electrónica,TV,41610,1192500.89
+2023-10-01,Panamá Este,Electrónica,TV,45357,1282959.68
+2023-11-01,Panamá Este,Electrónica,TV,52531,1565367.25
+2023-12-01,Panamá Este,Electrónica,TV,63047,1652156.04
+2024-01-01,Panamá Este,Electrónica,TV,37140,1038527.33
+2024-02-01,Panamá Este,Electrónica,TV,42639,1214574.41
+2024-03-01,Panamá Este,Electrónica,TV,50519,1399933.84
+2024-04-01,Panamá Este,Electrónica,TV,44943,1206747.84
+2024-05-01,Panamá Este,Electrónica,TV,42836,1369320.22
+2024-06-01,Panamá Este,Electrónica,TV,49531,1259543.3
+2024-07-01,Panamá Este,Electrónica,TV,47902,1577741.29
+2024-08-01,Panamá Este,Electrónica,TV,45519,1302844.31
+2024-09-01,Panamá Este,Electrónica,TV,42578,1207999.61
+2024-10-01,Panamá Este,Electrónica,TV,48987,1365519.17
+2024-11-01,Panamá Este,Electrónica,TV,52947,1512500.76
+2024-12-01,Panamá Este,Electrónica,TV,68232,2011203.58
+2025-01-01,Panamá Este,Electrónica,TV,41503,1144785.72
+2025-02-01,Panamá Este,Electrónica,TV,39165,1220795.01
+2025-03-01,Panamá Este,Electrónica,TV,46121,1289627.64
+2025-04-01,Panamá Este,Electrónica,TV,48774,1444788.35
+2025-05-01,Panamá Este,Electrónica,TV,54075,1279378.21
+2025-06-01,Panamá Este,Electrónica,TV,47516,1261644.1
+2025-07-01,Panamá Este,Electrónica,TV,53873,1630967.79
+2025-08-01,Panamá Este,Electrónica,TV,46035,1311890.99
+2025-09-01,Panamá Este,Electrónica,TV,53034,1359041.93
+2025-10-01,Panamá Este,Electrónica,TV,49459,1524619.13
+2022-01-01,Panamá Este,Electrónica,Celulares,36724,1717468.31
+2022-02-01,Panamá Este,Electrónica,Celulares,40186,1954737.22
+2022-03-01,Panamá Este,Electrónica,Celulares,46595,2246002.98
+2022-04-01,Panamá Este,Electrónica,Celulares,49331,2070019.31
+2022-05-01,Panamá Este,Electrónica,Celulares,42864,2351328.49
+2022-06-01,Panamá Este,Electrónica,Celulares,41891,2248502.25
+2022-07-01,Panamá Este,Electrónica,Celulares,47695,2420595.89
+2022-08-01,Panamá Este,Electrónica,Celulares,48437,2005097.07
+2022-09-01,Panamá Este,Electrónica,Celulares,41485,2151236.01
+2022-10-01,Panamá Este,Electrónica,Celulares,46500,2157020.72
+2022-11-01,Panamá Este,Electrónica,Celulares,60330,2799348.17
+2022-12-01,Panamá Este,Electrónica,Celulares,68595,3072361.69
+2023-01-01,Panamá Este,Electrónica,Celulares,37422,1728790.09
+2023-02-01,Panamá Este,Electrónica,Celulares,38545,2198727.3
+2023-03-01,Panamá Este,Electrónica,Celulares,52975,2177681.39
+2023-04-01,Panamá Este,Electrónica,Celulares,50666,2324960.25
+2023-05-01,Panamá Este,Electrónica,Celulares,45856,2145235.74
+2023-06-01,Panamá Este,Electrónica,Celulares,45647,2474849.96
+2023-07-01,Panamá Este,Electrónica,Celulares,59128,2814902.5
+2023-08-01,Panamá Este,Electrónica,Celulares,51364,2257651.08
+2023-09-01,Panamá Este,Electrónica,Celulares,52954,2530789.0
+2023-10-01,Panamá Este,Electrónica,Celulares,53448,2263404.22
+2023-11-01,Panamá Este,Electrónica,Celulares,60475,3066661.68
+2023-12-01,Panamá Este,Electrónica,Celulares,69798,3474085.4
+2024-01-01,Panamá Este,Electrónica,Celulares,39908,2041027.31
+2024-02-01,Panamá Este,Electrónica,Celulares,44188,1970042.43
+2024-03-01,Panamá Este,Electrónica,Celulares,53256,2802372.88
+2024-04-01,Panamá Este,Electrónica,Celulares,56918,2681235.49
+2024-05-01,Panamá Este,Electrónica,Celulares,55062,2464794.36
+2024-06-01,Panamá Este,Electrónica,Celulares,58198,2733931.82
+2024-07-01,Panamá Este,Electrónica,Celulares,58686,2698165.39
+2024-08-01,Panamá Este,Electrónica,Celulares,55118,2756174.69
+2024-09-01,Panamá Este,Electrónica,Celulares,55379,2366212.51
+2024-10-01,Panamá Este,Electrónica,Celulares,54952,2669444.39
+2024-11-01,Panamá Este,Electrónica,Celulares,67379,3102999.91
+2024-12-01,Panamá Este,Electrónica,Celulares,71580,3301173.53
+2025-01-01,Panamá Este,Electrónica,Celulares,44066,1981559.64
+2025-02-01,Panamá Este,Electrónica,Celulares,45875,2137080.91
+2025-03-01,Panamá Este,Electrónica,Celulares,57256,2768488.83
+2025-04-01,Panamá Este,Electrónica,Celulares,58466,2675159.99
+2025-05-01,Panamá Este,Electrónica,Celulares,60394,2840693.28
+2025-06-01,Panamá Este,Electrónica,Celulares,63891,2672915.98
+2025-07-01,Panamá Este,Electrónica,Celulares,65769,2941850.94
+2025-08-01,Panamá Este,Electrónica,Celulares,61466,2921392.57
+2025-09-01,Panamá Este,Electrónica,Celulares,58684,2534125.71
+2025-10-01,Panamá Este,Electrónica,Celulares,60182,3010374.92
+2022-01-01,Panamá Este,Electrónica,Audio,152494,1749040.82
+2022-02-01,Panamá Este,Electrónica,Audio,200292,2100040.87
+2022-03-01,Panamá Este,Electrónica,Audio,240696,2165187.4
+2022-04-01,Panamá Este,Electrónica,Audio,205062,2270633.3
+2022-05-01,Panamá Este,Electrónica,Audio,242594,2261871.56
+2022-06-01,Panamá Este,Electrónica,Audio,214823,2272154.59
+2022-07-01,Panamá Este,Electrónica,Audio,256604,2574531.68
+2022-08-01,Panamá Este,Electrónica,Audio,239376,2270679.9
+2022-09-01,Panamá Este,Electrónica,Audio,233158,2260502.15
+2022-10-01,Panamá Este,Electrónica,Audio,207398,2272756.36
+2022-11-01,Panamá Este,Electrónica,Audio,276194,2791225.69
+2022-12-01,Panamá Este,Electrónica,Audio,319271,3221977.85
+2023-01-01,Panamá Este,Electrónica,Audio,194111,1947004.47
+2023-02-01,Panamá Este,Electrónica,Audio,199784,1874988.38
+2023-03-01,Panamá Este,Electrónica,Audio,231055,2585911.69
+2023-04-01,Panamá Este,Electrónica,Audio,251604,2591054.87
+2023-05-01,Panamá Este,Electrónica,Audio,235444,2320010.13
+2023-06-01,Panamá Este,Electrónica,Audio,246631,2406288.01
+2023-07-01,Panamá Este,Electrónica,Audio,271313,2633949.32
+2023-08-01,Panamá Este,Electrónica,Audio,258227,2287816.31
+2023-09-01,Panamá Este,Electrónica,Audio,244360,2374260.53
+2023-10-01,Panamá Este,Electrónica,Audio,239733,2203391.5
+2023-11-01,Panamá Este,Electrónica,Audio,266787,2779889.32
+2023-12-01,Panamá Este,Electrónica,Audio,309699,3608984.54
+2024-01-01,Panamá Este,Electrónica,Audio,177534,1846350.43
+2024-02-01,Panamá Este,Electrónica,Audio,201963,2325920.09
+2024-03-01,Panamá Este,Electrónica,Audio,261306,2588908.59
+2024-04-01,Panamá Este,Electrónica,Audio,266549,2768100.44
+2024-05-01,Panamá Este,Electrónica,Audio,255819,2611126.04
+2024-06-01,Panamá Este,Electrónica,Audio,271027,2330649.94
+2024-07-01,Panamá Este,Electrónica,Audio,307206,2929199.54
+2024-08-01,Panamá Este,Electrónica,Audio,270569,2338463.25
+2024-09-01,Panamá Este,Electrónica,Audio,264205,2547230.41
+2024-10-01,Panamá Este,Electrónica,Audio,255946,2793602.61
+2024-11-01,Panamá Este,Electrónica,Audio,302031,2880464.55
+2024-12-01,Panamá Este,Electrónica,Audio,326419,3522380.05
+2025-01-01,Panamá Este,Electrónica,Audio,198317,2141688.84
+2025-02-01,Panamá Este,Electrónica,Audio,248191,2497977.4
+2025-03-01,Panamá Este,Electrónica,Audio,286479,2823415.36
+2025-04-01,Panamá Este,Electrónica,Audio,254529,2598036.65
+2025-05-01,Panamá Este,Electrónica,Audio,268052,2825416.43
+2025-06-01,Panamá Este,Electrónica,Audio,286948,2619087.95
+2025-07-01,Panamá Este,Electrónica,Audio,271156,3134277.94
+2025-08-01,Panamá Este,Electrónica,Audio,263777,2977986.97
+2025-09-01,Panamá Este,Electrónica,Audio,288843,2850962.09
+2025-10-01,Panamá Este,Electrónica,Audio,264668,2928216.22
+2022-01-01,Panamá Este,Electrónica,Electrodomésticos,77946,1747227.88
+2022-02-01,Panamá Este,Electrónica,Electrodomésticos,85323,1851935.31
+2022-03-01,Panamá Este,Electrónica,Electrodomésticos,113183,2333775.47
+2022-04-01,Panamá Este,Electrónica,Electrodomésticos,96752,2344365.25
+2022-05-01,Panamá Este,Electrónica,Electrodomésticos,114353,2359843.34
+2022-06-01,Panamá Este,Electrónica,Electrodomésticos,100898,2385863.16
+2022-07-01,Panamá Este,Electrónica,Electrodomésticos,124232,2389144.0
+2022-08-01,Panamá Este,Electrónica,Electrodomésticos,106955,2122564.34
+2022-09-01,Panamá Este,Electrónica,Electrodomésticos,111645,2238554.05
+2022-10-01,Panamá Este,Electrónica,Electrodomésticos,114942,2145603.37
+2022-11-01,Panamá Este,Electrónica,Electrodomésticos,120435,2696241.72
+2022-12-01,Panamá Este,Electrónica,Electrodomésticos,160247,3210063.25
+2023-01-01,Panamá Este,Electrónica,Electrodomésticos,82178,1832591.72
+2023-02-01,Panamá Este,Electrónica,Electrodomésticos,93060,1951301.14
+2023-03-01,Panamá Este,Electrónica,Electrodomésticos,108471,2197836.48
+2023-04-01,Panamá Este,Electrónica,Electrodomésticos,112976,2322010.26
+2023-05-01,Panamá Este,Electrónica,Electrodomésticos,104298,2186408.49
+2023-06-01,Panamá Este,Electrónica,Electrodomésticos,113252,2538441.56
+2023-07-01,Panamá Este,Electrónica,Electrodomésticos,124281,2510358.23
+2023-08-01,Panamá Este,Electrónica,Electrodomésticos,117917,2191996.54
+2023-09-01,Panamá Este,Electrónica,Electrodomésticos,119525,2131238.94
+2023-10-01,Panamá Este,Electrónica,Electrodomésticos,110713,2423401.53
+2023-11-01,Panamá Este,Electrónica,Electrodomésticos,129142,2903040.8
+2023-12-01,Panamá Este,Electrónica,Electrodomésticos,149317,3191524.57
+2024-01-01,Panamá Este,Electrónica,Electrodomésticos,84363,1726495.1
+2024-02-01,Panamá Este,Electrónica,Electrodomésticos,92821,2101323.05
+2024-03-01,Panamá Este,Electrónica,Electrodomésticos,116026,2422591.69
+2024-04-01,Panamá Este,Electrónica,Electrodomésticos,114296,2606834.85
+2024-05-01,Panamá Este,Electrónica,Electrodomésticos,130976,2570912.33
+2024-06-01,Panamá Este,Electrónica,Electrodomésticos,121183,2449468.22
+2024-07-01,Panamá Este,Electrónica,Electrodomésticos,127755,2613159.77
+2024-08-01,Panamá Este,Electrónica,Electrodomésticos,121729,2763390.0
+2024-09-01,Panamá Este,Electrónica,Electrodomésticos,111156,2494487.76
+2024-10-01,Panamá Este,Electrónica,Electrodomésticos,118460,2612451.02
+2024-11-01,Panamá Este,Electrónica,Electrodomésticos,147390,2803988.4
+2024-12-01,Panamá Este,Electrónica,Electrodomésticos,167349,3514550.62
+2025-01-01,Panamá Este,Electrónica,Electrodomésticos,94180,1828113.37
+2025-02-01,Panamá Este,Electrónica,Electrodomésticos,119630,2290563.72
+2025-03-01,Panamá Este,Electrónica,Electrodomésticos,137832,2941656.47
+2025-04-01,Panamá Este,Electrónica,Electrodomésticos,131251,2629504.48
+2025-05-01,Panamá Este,Electrónica,Electrodomésticos,129867,2443653.81
+2025-06-01,Panamá Este,Electrónica,Electrodomésticos,131181,2439325.21
+2025-07-01,Panamá Este,Electrónica,Electrodomésticos,132482,2894693.5
+2025-08-01,Panamá Este,Electrónica,Electrodomésticos,125403,2508812.01
+2025-09-01,Panamá Este,Electrónica,Electrodomésticos,116291,2435231.62
+2025-10-01,Panamá Este,Electrónica,Electrodomésticos,127463,2829781.39
+2022-01-01,Panamá Este,Hogar,Muebles,5979,259574.91
+2022-02-01,Panamá Este,Hogar,Muebles,5654,294537.6
+2022-03-01,Panamá Este,Hogar,Muebles,7888,329820.81
+2022-04-01,Panamá Este,Hogar,Muebles,7382,336956.55
+2022-05-01,Panamá Este,Hogar,Muebles,7536,308382.17
+2022-06-01,Panamá Este,Hogar,Muebles,7554,356486.62
+2022-07-01,Panamá Este,Hogar,Muebles,8592,377443.82
+2022-08-01,Panamá Este,Hogar,Muebles,7097,309724.94
+2022-09-01,Panamá Este,Hogar,Muebles,7684,352062.41
+2022-10-01,Panamá Este,Hogar,Muebles,7384,337521.65
+2022-11-01,Panamá Este,Hogar,Muebles,9327,369771.53
+2022-12-01,Panamá Este,Hogar,Muebles,11287,520368.2
+2023-01-01,Panamá Este,Hogar,Muebles,5508,295490.42
+2023-02-01,Panamá Este,Hogar,Muebles,7296,308080.75
+2023-03-01,Panamá Este,Hogar,Muebles,7170,332136.35
+2023-04-01,Panamá Este,Hogar,Muebles,7034,379924.94
+2023-05-01,Panamá Este,Hogar,Muebles,7099,360931.65
+2023-06-01,Panamá Este,Hogar,Muebles,7564,347231.42
+2023-07-01,Panamá Este,Hogar,Muebles,8821,396984.03
+2023-08-01,Panamá Este,Hogar,Muebles,7138,363137.84
+2023-09-01,Panamá Este,Hogar,Muebles,7039,366049.31
+2023-10-01,Panamá Este,Hogar,Muebles,8494,357265.36
+2023-11-01,Panamá Este,Hogar,Muebles,9977,442993.79
+2023-12-01,Panamá Este,Hogar,Muebles,11612,548507.18
+2024-01-01,Panamá Este,Hogar,Muebles,6712,280534.59
+2024-02-01,Panamá Este,Hogar,Muebles,7347,341704.75
+2024-03-01,Panamá Este,Hogar,Muebles,7653,414986.18
+2024-04-01,Panamá Este,Hogar,Muebles,8143,381255.16
+2024-05-01,Panamá Este,Hogar,Muebles,8682,380291.75
+2024-06-01,Panamá Este,Hogar,Muebles,7946,392497.29
+2024-07-01,Panamá Este,Hogar,Muebles,9485,430840.71
+2024-08-01,Panamá Este,Hogar,Muebles,7521,408227.01
+2024-09-01,Panamá Este,Hogar,Muebles,7989,382832.51
+2024-10-01,Panamá Este,Hogar,Muebles,8393,422807.51
+2024-11-01,Panamá Este,Hogar,Muebles,10237,420902.99
+2024-12-01,Panamá Este,Hogar,Muebles,11815,484989.6
+2025-01-01,Panamá Este,Hogar,Muebles,6894,315542.06
+2025-02-01,Panamá Este,Hogar,Muebles,6774,333837.14
+2025-03-01,Panamá Este,Hogar,Muebles,8137,387998.0
+2025-04-01,Panamá Este,Hogar,Muebles,9495,393851.61
+2025-05-01,Panamá Este,Hogar,Muebles,9164,389280.19
+2025-06-01,Panamá Este,Hogar,Muebles,8158,370842.97
+2025-07-01,Panamá Este,Hogar,Muebles,10393,492626.56
+2025-08-01,Panamá Este,Hogar,Muebles,8387,386390.73
+2025-09-01,Panamá Este,Hogar,Muebles,8804,428402.8
+2025-10-01,Panamá Este,Hogar,Muebles,8215,430740.96
+2022-01-01,Panamá Este,Hogar,Limpieza,20188,525630.42
+2022-02-01,Panamá Este,Hogar,Limpieza,25262,601834.81
+2022-03-01,Panamá Este,Hogar,Limpieza,27312,785417.16
+2022-04-01,Panamá Este,Hogar,Limpieza,26096,804039.36
+2022-05-01,Panamá Este,Hogar,Limpieza,27561,726419.22
+2022-06-01,Panamá Este,Hogar,Limpieza,27052,800615.85
+2022-07-01,Panamá Este,Hogar,Limpieza,33327,785441.23
+2022-08-01,Panamá Este,Hogar,Limpieza,27295,736983.44
+2022-09-01,Panamá Este,Hogar,Limpieza,29992,699899.37
+2022-10-01,Panamá Este,Hogar,Limpieza,30576,761276.74
+2022-11-01,Panamá Este,Hogar,Limpieza,33574,973689.02
+2022-12-01,Panamá Este,Hogar,Limpieza,42950,1058119.68
+2023-01-01,Panamá Este,Hogar,Limpieza,22172,576715.57
+2023-02-01,Panamá Este,Hogar,Limpieza,28151,692630.46
+2023-03-01,Panamá Este,Hogar,Limpieza,27817,731772.3
+2023-04-01,Panamá Este,Hogar,Limpieza,31440,852982.72
+2023-05-01,Panamá Este,Hogar,Limpieza,30269,791949.18
+2023-06-01,Panamá Este,Hogar,Limpieza,29625,783443.48
+2023-07-01,Panamá Este,Hogar,Limpieza,34222,885558.02
+2023-08-01,Panamá Este,Hogar,Limpieza,31542,811213.33
+2023-09-01,Panamá Este,Hogar,Limpieza,27302,723676.47
+2023-10-01,Panamá Este,Hogar,Limpieza,28288,820367.9
+2023-11-01,Panamá Este,Hogar,Limpieza,37917,900732.98
+2023-12-01,Panamá Este,Hogar,Limpieza,43841,1155459.27
+2024-01-01,Panamá Este,Hogar,Limpieza,26559,675397.74
+2024-02-01,Panamá Este,Hogar,Limpieza,28972,762779.25
+2024-03-01,Panamá Este,Hogar,Limpieza,35314,854842.75
+2024-04-01,Panamá Este,Hogar,Limpieza,33705,849372.59
+2024-05-01,Panamá Este,Hogar,Limpieza,31085,785537.48
+2024-06-01,Panamá Este,Hogar,Limpieza,29836,892546.37
+2024-07-01,Panamá Este,Hogar,Limpieza,37641,888012.73
+2024-08-01,Panamá Este,Hogar,Limpieza,33327,845400.9
+2024-09-01,Panamá Este,Hogar,Limpieza,29466,809460.91
+2024-10-01,Panamá Este,Hogar,Limpieza,31487,784006.7
+2024-11-01,Panamá Este,Hogar,Limpieza,42423,1041456.16
+2024-12-01,Panamá Este,Hogar,Limpieza,45354,1078779.17
+2025-01-01,Panamá Este,Hogar,Limpieza,25618,711882.99
+2025-02-01,Panamá Este,Hogar,Limpieza,29181,740540.14
+2025-03-01,Panamá Este,Hogar,Limpieza,32608,813814.91
+2025-04-01,Panamá Este,Hogar,Limpieza,33715,906224.35
+2025-05-01,Panamá Este,Hogar,Limpieza,33722,822263.36
+2025-06-01,Panamá Este,Hogar,Limpieza,31524,863733.7
+2025-07-01,Panamá Este,Hogar,Limpieza,40124,1035806.02
+2025-08-01,Panamá Este,Hogar,Limpieza,34046,825127.49
+2025-09-01,Panamá Este,Hogar,Limpieza,36855,965578.5
+2025-10-01,Panamá Este,Hogar,Limpieza,37050,814481.36
+2022-01-01,Panamá Este,Hogar,Cocina,12536,348011.34
+2022-02-01,Panamá Este,Hogar,Cocina,14978,388170.47
+2022-03-01,Panamá Este,Hogar,Cocina,17252,469847.51
+2022-04-01,Panamá Este,Hogar,Cocina,17287,466102.25
+2022-05-01,Panamá Este,Hogar,Cocina,18705,402398.54
+2022-06-01,Panamá Este,Hogar,Cocina,16864,434228.53
+2022-07-01,Panamá Este,Hogar,Cocina,20194,529963.92
+2022-08-01,Panamá Este,Hogar,Cocina,18104,410363.73
+2022-09-01,Panamá Este,Hogar,Cocina,18095,464600.64
+2022-10-01,Panamá Este,Hogar,Cocina,18434,485669.65
+2022-11-01,Panamá Este,Hogar,Cocina,21630,484609.22
+2022-12-01,Panamá Este,Hogar,Cocina,26889,643622.05
+2023-01-01,Panamá Este,Hogar,Cocina,15052,359014.94
+2023-02-01,Panamá Este,Hogar,Cocina,16635,415976.04
+2023-03-01,Panamá Este,Hogar,Cocina,20668,441802.19
+2023-04-01,Panamá Este,Hogar,Cocina,19800,437723.23
+2023-05-01,Panamá Este,Hogar,Cocina,18579,497832.74
+2023-06-01,Panamá Este,Hogar,Cocina,18253,512906.15
+2023-07-01,Panamá Este,Hogar,Cocina,19845,559820.17
+2023-08-01,Panamá Este,Hogar,Cocina,20938,485975.69
+2023-09-01,Panamá Este,Hogar,Cocina,20204,443201.74
+2023-10-01,Panamá Este,Hogar,Cocina,21085,499873.24
+2023-11-01,Panamá Este,Hogar,Cocina,23747,548262.85
+2023-12-01,Panamá Este,Hogar,Cocina,27000,729906.58
+2024-01-01,Panamá Este,Hogar,Cocina,14403,418971.61
+2024-02-01,Panamá Este,Hogar,Cocina,18514,463370.5
+2024-03-01,Panamá Este,Hogar,Cocina,21404,570200.64
+2024-04-01,Panamá Este,Hogar,Cocina,23123,474195.75
+2024-05-01,Panamá Este,Hogar,Cocina,19959,547948.11
+2024-06-01,Panamá Este,Hogar,Cocina,21188,505466.21
+2024-07-01,Panamá Este,Hogar,Cocina,23863,622296.26
+2024-08-01,Panamá Este,Hogar,Cocina,21667,498814.11
+2024-09-01,Panamá Este,Hogar,Cocina,21316,546761.01
+2024-10-01,Panamá Este,Hogar,Cocina,22224,562749.95
+2024-11-01,Panamá Este,Hogar,Cocina,23779,570320.17
+2024-12-01,Panamá Este,Hogar,Cocina,30812,717527.81
+2025-01-01,Panamá Este,Hogar,Cocina,17564,448567.45
+2025-02-01,Panamá Este,Hogar,Cocina,20980,478680.37
+2025-03-01,Panamá Este,Hogar,Cocina,24459,541824.09
+2025-04-01,Panamá Este,Hogar,Cocina,22025,536431.45
+2025-05-01,Panamá Este,Hogar,Cocina,21847,526397.14
+2025-06-01,Panamá Este,Hogar,Cocina,25074,608866.8
+2025-07-01,Panamá Este,Hogar,Cocina,25295,634525.8
+2025-08-01,Panamá Este,Hogar,Cocina,24730,520130.94
+2025-09-01,Panamá Este,Hogar,Cocina,21334,554931.71
+2025-10-01,Panamá Este,Hogar,Cocina,23524,553244.3
+2022-01-01,Panamá Este,Hogar,Decoración,11482,489582.11
+2022-02-01,Panamá Este,Hogar,Decoración,13053,601766.46
+2022-03-01,Panamá Este,Hogar,Decoración,14123,684000.87
+2022-04-01,Panamá Este,Hogar,Decoración,15405,599216.2
+2022-05-01,Panamá Este,Hogar,Decoración,14786,610393.51
+2022-06-01,Panamá Este,Hogar,Decoración,13111,592076.14
+2022-07-01,Panamá Este,Hogar,Decoración,15397,741305.11
+2022-08-01,Panamá Este,Hogar,Decoración,14676,649845.24
+2022-09-01,Panamá Este,Hogar,Decoración,13352,608682.34
+2022-10-01,Panamá Este,Hogar,Decoración,14458,716864.72
+2022-11-01,Panamá Este,Hogar,Decoración,17437,792736.34
+2022-12-01,Panamá Este,Hogar,Decoración,18359,871944.27
+2023-01-01,Panamá Este,Hogar,Decoración,11418,526446.89
+2023-02-01,Panamá Este,Hogar,Decoración,13468,617998.94
+2023-03-01,Panamá Este,Hogar,Decoración,15025,642361.63
+2023-04-01,Panamá Este,Hogar,Decoración,13562,670219.89
+2023-05-01,Panamá Este,Hogar,Decoración,13553,744932.87
+2023-06-01,Panamá Este,Hogar,Decoración,14599,696182.67
+2023-07-01,Panamá Este,Hogar,Decoración,17941,779220.69
+2023-08-01,Panamá Este,Hogar,Decoración,14213,692413.92
+2023-09-01,Panamá Este,Hogar,Decoración,15432,637822.21
+2023-10-01,Panamá Este,Hogar,Decoración,14193,654926.13
+2023-11-01,Panamá Este,Hogar,Decoración,17391,833040.25
+2023-12-01,Panamá Este,Hogar,Decoración,22505,925432.41
+2024-01-01,Panamá Este,Hogar,Decoración,12597,511921.65
+2024-02-01,Panamá Este,Hogar,Decoración,12547,681380.56
+2024-03-01,Panamá Este,Hogar,Decoración,15832,822257.59
+2024-04-01,Panamá Este,Hogar,Decoración,14549,794047.44
+2024-05-01,Panamá Este,Hogar,Decoración,16000,803144.62
+2024-06-01,Panamá Este,Hogar,Decoración,16583,711364.67
+2024-07-01,Panamá Este,Hogar,Decoración,16319,901089.71
+2024-08-01,Panamá Este,Hogar,Decoración,15383,704606.31
+2024-09-01,Panamá Este,Hogar,Decoración,15733,817792.76
+2024-10-01,Panamá Este,Hogar,Decoración,17409,824301.8
+2024-11-01,Panamá Este,Hogar,Decoración,21175,938199.92
+2024-12-01,Panamá Este,Hogar,Decoración,20439,1151150.38
+2025-01-01,Panamá Este,Hogar,Decoración,13546,609571.42
+2025-02-01,Panamá Este,Hogar,Decoración,14216,648602.87
+2025-03-01,Panamá Este,Hogar,Decoración,16796,791512.1
+2025-04-01,Panamá Este,Hogar,Decoración,18038,816613.02
+2025-05-01,Panamá Este,Hogar,Decoración,18601,733168.41
+2025-06-01,Panamá Este,Hogar,Decoración,18713,821227.48
+2025-07-01,Panamá Este,Hogar,Decoración,19173,966632.46
+2025-08-01,Panamá Este,Hogar,Decoración,16674,751930.34
+2025-09-01,Panamá Este,Hogar,Decoración,18152,848522.7
+2025-10-01,Panamá Este,Hogar,Decoración,16310,867008.49
+2022-01-01,Panamá Este,Ropa,Hombre,12806,496451.66
+2022-02-01,Panamá Este,Ropa,Hombre,15294,568428.66
+2022-03-01,Panamá Este,Ropa,Hombre,20401,665659.62
+2022-04-01,Panamá Este,Ropa,Hombre,18375,677669.25
+2022-05-01,Panamá Este,Ropa,Hombre,18957,560458.88
+2022-06-01,Panamá Este,Ropa,Hombre,18902,661012.64
+2022-07-01,Panamá Este,Ropa,Hombre,21034,715125.1
+2022-08-01,Panamá Este,Ropa,Hombre,17134,585362.24
+2022-09-01,Panamá Este,Ropa,Hombre,18264,675434.59
+2022-10-01,Panamá Este,Ropa,Hombre,19620,575395.16
+2022-11-01,Panamá Este,Ropa,Hombre,21189,769408.05
+2022-12-01,Panamá Este,Ropa,Hombre,24736,818847.86
+2023-01-01,Panamá Este,Ropa,Hombre,13627,491018.25
+2023-02-01,Panamá Este,Ropa,Hombre,16907,588962.14
+2023-03-01,Panamá Este,Ropa,Hombre,21685,672207.91
+2023-04-01,Panamá Este,Ropa,Hombre,18338,654176.05
+2023-05-01,Panamá Este,Ropa,Hombre,18899,640745.58
+2023-06-01,Panamá Este,Ropa,Hombre,19378,708894.2
+2023-07-01,Panamá Este,Ropa,Hombre,23184,678165.02
+2023-08-01,Panamá Este,Ropa,Hombre,20710,654521.37
+2023-09-01,Panamá Este,Ropa,Hombre,19804,717403.85
+2023-10-01,Panamá Este,Ropa,Hombre,21187,709715.97
+2023-11-01,Panamá Este,Ropa,Hombre,24702,780779.92
+2023-12-01,Panamá Este,Ropa,Hombre,30434,978223.73
+2024-01-01,Panamá Este,Ropa,Hombre,17232,568437.98
+2024-02-01,Panamá Este,Ropa,Hombre,17454,652184.2
+2024-03-01,Panamá Este,Ropa,Hombre,20615,718242.11
+2024-04-01,Panamá Este,Ropa,Hombre,19984,669826.15
+2024-05-01,Panamá Este,Ropa,Hombre,20898,677065.97
+2024-06-01,Panamá Este,Ropa,Hombre,23761,682816.12
+2024-07-01,Panamá Este,Ropa,Hombre,23315,797787.13
+2024-08-01,Panamá Este,Ropa,Hombre,20395,645386.26
+2024-09-01,Panamá Este,Ropa,Hombre,22737,731275.2
+2024-10-01,Panamá Este,Ropa,Hombre,21786,692591.94
+2024-11-01,Panamá Este,Ropa,Hombre,24107,819301.96
+2024-12-01,Panamá Este,Ropa,Hombre,29522,1072313.83
+2025-01-01,Panamá Este,Ropa,Hombre,17079,568041.12
+2025-02-01,Panamá Este,Ropa,Hombre,20693,596411.6
+2025-03-01,Panamá Este,Ropa,Hombre,20947,813389.72
+2025-04-01,Panamá Este,Ropa,Hombre,22098,694420.97
+2025-05-01,Panamá Este,Ropa,Hombre,23250,798120.18
+2025-06-01,Panamá Este,Ropa,Hombre,22097,805321.01
+2025-07-01,Panamá Este,Ropa,Hombre,26140,815087.14
+2025-08-01,Panamá Este,Ropa,Hombre,23084,813090.6
+2025-09-01,Panamá Este,Ropa,Hombre,22527,765886.94
+2025-10-01,Panamá Este,Ropa,Hombre,25250,757890.74
+2022-01-01,Panamá Este,Ropa,Mujer,10120,339045.72
+2022-02-01,Panamá Este,Ropa,Mujer,10934,418593.37
+2022-03-01,Panamá Este,Ropa,Mujer,12467,491975.23
+2022-04-01,Panamá Este,Ropa,Mujer,11792,478262.7
+2022-05-01,Panamá Este,Ropa,Mujer,13660,533624.05
+2022-06-01,Panamá Este,Ropa,Mujer,11857,523269.8
+2022-07-01,Panamá Este,Ropa,Mujer,13470,561519.18
+2022-08-01,Panamá Este,Ropa,Mujer,12195,512153.25
+2022-09-01,Panamá Este,Ropa,Mujer,13676,487341.74
+2022-10-01,Panamá Este,Ropa,Mujer,13170,532452.25
+2022-11-01,Panamá Este,Ropa,Mujer,16182,612258.29
+2022-12-01,Panamá Este,Ropa,Mujer,16933,719029.66
+2023-01-01,Panamá Este,Ropa,Mujer,10596,427662.35
+2023-02-01,Panamá Este,Ropa,Mujer,11884,431564.62
+2023-03-01,Panamá Este,Ropa,Mujer,14701,564407.62
+2023-04-01,Panamá Este,Ropa,Mujer,14903,499339.39
+2023-05-01,Panamá Este,Ropa,Mujer,12439,515302.69
+2023-06-01,Panamá Este,Ropa,Mujer,14263,514267.74
+2023-07-01,Panamá Este,Ropa,Mujer,13803,640906.01
+2023-08-01,Panamá Este,Ropa,Mujer,13918,569668.37
+2023-09-01,Panamá Este,Ropa,Mujer,13198,553145.03
+2023-10-01,Panamá Este,Ropa,Mujer,13251,555898.1
+2023-11-01,Panamá Este,Ropa,Mujer,16054,646022.45
+2023-12-01,Panamá Este,Ropa,Mujer,19765,811018.23
+2024-01-01,Panamá Este,Ropa,Mujer,10822,431499.64
+2024-02-01,Panamá Este,Ropa,Mujer,13276,477704.21
+2024-03-01,Panamá Este,Ropa,Mujer,14640,536961.27
+2024-04-01,Panamá Este,Ropa,Mujer,13636,608721.03
+2024-05-01,Panamá Este,Ropa,Mujer,15772,602760.53
+2024-06-01,Panamá Este,Ropa,Mujer,14285,562446.84
+2024-07-01,Panamá Este,Ropa,Mujer,16196,573197.23
+2024-08-01,Panamá Este,Ropa,Mujer,15478,614800.14
+2024-09-01,Panamá Este,Ropa,Mujer,14424,519502.12
+2024-10-01,Panamá Este,Ropa,Mujer,13601,599220.26
+2024-11-01,Panamá Este,Ropa,Mujer,17458,755898.08
+2024-12-01,Panamá Este,Ropa,Mujer,22752,796019.28
+2025-01-01,Panamá Este,Ropa,Mujer,12463,442781.37
+2025-02-01,Panamá Este,Ropa,Mujer,14207,551619.27
+2025-03-01,Panamá Este,Ropa,Mujer,16587,662960.51
+2025-04-01,Panamá Este,Ropa,Mujer,15187,629208.84
+2025-05-01,Panamá Este,Ropa,Mujer,15896,681651.52
+2025-06-01,Panamá Este,Ropa,Mujer,16971,567520.01
+2025-07-01,Panamá Este,Ropa,Mujer,16359,686419.42
+2025-08-01,Panamá Este,Ropa,Mujer,15442,650657.42
+2025-09-01,Panamá Este,Ropa,Mujer,15437,668635.17
+2025-10-01,Panamá Este,Ropa,Mujer,15940,583428.05
+2022-01-01,Panamá Este,Ropa,Niños,50189,631836.55
+2022-02-01,Panamá Este,Ropa,Niños,64093,601816.14
+2022-03-01,Panamá Este,Ropa,Niños,71847,776413.9
+2022-04-01,Panamá Este,Ropa,Niños,79945,842733.8
+2022-05-01,Panamá Este,Ropa,Niños,74147,777599.91
+2022-06-01,Panamá Este,Ropa,Niños,79995,721353.62
+2022-07-01,Panamá Este,Ropa,Niños,76361,859875.32
+2022-08-01,Panamá Este,Ropa,Niños,76849,723603.18
+2022-09-01,Panamá Este,Ropa,Niños,75253,772094.77
+2022-10-01,Panamá Este,Ropa,Niños,77050,703546.24
+2022-11-01,Panamá Este,Ropa,Niños,83200,942346.3
+2022-12-01,Panamá Este,Ropa,Niños,106338,1080305.11
+2023-01-01,Panamá Este,Ropa,Niños,59177,648936.0
+2023-02-01,Panamá Este,Ropa,Niños,70352,720097.87
+2023-03-01,Panamá Este,Ropa,Niños,76203,833783.81
+2023-04-01,Panamá Este,Ropa,Niños,85092,856928.91
+2023-05-01,Panamá Este,Ropa,Niños,72371,766801.09
+2023-06-01,Panamá Este,Ropa,Niños,83783,841338.54
+2023-07-01,Panamá Este,Ropa,Niños,93102,848597.49
+2023-08-01,Panamá Este,Ropa,Niños,83942,895854.51
+2023-09-01,Panamá Este,Ropa,Niños,79135,754316.83
+2023-10-01,Panamá Este,Ropa,Niños,77961,814096.47
+2023-11-01,Panamá Este,Ropa,Niños,104122,1029507.23
+2023-12-01,Panamá Este,Ropa,Niños,104522,1146126.21
+2024-01-01,Panamá Este,Ropa,Niños,64148,610480.16
+2024-02-01,Panamá Este,Ropa,Niños,74484,761377.79
+2024-03-01,Panamá Este,Ropa,Niños,88140,911381.87
+2024-04-01,Panamá Este,Ropa,Niños,79720,922400.14
+2024-05-01,Panamá Este,Ropa,Niños,87346,863811.48
+2024-06-01,Panamá Este,Ropa,Niños,90131,897560.93
+2024-07-01,Panamá Este,Ropa,Niños,84821,965289.35
+2024-08-01,Panamá Este,Ropa,Niños,91710,916774.71
+2024-09-01,Panamá Este,Ropa,Niños,76762,901087.78
+2024-10-01,Panamá Este,Ropa,Niños,82295,890842.28
+2024-11-01,Panamá Este,Ropa,Niños,91836,1010254.45
+2024-12-01,Panamá Este,Ropa,Niños,108598,1117209.75
+2025-01-01,Panamá Este,Ropa,Niños,73833,667053.13
+2025-02-01,Panamá Este,Ropa,Niños,75075,746771.75
+2025-03-01,Panamá Este,Ropa,Niños,89596,941732.93
+2025-04-01,Panamá Este,Ropa,Niños,85786,972782.26
+2025-05-01,Panamá Este,Ropa,Niños,92731,896825.9
+2025-06-01,Panamá Este,Ropa,Niños,92689,1034966.96
+2025-07-01,Panamá Este,Ropa,Niños,97503,943305.74
+2025-08-01,Panamá Este,Ropa,Niños,87927,1003235.9
+2025-09-01,Panamá Este,Ropa,Niños,97968,975245.8
+2025-10-01,Panamá Este,Ropa,Niños,88841,927360.77
+2022-01-01,Panamá Este,Ropa,Accesorios,8018,386715.0
+2022-02-01,Panamá Este,Ropa,Accesorios,9439,477113.62
+2022-03-01,Panamá Este,Ropa,Accesorios,11153,575143.05
+2022-04-01,Panamá Este,Ropa,Accesorios,11014,574598.49
+2022-05-01,Panamá Este,Ropa,Accesorios,11628,550851.95
+2022-06-01,Panamá Este,Ropa,Accesorios,11676,501159.01
+2022-07-01,Panamá Este,Ropa,Accesorios,12388,587796.13
+2022-08-01,Panamá Este,Ropa,Accesorios,11255,594657.01
+2022-09-01,Panamá Este,Ropa,Accesorios,12355,557763.03
+2022-10-01,Panamá Este,Ropa,Accesorios,12264,552704.01
+2022-11-01,Panamá Este,Ropa,Accesorios,13378,627770.73
+2022-12-01,Panamá Este,Ropa,Accesorios,17575,747695.02
+2023-01-01,Panamá Este,Ropa,Accesorios,10206,477783.22
+2023-02-01,Panamá Este,Ropa,Accesorios,10239,518516.49
+2023-03-01,Panamá Este,Ropa,Accesorios,12115,624297.25
+2023-04-01,Panamá Este,Ropa,Accesorios,12493,584974.05
+2023-05-01,Panamá Este,Ropa,Accesorios,13580,605743.29
+2023-06-01,Panamá Este,Ropa,Accesorios,13418,560655.54
+2023-07-01,Panamá Este,Ropa,Accesorios,12635,676086.38
+2023-08-01,Panamá Este,Ropa,Accesorios,12211,581816.3
+2023-09-01,Panamá Este,Ropa,Accesorios,12612,583580.8
+2023-10-01,Panamá Este,Ropa,Accesorios,12486,607995.55
+2023-11-01,Panamá Este,Ropa,Accesorios,14057,770253.06
+2023-12-01,Panamá Este,Ropa,Accesorios,18724,754439.81
+2024-01-01,Panamá Este,Ropa,Accesorios,10430,507521.84
+2024-02-01,Panamá Este,Ropa,Accesorios,12188,517684.62
+2024-03-01,Panamá Este,Ropa,Accesorios,14395,628298.74
+2024-04-01,Panamá Este,Ropa,Accesorios,14098,574668.03
+2024-05-01,Panamá Este,Ropa,Accesorios,13268,610141.66
+2024-06-01,Panamá Este,Ropa,Accesorios,13728,635760.14
+2024-07-01,Panamá Este,Ropa,Accesorios,13771,636924.55
+2024-08-01,Panamá Este,Ropa,Accesorios,13898,634294.15
+2024-09-01,Panamá Este,Ropa,Accesorios,12569,689705.17
+2024-10-01,Panamá Este,Ropa,Accesorios,13952,585277.09
+2024-11-01,Panamá Este,Ropa,Accesorios,15246,802838.69
+2024-12-01,Panamá Este,Ropa,Accesorios,17365,873524.79
+2025-01-01,Panamá Este,Ropa,Accesorios,10116,528863.82
+2025-02-01,Panamá Este,Ropa,Accesorios,11064,553460.66
+2025-03-01,Panamá Este,Ropa,Accesorios,15089,637349.84
+2025-04-01,Panamá Este,Ropa,Accesorios,15128,637482.57
+2025-05-01,Panamá Este,Ropa,Accesorios,14499,625175.91
+2025-06-01,Panamá Este,Ropa,Accesorios,13477,640927.39
+2025-07-01,Panamá Este,Ropa,Accesorios,14577,777027.98
+2025-08-01,Panamá Este,Ropa,Accesorios,13066,736135.93
+2025-09-01,Panamá Este,Ropa,Accesorios,13490,726894.05
+2025-10-01,Panamá Este,Ropa,Accesorios,15586,709249.93
+2022-01-01,David,Abarrotes,Bebidas,95213,1448225.74
+2022-02-01,David,Abarrotes,Bebidas,116800,1491557.27
+2022-03-01,David,Abarrotes,Bebidas,120262,1790290.85
+2022-04-01,David,Abarrotes,Bebidas,118317,1827947.13
+2022-05-01,David,Abarrotes,Bebidas,122360,1773206.99
+2022-06-01,David,Abarrotes,Bebidas,128652,1802386.66
+2022-07-01,David,Abarrotes,Bebidas,140926,1992602.26
+2022-08-01,David,Abarrotes,Bebidas,136042,1837321.04
+2022-09-01,David,Abarrotes,Bebidas,125405,1994513.25
+2022-10-01,David,Abarrotes,Bebidas,127444,1927080.14
+2022-11-01,David,Abarrotes,Bebidas,138483,2501408.52
+2022-12-01,David,Abarrotes,Bebidas,175752,2614305.06
+2023-01-01,David,Abarrotes,Bebidas,106520,1615494.34
+2023-02-01,David,Abarrotes,Bebidas,105895,1871876.6
+2023-03-01,David,Abarrotes,Bebidas,131904,2123290.27
+2023-04-01,David,Abarrotes,Bebidas,129892,2013778.32
+2023-05-01,David,Abarrotes,Bebidas,125313,2153881.58
+2023-06-01,David,Abarrotes,Bebidas,137377,1928420.96
+2023-07-01,David,Abarrotes,Bebidas,142085,2177132.81
+2023-08-01,David,Abarrotes,Bebidas,144656,2069052.37
+2023-09-01,David,Abarrotes,Bebidas,147549,2080828.76
+2023-10-01,David,Abarrotes,Bebidas,139207,1853998.62
+2023-11-01,David,Abarrotes,Bebidas,181488,2678881.48
+2023-12-01,David,Abarrotes,Bebidas,191217,2982736.35
+2024-01-01,David,Abarrotes,Bebidas,111938,1657526.25
+2024-02-01,David,Abarrotes,Bebidas,138905,2043013.69
+2024-03-01,David,Abarrotes,Bebidas,140861,2184992.27
+2024-04-01,David,Abarrotes,Bebidas,162028,2424474.12
+2024-05-01,David,Abarrotes,Bebidas,135243,2217370.23
+2024-06-01,David,Abarrotes,Bebidas,147257,2041300.6
+2024-07-01,David,Abarrotes,Bebidas,149657,2561988.16
+2024-08-01,David,Abarrotes,Bebidas,155677,2291077.66
+2024-09-01,David,Abarrotes,Bebidas,152080,2332701.42
+2024-10-01,David,Abarrotes,Bebidas,155005,2411647.75
+2024-11-01,David,Abarrotes,Bebidas,174140,2801101.1
+2024-12-01,David,Abarrotes,Bebidas,202955,3165665.28
+2025-01-01,David,Abarrotes,Bebidas,109509,1917995.75
+2025-02-01,David,Abarrotes,Bebidas,132428,2099045.16
+2025-03-01,David,Abarrotes,Bebidas,174409,2342905.53
+2025-04-01,David,Abarrotes,Bebidas,156739,2570841.94
+2025-05-01,David,Abarrotes,Bebidas,171263,2254013.52
+2025-06-01,David,Abarrotes,Bebidas,171615,2489224.84
+2025-07-01,David,Abarrotes,Bebidas,172201,2825796.22
+2025-08-01,David,Abarrotes,Bebidas,164858,2497184.82
+2025-09-01,David,Abarrotes,Bebidas,147620,2480935.2
+2025-10-01,David,Abarrotes,Bebidas,147887,2507362.84
+2022-01-01,David,Abarrotes,Lácteos,16067,564226.65
+2022-02-01,David,Abarrotes,Lácteos,19643,636041.84
+2022-03-01,David,Abarrotes,Lácteos,23868,722819.93
+2022-04-01,David,Abarrotes,Lácteos,20458,771592.65
+2022-05-01,David,Abarrotes,Lácteos,23657,783668.23
+2022-06-01,David,Abarrotes,Lácteos,23858,672809.63
+2022-07-01,David,Abarrotes,Lácteos,24468,771666.14
+2022-08-01,David,Abarrotes,Lácteos,24583,776922.29
+2022-09-01,David,Abarrotes,Lácteos,23702,728247.14
+2022-10-01,David,Abarrotes,Lácteos,23643,769358.79
+2022-11-01,David,Abarrotes,Lácteos,28233,866804.43
+2022-12-01,David,Abarrotes,Lácteos,29190,1020408.72
+2023-01-01,David,Abarrotes,Lácteos,17016,558606.23
+2023-02-01,David,Abarrotes,Lácteos,20293,646615.61
+2023-03-01,David,Abarrotes,Lácteos,22913,816229.92
+2023-04-01,David,Abarrotes,Lácteos,23640,788691.59
+2023-05-01,David,Abarrotes,Lácteos,25916,843231.43
+2023-06-01,David,Abarrotes,Lácteos,25608,855746.84
+2023-07-01,David,Abarrotes,Lácteos,27141,886638.95
+2023-08-01,David,Abarrotes,Lácteos,25770,840667.76
+2023-09-01,David,Abarrotes,Lácteos,25413,768505.94
+2023-10-01,David,Abarrotes,Lácteos,23706,785783.15
+2023-11-01,David,Abarrotes,Lácteos,27132,1000074.11
+2023-12-01,David,Abarrotes,Lácteos,33763,1093659.36
+2024-01-01,David,Abarrotes,Lácteos,20263,654552.87
+2024-02-01,David,Abarrotes,Lácteos,21649,683056.05
+2024-03-01,David,Abarrotes,Lácteos,26658,874669.47
+2024-04-01,David,Abarrotes,Lácteos,23705,919561.3
+2024-05-01,David,Abarrotes,Lácteos,27078,920783.48
+2024-06-01,David,Abarrotes,Lácteos,27412,896035.19
+2024-07-01,David,Abarrotes,Lácteos,29552,989677.78
+2024-08-01,David,Abarrotes,Lácteos,28209,867492.76
+2024-09-01,David,Abarrotes,Lácteos,27483,872079.09
+2024-10-01,David,Abarrotes,Lácteos,27878,794724.4
+2024-11-01,David,Abarrotes,Lácteos,33642,1017514.49
+2024-12-01,David,Abarrotes,Lácteos,38294,1188761.15
+2025-01-01,David,Abarrotes,Lácteos,21480,753250.11
+2025-02-01,David,Abarrotes,Lácteos,21199,771198.85
+2025-03-01,David,Abarrotes,Lácteos,27487,929051.18
+2025-04-01,David,Abarrotes,Lácteos,28070,926090.48
+2025-05-01,David,Abarrotes,Lácteos,26591,945135.8
+2025-06-01,David,Abarrotes,Lácteos,26669,965645.87
+2025-07-01,David,Abarrotes,Lácteos,33251,956319.79
+2025-08-01,David,Abarrotes,Lácteos,29844,925257.54
+2025-09-01,David,Abarrotes,Lácteos,29608,979939.46
+2025-10-01,David,Abarrotes,Lácteos,27155,913185.71
+2022-01-01,David,Abarrotes,Enlatados,19163,436236.95
+2022-02-01,David,Abarrotes,Enlatados,24158,471663.16
+2022-03-01,David,Abarrotes,Enlatados,27056,647082.74
+2022-04-01,David,Abarrotes,Enlatados,28217,629799.23
+2022-05-01,David,Abarrotes,Enlatados,29143,646830.66
+2022-06-01,David,Abarrotes,Enlatados,25498,557916.28
+2022-07-01,David,Abarrotes,Enlatados,27143,721629.7
+2022-08-01,David,Abarrotes,Enlatados,28825,629280.9
+2022-09-01,David,Abarrotes,Enlatados,27900,622381.42
+2022-10-01,David,Abarrotes,Enlatados,28391,629906.28
+2022-11-01,David,Abarrotes,Enlatados,34977,791261.2
+2022-12-01,David,Abarrotes,Enlatados,40537,875385.06
+2023-01-01,David,Abarrotes,Enlatados,24144,505703.6
+2023-02-01,David,Abarrotes,Enlatados,25234,619348.11
+2023-03-01,David,Abarrotes,Enlatados,29407,697598.46
+2023-04-01,David,Abarrotes,Enlatados,28897,655870.94
+2023-05-01,David,Abarrotes,Enlatados,27434,691051.66
+2023-06-01,David,Abarrotes,Enlatados,29903,648829.13
+2023-07-01,David,Abarrotes,Enlatados,30977,690304.0
+2023-08-01,David,Abarrotes,Enlatados,31959,676381.69
+2023-09-01,David,Abarrotes,Enlatados,29966,720351.12
+2023-10-01,David,Abarrotes,Enlatados,30022,720478.18
+2023-11-01,David,Abarrotes,Enlatados,34344,771058.56
+2023-12-01,David,Abarrotes,Enlatados,37568,934082.58
+2024-01-01,David,Abarrotes,Enlatados,21631,506288.26
+2024-02-01,David,Abarrotes,Enlatados,26634,669270.03
+2024-03-01,David,Abarrotes,Enlatados,29178,785297.15
+2024-04-01,David,Abarrotes,Enlatados,32502,737786.48
+2024-05-01,David,Abarrotes,Enlatados,34247,759980.23
+2024-06-01,David,Abarrotes,Enlatados,34259,747183.94
+2024-07-01,David,Abarrotes,Enlatados,36118,802684.23
+2024-08-01,David,Abarrotes,Enlatados,29984,652372.61
+2024-09-01,David,Abarrotes,Enlatados,34133,709884.8
+2024-10-01,David,Abarrotes,Enlatados,34280,741408.05
+2024-11-01,David,Abarrotes,Enlatados,35870,890161.65
+2024-12-01,David,Abarrotes,Enlatados,46667,977462.83
+2025-01-01,David,Abarrotes,Enlatados,24667,631299.06
+2025-02-01,David,Abarrotes,Enlatados,30970,613662.91
+2025-03-01,David,Abarrotes,Enlatados,37773,773465.86
+2025-04-01,David,Abarrotes,Enlatados,31127,802936.58
+2025-05-01,David,Abarrotes,Enlatados,37087,803903.63
+2025-06-01,David,Abarrotes,Enlatados,35199,796402.04
+2025-07-01,David,Abarrotes,Enlatados,41370,812516.52
+2025-08-01,David,Abarrotes,Enlatados,34116,720231.59
+2025-09-01,David,Abarrotes,Enlatados,36743,794437.79
+2025-10-01,David,Abarrotes,Enlatados,31349,788770.51
+2022-01-01,David,Abarrotes,Cereales,57882,1370593.36
+2022-02-01,David,Abarrotes,Cereales,72801,1640063.8
+2022-03-01,David,Abarrotes,Cereales,76457,2012568.31
+2022-04-01,David,Abarrotes,Cereales,81447,1793898.12
+2022-05-01,David,Abarrotes,Cereales,74680,1885654.57
+2022-06-01,David,Abarrotes,Cereales,75959,1974315.44
+2022-07-01,David,Abarrotes,Cereales,80582,2018520.57
+2022-08-01,David,Abarrotes,Cereales,75698,1742413.37
+2022-09-01,David,Abarrotes,Cereales,78824,1856941.24
+2022-10-01,David,Abarrotes,Cereales,85766,1700274.16
+2022-11-01,David,Abarrotes,Cereales,96781,2437697.1
+2022-12-01,David,Abarrotes,Cereales,102745,2390625.34
+2023-01-01,David,Abarrotes,Cereales,57124,1483496.79
+2023-02-01,David,Abarrotes,Cereales,65900,1712421.83
+2023-03-01,David,Abarrotes,Cereales,84840,2197023.91
+2023-04-01,David,Abarrotes,Cereales,88235,1868877.61
+2023-05-01,David,Abarrotes,Cereales,91172,1848214.19
+2023-06-01,David,Abarrotes,Cereales,75677,1805868.1
+2023-07-01,David,Abarrotes,Cereales,92590,2051161.12
+2023-08-01,David,Abarrotes,Cereales,83303,1885399.9
+2023-09-01,David,Abarrotes,Cereales,86406,2054947.07
+2023-10-01,David,Abarrotes,Cereales,84790,1890380.0
+2023-11-01,David,Abarrotes,Cereales,104311,2172720.27
+2023-12-01,David,Abarrotes,Cereales,121017,2986852.06
+2024-01-01,David,Abarrotes,Cereales,62269,1568397.41
+2024-02-01,David,Abarrotes,Cereales,81007,1773170.07
+2024-03-01,David,Abarrotes,Cereales,83138,2064069.48
+2024-04-01,David,Abarrotes,Cereales,93483,2353274.38
+2024-05-01,David,Abarrotes,Cereales,88405,2007180.59
+2024-06-01,David,Abarrotes,Cereales,90162,2320122.24
+2024-07-01,David,Abarrotes,Cereales,106882,2494723.56
+2024-08-01,David,Abarrotes,Cereales,96924,1966936.77
+2024-09-01,David,Abarrotes,Cereales,95629,2358155.03
+2024-10-01,David,Abarrotes,Cereales,90096,2050697.31
+2024-11-01,David,Abarrotes,Cereales,112994,2371723.75
+2024-12-01,David,Abarrotes,Cereales,126203,3206699.02
+2025-01-01,David,Abarrotes,Cereales,77711,1800965.32
+2025-02-01,David,Abarrotes,Cereales,80415,2006025.67
+2025-03-01,David,Abarrotes,Cereales,105556,2147310.06
+2025-04-01,David,Abarrotes,Cereales,104825,2296052.14
+2025-05-01,David,Abarrotes,Cereales,101145,2435360.33
+2025-06-01,David,Abarrotes,Cereales,92226,2215402.15
+2025-07-01,David,Abarrotes,Cereales,98312,2441034.3
+2025-08-01,David,Abarrotes,Cereales,103327,2076821.2
+2025-09-01,David,Abarrotes,Cereales,90024,2155732.63
+2025-10-01,David,Abarrotes,Cereales,103318,2479104.39
+2022-01-01,David,Abarrotes,Snacks,112456,1994952.35
+2022-02-01,David,Abarrotes,Snacks,123623,2563974.84
+2022-03-01,David,Abarrotes,Snacks,151024,3040231.11
+2022-04-01,David,Abarrotes,Snacks,155389,2818649.17
+2022-05-01,David,Abarrotes,Snacks,160852,2580619.03
+2022-06-01,David,Abarrotes,Snacks,164208,2709314.86
+2022-07-01,David,Abarrotes,Snacks,191063,3238976.5
+2022-08-01,David,Abarrotes,Snacks,160829,2705336.65
+2022-09-01,David,Abarrotes,Snacks,160553,2549502.7
+2022-10-01,David,Abarrotes,Snacks,146074,2810603.53
+2022-11-01,David,Abarrotes,Snacks,174698,3565035.68
+2022-12-01,David,Abarrotes,Snacks,227017,4120928.52
+2023-01-01,David,Abarrotes,Snacks,128975,2114061.52
+2023-02-01,David,Abarrotes,Snacks,158041,2650970.81
+2023-03-01,David,Abarrotes,Snacks,162303,2846110.11
+2023-04-01,David,Abarrotes,Snacks,157577,2844725.36
+2023-05-01,David,Abarrotes,Snacks,172345,3240162.31
+2023-06-01,David,Abarrotes,Snacks,164977,2863694.23
+2023-07-01,David,Abarrotes,Snacks,174279,3159069.08
+2023-08-01,David,Abarrotes,Snacks,181941,2713556.52
+2023-09-01,David,Abarrotes,Snacks,160593,3238110.72
+2023-10-01,David,Abarrotes,Snacks,177891,3191037.82
+2023-11-01,David,Abarrotes,Snacks,199794,3709673.86
+2023-12-01,David,Abarrotes,Snacks,227849,4431723.2
+2024-01-01,David,Abarrotes,Snacks,138253,2281954.63
+2024-02-01,David,Abarrotes,Snacks,170227,2756482.85
+2024-03-01,David,Abarrotes,Snacks,184803,3172871.01
+2024-04-01,David,Abarrotes,Snacks,198353,3004494.17
+2024-05-01,David,Abarrotes,Snacks,174732,3261107.7
+2024-06-01,David,Abarrotes,Snacks,199184,3545357.64
+2024-07-01,David,Abarrotes,Snacks,196836,3266297.17
+2024-08-01,David,Abarrotes,Snacks,195581,3133786.83
+2024-09-01,David,Abarrotes,Snacks,191365,3078900.17
+2024-10-01,David,Abarrotes,Snacks,205091,3098917.4
+2024-11-01,David,Abarrotes,Snacks,221548,4244771.6
+2024-12-01,David,Abarrotes,Snacks,241488,4549012.82
+2025-01-01,David,Abarrotes,Snacks,138890,2642614.8
+2025-02-01,David,Abarrotes,Snacks,185543,3172428.88
+2025-03-01,David,Abarrotes,Snacks,205905,3302265.65
+2025-04-01,David,Abarrotes,Snacks,216170,3538361.29
+2025-05-01,David,Abarrotes,Snacks,194008,3497722.22
+2025-06-01,David,Abarrotes,Snacks,198543,3616152.39
+2025-07-01,David,Abarrotes,Snacks,204199,4292004.3
+2025-08-01,David,Abarrotes,Snacks,223802,3738564.66
+2025-09-01,David,Abarrotes,Snacks,211770,3474934.1
+2025-10-01,David,Abarrotes,Snacks,222643,3779788.36
+2022-01-01,David,Electrónica,TV,17384,562461.22
+2022-02-01,David,Electrónica,TV,17865,680518.19
+2022-03-01,David,Electrónica,TV,22752,797483.84
+2022-04-01,David,Electrónica,TV,20751,782893.94
+2022-05-01,David,Electrónica,TV,20767,758511.5
+2022-06-01,David,Electrónica,TV,19937,846478.48
+2022-07-01,David,Electrónica,TV,23516,832531.86
+2022-08-01,David,Electrónica,TV,22632,774963.69
+2022-09-01,David,Electrónica,TV,23543,809757.58
+2022-10-01,David,Electrónica,TV,22087,788631.73
+2022-11-01,David,Electrónica,TV,27851,909551.89
+2022-12-01,David,Electrónica,TV,32247,1080576.11
+2023-01-01,David,Electrónica,TV,16166,661806.88
+2023-02-01,David,Electrónica,TV,19546,676898.33
+2023-03-01,David,Electrónica,TV,21294,773705.44
+2023-04-01,David,Electrónica,TV,23901,802189.96
+2023-05-01,David,Electrónica,TV,25136,891584.7
+2023-06-01,David,Electrónica,TV,21387,764827.9
+2023-07-01,David,Electrónica,TV,26554,1006806.05
+2023-08-01,David,Electrónica,TV,23671,840163.06
+2023-09-01,David,Electrónica,TV,23446,914136.51
+2023-10-01,David,Electrónica,TV,22554,906494.99
+2023-11-01,David,Electrónica,TV,26871,990557.92
+2023-12-01,David,Electrónica,TV,29349,1096309.25
+2024-01-01,David,Electrónica,TV,17393,621458.35
+2024-02-01,David,Electrónica,TV,18865,715658.99
+2024-03-01,David,Electrónica,TV,24978,925462.06
+2024-04-01,David,Electrónica,TV,22640,847806.47
+2024-05-01,David,Electrónica,TV,26411,859969.55
+2024-06-01,David,Electrónica,TV,24691,879038.47
+2024-07-01,David,Electrónica,TV,28115,1057692.0
+2024-08-01,David,Electrónica,TV,24139,832964.53
+2024-09-01,David,Electrónica,TV,24875,800215.93
+2024-10-01,David,Electrónica,TV,26754,809997.85
+2024-11-01,David,Electrónica,TV,27032,1152041.2
+2024-12-01,David,Electrónica,TV,32715,1280075.6
+2025-01-01,David,Electrónica,TV,20746,677687.44
+2025-02-01,David,Electrónica,TV,20478,752622.53
+2025-03-01,David,Electrónica,TV,23971,907601.57
+2025-04-01,David,Electrónica,TV,25469,873626.18
+2025-05-01,David,Electrónica,TV,24057,1030135.38
+2025-06-01,David,Electrónica,TV,26640,1000351.89
+2025-07-01,David,Electrónica,TV,27236,1033372.09
+2025-08-01,David,Electrónica,TV,28267,1015639.88
+2025-09-01,David,Electrónica,TV,27679,899118.88
+2025-10-01,David,Electrónica,TV,27240,987651.93
+2022-01-01,David,Electrónica,Celulares,38548,1942234.58
+2022-02-01,David,Electrónica,Celulares,47408,2166944.04
+2022-03-01,David,Electrónica,Celulares,55396,2529425.63
+2022-04-01,David,Electrónica,Celulares,52289,2439344.04
+2022-05-01,David,Electrónica,Celulares,58738,2287519.77
+2022-06-01,David,Electrónica,Celulares,57838,2372973.83
+2022-07-01,David,Electrónica,Celulares,56231,2806442.7
+2022-08-01,David,Electrónica,Celulares,51283,2184154.99
+2022-09-01,David,Electrónica,Celulares,54239,2545759.37
+2022-10-01,David,Electrónica,Celulares,57066,2284544.4
+2022-11-01,David,Electrónica,Celulares,59006,2686068.92
+2022-12-01,David,Electrónica,Celulares,78677,3114443.91
+2023-01-01,David,Electrónica,Celulares,44569,1745619.18
+2023-02-01,David,Electrónica,Celulares,46422,2195263.07
+2023-03-01,David,Electrónica,Celulares,59808,2425691.8
+2023-04-01,David,Electrónica,Celulares,62795,2822156.89
+2023-05-01,David,Electrónica,Celulares,52483,2608804.93
+2023-06-01,David,Electrónica,Celulares,55633,2384370.63
+2023-07-01,David,Electrónica,Celulares,62701,2934338.71
+2023-08-01,David,Electrónica,Celulares,62323,2775019.32
+2023-09-01,David,Electrónica,Celulares,63050,2696585.02
+2023-10-01,David,Electrónica,Celulares,57069,2352781.09
+2023-11-01,David,Electrónica,Celulares,72720,3328876.07
+2023-12-01,David,Electrónica,Celulares,81312,3810306.76
+2024-01-01,David,Electrónica,Celulares,46521,1915939.65
+2024-02-01,David,Electrónica,Celulares,50006,2121746.5
+2024-03-01,David,Electrónica,Celulares,58078,2773399.09
+2024-04-01,David,Electrónica,Celulares,58953,2553342.39
+2024-05-01,David,Electrónica,Celulares,62257,2925458.0
+2024-06-01,David,Electrónica,Celulares,55766,2664281.88
+2024-07-01,David,Electrónica,Celulares,73236,3265237.88
+2024-08-01,David,Electrónica,Celulares,57331,2777993.31
+2024-09-01,David,Electrónica,Celulares,58117,2567949.73
+2024-10-01,David,Electrónica,Celulares,61788,2544328.47
+2024-11-01,David,Electrónica,Celulares,76981,3340688.81
+2024-12-01,David,Electrónica,Celulares,79220,4039820.02
+2025-01-01,David,Electrónica,Celulares,47456,2317131.8
+2025-02-01,David,Electrónica,Celulares,61051,2374613.37
+2025-03-01,David,Electrónica,Celulares,62548,2751831.39
+2025-04-01,David,Electrónica,Celulares,63214,2642155.57
+2025-05-01,David,Electrónica,Celulares,70089,3029663.09
+2025-06-01,David,Electrónica,Celulares,59762,2677143.62
+2025-07-01,David,Electrónica,Celulares,71725,3166333.83
+2025-08-01,David,Electrónica,Celulares,64088,2984318.18
+2025-09-01,David,Electrónica,Celulares,63260,3180531.94
+2025-10-01,David,Electrónica,Celulares,62855,2814747.79
+2022-01-01,David,Electrónica,Audio,70967,1671596.96
+2022-02-01,David,Electrónica,Audio,78474,1757175.01
+2022-03-01,David,Electrónica,Audio,98953,2086541.98
+2022-04-01,David,Electrónica,Audio,97589,2276331.0
+2022-05-01,David,Electrónica,Audio,96958,2176923.06
+2022-06-01,David,Electrónica,Audio,90422,1902596.59
+2022-07-01,David,Electrónica,Audio,109007,2526981.61
+2022-08-01,David,Electrónica,Audio,85039,1999280.56
+2022-09-01,David,Electrónica,Audio,87042,1944613.16
+2022-10-01,David,Electrónica,Audio,90330,2223378.73
+2022-11-01,David,Electrónica,Audio,102595,2532502.14
+2022-12-01,David,Electrónica,Audio,123831,2915171.43
+2023-01-01,David,Electrónica,Audio,79253,1595516.37
+2023-02-01,David,Electrónica,Audio,91810,1921695.75
+2023-03-01,David,Electrónica,Audio,95252,2138499.88
+2023-04-01,David,Electrónica,Audio,94457,2419429.0
+2023-05-01,David,Electrónica,Audio,94762,2111992.44
+2023-06-01,David,Electrónica,Audio,94719,2411712.46
+2023-07-01,David,Electrónica,Audio,98918,2492780.25
+2023-08-01,David,Electrónica,Audio,107589,2386689.0
+2023-09-01,David,Electrónica,Audio,93449,2334891.6
+2023-10-01,David,Electrónica,Audio,97539,2327657.44
+2023-11-01,David,Electrónica,Audio,107286,2593053.67
+2023-12-01,David,Electrónica,Audio,148711,2968511.0
+2024-01-01,David,Electrónica,Audio,82548,1679540.28
+2024-02-01,David,Electrónica,Audio,97411,2164624.92
+2024-03-01,David,Electrónica,Audio,111126,2529140.86
+2024-04-01,David,Electrónica,Audio,101281,2348572.17
+2024-05-01,David,Electrónica,Audio,99896,2202079.68
+2024-06-01,David,Electrónica,Audio,109361,2320848.32
+2024-07-01,David,Electrónica,Audio,112576,2676908.31
+2024-08-01,David,Electrónica,Audio,106594,2355146.28
+2024-09-01,David,Electrónica,Audio,94813,2510013.37
+2024-10-01,David,Electrónica,Audio,95983,2613373.51
+2024-11-01,David,Electrónica,Audio,127134,2675995.95
+2024-12-01,David,Electrónica,Audio,149228,3300697.17
+2025-01-01,David,Electrónica,Audio,87948,1865761.42
+2025-02-01,David,Electrónica,Audio,87916,2060286.93
+2025-03-01,David,Electrónica,Audio,111943,2370189.67
+2025-04-01,David,Electrónica,Audio,104826,2303392.14
+2025-05-01,David,Electrónica,Audio,102565,2717802.25
+2025-06-01,David,Electrónica,Audio,109650,2482064.18
+2025-07-01,David,Electrónica,Audio,114545,2773027.73
+2025-08-01,David,Electrónica,Audio,105436,2732847.82
+2025-09-01,David,Electrónica,Audio,107575,2661889.09
+2025-10-01,David,Electrónica,Audio,106276,2336088.37
+2022-01-01,David,Electrónica,Electrodomésticos,25854,371070.23
+2022-02-01,David,Electrónica,Electrodomésticos,34539,466903.22
+2022-03-01,David,Electrónica,Electrodomésticos,40551,468789.18
+2022-04-01,David,Electrónica,Electrodomésticos,39193,481839.83
+2022-05-01,David,Electrónica,Electrodomésticos,38198,537206.7
+2022-06-01,David,Electrónica,Electrodomésticos,37594,465492.68
+2022-07-01,David,Electrónica,Electrodomésticos,43701,561683.7
+2022-08-01,David,Electrónica,Electrodomésticos,35459,505463.88
+2022-09-01,David,Electrónica,Electrodomésticos,36778,494448.05
+2022-10-01,David,Electrónica,Electrodomésticos,37902,500602.17
+2022-11-01,David,Electrónica,Electrodomésticos,43632,617336.68
+2022-12-01,David,Electrónica,Electrodomésticos,51073,667450.94
+2023-01-01,David,Electrónica,Electrodomésticos,28792,417658.09
+2023-02-01,David,Electrónica,Electrodomésticos,34212,495131.37
+2023-03-01,David,Electrónica,Electrodomésticos,42525,577536.95
+2023-04-01,David,Electrónica,Electrodomésticos,37366,510972.8
+2023-05-01,David,Electrónica,Electrodomésticos,43191,510462.2
+2023-06-01,David,Electrónica,Electrodomésticos,41241,523519.51
+2023-07-01,David,Electrónica,Electrodomésticos,46539,587091.41
+2023-08-01,David,Electrónica,Electrodomésticos,40185,538921.62
+2023-09-01,David,Electrónica,Electrodomésticos,41960,568702.47
+2023-10-01,David,Electrónica,Electrodomésticos,35893,500298.63
+2023-11-01,David,Electrónica,Electrodomésticos,50723,597458.76
+2023-12-01,David,Electrónica,Electrodomésticos,50517,751947.09
+2024-01-01,David,Electrónica,Electrodomésticos,34490,459421.34
+2024-02-01,David,Electrónica,Electrodomésticos,39828,470211.52
+2024-03-01,David,Electrónica,Electrodomésticos,40902,606001.53
+2024-04-01,David,Electrónica,Electrodomésticos,40188,561015.39
+2024-05-01,David,Electrónica,Electrodomésticos,44924,634829.05
+2024-06-01,David,Electrónica,Electrodomésticos,40552,635961.01
+2024-07-01,David,Electrónica,Electrodomésticos,50356,621973.54
+2024-08-01,David,Electrónica,Electrodomésticos,39271,557498.97
+2024-09-01,David,Electrónica,Electrodomésticos,39468,578869.03
+2024-10-01,David,Electrónica,Electrodomésticos,46748,558741.01
+2024-11-01,David,Electrónica,Electrodomésticos,52971,731569.34
+2024-12-01,David,Electrónica,Electrodomésticos,63867,878856.51
+2025-01-01,David,Electrónica,Electrodomésticos,33139,490905.32
+2025-02-01,David,Electrónica,Electrodomésticos,40300,572627.0
+2025-03-01,David,Electrónica,Electrodomésticos,46658,619606.08
+2025-04-01,David,Electrónica,Electrodomésticos,46740,589153.96
+2025-05-01,David,Electrónica,Electrodomésticos,47467,662746.88
+2025-06-01,David,Electrónica,Electrodomésticos,46485,614985.58
+2025-07-01,David,Electrónica,Electrodomésticos,49660,719740.98
+2025-08-01,David,Electrónica,Electrodomésticos,43743,603619.51
+2025-09-01,David,Electrónica,Electrodomésticos,48255,579653.31
+2025-10-01,David,Electrónica,Electrodomésticos,43288,694964.78
+2022-01-01,David,Hogar,Muebles,32111,723700.91
+2022-02-01,David,Hogar,Muebles,38582,737603.36
+2022-03-01,David,Hogar,Muebles,44876,838570.84
+2022-04-01,David,Hogar,Muebles,49099,851633.29
+2022-05-01,David,Hogar,Muebles,48832,938989.78
+2022-06-01,David,Hogar,Muebles,48449,983759.98
+2022-07-01,David,Hogar,Muebles,47254,919404.41
+2022-08-01,David,Hogar,Muebles,49736,962557.28
+2022-09-01,David,Hogar,Muebles,45881,890315.59
+2022-10-01,David,Hogar,Muebles,49130,915548.38
+2022-11-01,David,Hogar,Muebles,57718,1198036.82
+2022-12-01,David,Hogar,Muebles,64490,1244035.32
+2023-01-01,David,Hogar,Muebles,35667,738779.94
+2023-02-01,David,Hogar,Muebles,40072,761123.33
+2023-03-01,David,Hogar,Muebles,54707,908912.67
+2023-04-01,David,Hogar,Muebles,55599,944025.1
+2023-05-01,David,Hogar,Muebles,52843,898250.27
+2023-06-01,David,Hogar,Muebles,47236,1017979.17
+2023-07-01,David,Hogar,Muebles,55330,1075046.68
+2023-08-01,David,Hogar,Muebles,53655,1001467.7
+2023-09-01,David,Hogar,Muebles,54177,927371.93
+2023-10-01,David,Hogar,Muebles,47388,951432.82
+2023-11-01,David,Hogar,Muebles,55410,1229299.84
+2023-12-01,David,Hogar,Muebles,74876,1517914.7
+2024-01-01,David,Hogar,Muebles,40319,730369.02
+2024-02-01,David,Hogar,Muebles,44734,980547.33
+2024-03-01,David,Hogar,Muebles,49955,1086492.93
+2024-04-01,David,Hogar,Muebles,55793,1083719.04
+2024-05-01,David,Hogar,Muebles,59233,1070099.35
+2024-06-01,David,Hogar,Muebles,60412,977886.66
+2024-07-01,David,Hogar,Muebles,61682,1080497.14
+2024-08-01,David,Hogar,Muebles,55507,1091635.72
+2024-09-01,David,Hogar,Muebles,50753,1036003.62
+2024-10-01,David,Hogar,Muebles,55887,1159338.43
+2024-11-01,David,Hogar,Muebles,64822,1260059.25
+2024-12-01,David,Hogar,Muebles,79146,1391178.8
+2025-01-01,David,Hogar,Muebles,43782,902914.99
+2025-02-01,David,Hogar,Muebles,48114,940617.55
+2025-03-01,David,Hogar,Muebles,54869,1160196.13
+2025-04-01,David,Hogar,Muebles,57495,1199988.28
+2025-05-01,David,Hogar,Muebles,54889,1246722.23
+2025-06-01,David,Hogar,Muebles,55847,1221772.17
+2025-07-01,David,Hogar,Muebles,72077,1314534.38
+2025-08-01,David,Hogar,Muebles,59038,1195786.66
+2025-09-01,David,Hogar,Muebles,60086,1257263.56
+2025-10-01,David,Hogar,Muebles,64167,1107179.27
+2022-01-01,David,Hogar,Limpieza,22436,709666.76
+2022-02-01,David,Hogar,Limpieza,26164,800757.04
+2022-03-01,David,Hogar,Limpieza,28630,961074.07
+2022-04-01,David,Hogar,Limpieza,30255,1013963.5
+2022-05-01,David,Hogar,Limpieza,29227,1015861.93
+2022-06-01,David,Hogar,Limpieza,27601,943928.5
+2022-07-01,David,Hogar,Limpieza,33674,999069.9
+2022-08-01,David,Hogar,Limpieza,29758,1006100.56
+2022-09-01,David,Hogar,Limpieza,28594,907287.94
+2022-10-01,David,Hogar,Limpieza,31847,995533.84
+2022-11-01,David,Hogar,Limpieza,31928,1221676.11
+2022-12-01,David,Hogar,Limpieza,39678,1427261.85
+2023-01-01,David,Hogar,Limpieza,21810,837544.88
+2023-02-01,David,Hogar,Limpieza,28568,970788.89
+2023-03-01,David,Hogar,Limpieza,33198,1062837.42
+2023-04-01,David,Hogar,Limpieza,30832,1111790.03
+2023-05-01,David,Hogar,Limpieza,33030,1088178.59
+2023-06-01,David,Hogar,Limpieza,31244,996235.43
+2023-07-01,David,Hogar,Limpieza,36898,1058224.58
+2023-08-01,David,Hogar,Limpieza,31616,1017046.26
+2023-09-01,David,Hogar,Limpieza,31349,1050736.85
+2023-10-01,David,Hogar,Limpieza,34683,1087739.25
+2023-11-01,David,Hogar,Limpieza,36383,1364684.06
+2023-12-01,David,Hogar,Limpieza,41281,1397588.25
+2024-01-01,David,Hogar,Limpieza,26389,799657.84
+2024-02-01,David,Hogar,Limpieza,32171,1070453.62
+2024-03-01,David,Hogar,Limpieza,33755,1062175.41
+2024-04-01,David,Hogar,Limpieza,31570,1147565.03
+2024-05-01,David,Hogar,Limpieza,33489,1172245.77
+2024-06-01,David,Hogar,Limpieza,34642,1162059.93
+2024-07-01,David,Hogar,Limpieza,35487,1162811.6
+2024-08-01,David,Hogar,Limpieza,35695,1050415.61
+2024-09-01,David,Hogar,Limpieza,38045,1061585.06
+2024-10-01,David,Hogar,Limpieza,34267,1172251.29
+2024-11-01,David,Hogar,Limpieza,40315,1395293.57
+2024-12-01,David,Hogar,Limpieza,47479,1527608.56
+2025-01-01,David,Hogar,Limpieza,25974,963152.44
+2025-02-01,David,Hogar,Limpieza,34337,1130302.86
+2025-03-01,David,Hogar,Limpieza,36881,1135182.34
+2025-04-01,David,Hogar,Limpieza,36674,1249298.73
+2025-05-01,David,Hogar,Limpieza,38719,1297084.91
+2025-06-01,David,Hogar,Limpieza,37085,1187855.72
+2025-07-01,David,Hogar,Limpieza,42496,1321889.66
+2025-08-01,David,Hogar,Limpieza,34229,1278170.32
+2025-09-01,David,Hogar,Limpieza,39875,1349231.37
+2025-10-01,David,Hogar,Limpieza,40826,1327232.77
+2022-01-01,David,Hogar,Cocina,8371,400220.1
+2022-02-01,David,Hogar,Cocina,9609,464918.26
+2022-03-01,David,Hogar,Cocina,12095,544810.95
+2022-04-01,David,Hogar,Cocina,11508,525483.76
+2022-05-01,David,Hogar,Cocina,11083,518689.09
+2022-06-01,David,Hogar,Cocina,11814,496039.95
+2022-07-01,David,Hogar,Cocina,13340,576885.93
+2022-08-01,David,Hogar,Cocina,10061,499882.0
+2022-09-01,David,Hogar,Cocina,12198,561174.25
+2022-10-01,David,Hogar,Cocina,10204,504831.88
+2022-11-01,David,Hogar,Cocina,14189,586466.36
+2022-12-01,David,Hogar,Cocina,14891,758327.01
+2023-01-01,David,Hogar,Cocina,8229,436135.97
+2023-02-01,David,Hogar,Cocina,9945,521128.44
+2023-03-01,David,Hogar,Cocina,12184,579431.98
+2023-04-01,David,Hogar,Cocina,11561,553010.98
+2023-05-01,David,Hogar,Cocina,10788,605228.64
+2023-06-01,David,Hogar,Cocina,12078,575243.13
+2023-07-01,David,Hogar,Cocina,14076,574892.69
+2023-08-01,David,Hogar,Cocina,11566,578161.6
+2023-09-01,David,Hogar,Cocina,11171,617212.97
+2023-10-01,David,Hogar,Cocina,11707,558812.37
+2023-11-01,David,Hogar,Cocina,12928,656881.14
+2023-12-01,David,Hogar,Cocina,17643,741937.8
+2024-01-01,David,Hogar,Cocina,10073,423847.15
+2024-02-01,David,Hogar,Cocina,10905,509412.96
+2024-03-01,David,Hogar,Cocina,12237,619101.99
+2024-04-01,David,Hogar,Cocina,13363,556524.0
+2024-05-01,David,Hogar,Cocina,12745,660882.92
+2024-06-01,David,Hogar,Cocina,13429,638474.9
+2024-07-01,David,Hogar,Cocina,14233,679801.91
+2024-08-01,David,Hogar,Cocina,13324,647381.13
+2024-09-01,David,Hogar,Cocina,12856,556471.92
+2024-10-01,David,Hogar,Cocina,12391,604663.35
+2024-11-01,David,Hogar,Cocina,16515,747939.66
+2024-12-01,David,Hogar,Cocina,17796,906370.03
+2025-01-01,David,Hogar,Cocina,10277,512511.64
+2025-02-01,David,Hogar,Cocina,10770,525174.62
+2025-03-01,David,Hogar,Cocina,13758,703707.9
+2025-04-01,David,Hogar,Cocina,13613,598099.68
+2025-05-01,David,Hogar,Cocina,12575,695204.43
+2025-06-01,David,Hogar,Cocina,12239,707595.78
+2025-07-01,David,Hogar,Cocina,15071,665422.64
+2025-08-01,David,Hogar,Cocina,14129,675407.11
+2025-09-01,David,Hogar,Cocina,13484,587227.56
+2025-10-01,David,Hogar,Cocina,12688,634453.37
+2022-01-01,David,Hogar,Decoración,5158,120212.83
+2022-02-01,David,Hogar,Decoración,6371,140185.01
+2022-03-01,David,Hogar,Decoración,6994,186212.56
+2022-04-01,David,Hogar,Decoración,7335,168518.31
+2022-05-01,David,Hogar,Decoración,7231,181087.4
+2022-06-01,David,Hogar,Decoración,6437,173524.71
+2022-07-01,David,Hogar,Decoración,8594,209230.04
+2022-08-01,David,Hogar,Decoración,6465,193676.33
+2022-09-01,David,Hogar,Decoración,7783,191230.68
+2022-10-01,David,Hogar,Decoración,7188,169458.15
+2022-11-01,David,Hogar,Decoración,9332,200090.76
+2022-12-01,David,Hogar,Decoración,9197,247377.06
+2023-01-01,David,Hogar,Decoración,5747,129536.88
+2023-02-01,David,Hogar,Decoración,6095,147410.22
+2023-03-01,David,Hogar,Decoración,6988,193636.27
+2023-04-01,David,Hogar,Decoración,7858,192377.83
+2023-05-01,David,Hogar,Decoración,7229,210546.04
+2023-06-01,David,Hogar,Decoración,7813,180169.15
+2023-07-01,David,Hogar,Decoración,7791,200557.56
+2023-08-01,David,Hogar,Decoración,7420,176785.55
+2023-09-01,David,Hogar,Decoración,8110,207594.0
+2023-10-01,David,Hogar,Decoración,7581,202239.64
+2023-11-01,David,Hogar,Decoración,9449,244735.07
+2023-12-01,David,Hogar,Decoración,11066,289838.74
+2024-01-01,David,Hogar,Decoración,6639,155785.09
+2024-02-01,David,Hogar,Decoración,6794,173966.66
+2024-03-01,David,Hogar,Decoración,8593,199673.09
+2024-04-01,David,Hogar,Decoración,9047,210372.02
+2024-05-01,David,Hogar,Decoración,8664,204794.19
+2024-06-01,David,Hogar,Decoración,8266,204682.05
+2024-07-01,David,Hogar,Decoración,9349,247219.93
+2024-08-01,David,Hogar,Decoración,8680,226692.5
+2024-09-01,David,Hogar,Decoración,8469,218939.9
+2024-10-01,David,Hogar,Decoración,7482,217297.74
+2024-11-01,David,Hogar,Decoración,9333,256977.45
+2024-12-01,David,Hogar,Decoración,12316,270033.07
+2025-01-01,David,Hogar,Decoración,6396,152476.51
+2025-02-01,David,Hogar,Decoración,7946,196747.43
+2025-03-01,David,Hogar,Decoración,8707,233164.75
+2025-04-01,David,Hogar,Decoración,8974,202760.98
+2025-05-01,David,Hogar,Decoración,8163,242050.5
+2025-06-01,David,Hogar,Decoración,8365,204730.53
+2025-07-01,David,Hogar,Decoración,10727,234756.9
+2025-08-01,David,Hogar,Decoración,9632,230649.89
+2025-09-01,David,Hogar,Decoración,9207,208241.38
+2025-10-01,David,Hogar,Decoración,8863,203137.47
+2022-01-01,David,Ropa,Hombre,10505,381441.66
+2022-02-01,David,Ropa,Hombre,13051,443764.78
+2022-03-01,David,Ropa,Hombre,13802,544386.57
+2022-04-01,David,Ropa,Hombre,13711,446984.73
+2022-05-01,David,Ropa,Hombre,15780,518236.97
+2022-06-01,David,Ropa,Hombre,14712,502543.32
+2022-07-01,David,Ropa,Hombre,15397,537785.04
+2022-08-01,David,Ropa,Hombre,14385,458527.42
+2022-09-01,David,Ropa,Hombre,15561,486421.61
+2022-10-01,David,Ropa,Hombre,14452,481000.82
+2022-11-01,David,Ropa,Hombre,18137,571071.84
+2022-12-01,David,Ropa,Hombre,19581,725629.71
+2023-01-01,David,Ropa,Hombre,12261,410364.81
+2023-02-01,David,Ropa,Hombre,13153,455090.75
+2023-03-01,David,Ropa,Hombre,16474,572185.98
+2023-04-01,David,Ropa,Hombre,17056,510238.96
+2023-05-01,David,Ropa,Hombre,16424,499081.5
+2023-06-01,David,Ropa,Hombre,15409,542437.47
+2023-07-01,David,Ropa,Hombre,16809,543783.3
+2023-08-01,David,Ropa,Hombre,15511,506573.14
+2023-09-01,David,Ropa,Hombre,14988,497061.57
+2023-10-01,David,Ropa,Hombre,15041,480707.25
+2023-11-01,David,Ropa,Hombre,20400,672588.63
+2023-12-01,David,Ropa,Hombre,21973,700295.78
+2024-01-01,David,Ropa,Hombre,12630,416638.76
+2024-02-01,David,Ropa,Hombre,14772,431389.27
+2024-03-01,David,Ropa,Hombre,17364,580798.81
+2024-04-01,David,Ropa,Hombre,15582,539603.94
+2024-05-01,David,Ropa,Hombre,18189,585869.97
+2024-06-01,David,Ropa,Hombre,15957,548746.21
+2024-07-01,David,Ropa,Hombre,19601,576999.87
+2024-08-01,David,Ropa,Hombre,17988,560003.08
+2024-09-01,David,Ropa,Hombre,17791,517256.38
+2024-10-01,David,Ropa,Hombre,17327,551889.19
+2024-11-01,David,Ropa,Hombre,18483,645747.86
+2024-12-01,David,Ropa,Hombre,23215,846369.73
+2025-01-01,David,Ropa,Hombre,13869,405718.41
+2025-02-01,David,Ropa,Hombre,15048,523639.61
+2025-03-01,David,Ropa,Hombre,19428,555406.87
+2025-04-01,David,Ropa,Hombre,17419,571572.28
+2025-05-01,David,Ropa,Hombre,17364,583014.17
+2025-06-01,David,Ropa,Hombre,17264,641428.22
+2025-07-01,David,Ropa,Hombre,19257,618753.06
+2025-08-01,David,Ropa,Hombre,18320,544561.17
+2025-09-01,David,Ropa,Hombre,18862,571530.11
+2025-10-01,David,Ropa,Hombre,18701,546146.61
+2022-01-01,David,Ropa,Mujer,12557,474358.78
+2022-02-01,David,Ropa,Mujer,14626,544060.68
+2022-03-01,David,Ropa,Mujer,17045,607841.4
+2022-04-01,David,Ropa,Mujer,14930,557429.78
+2022-05-01,David,Ropa,Mujer,17396,626424.83
+2022-06-01,David,Ropa,Mujer,15548,529716.74
+2022-07-01,David,Ropa,Mujer,16971,605982.0
+2022-08-01,David,Ropa,Mujer,14546,628478.07
+2022-09-01,David,Ropa,Mujer,15897,553816.65
+2022-10-01,David,Ropa,Mujer,14695,549678.27
+2022-11-01,David,Ropa,Mujer,18167,648082.65
+2022-12-01,David,Ropa,Mujer,21501,873629.97
+2023-01-01,David,Ropa,Mujer,13715,471754.79
+2023-02-01,David,Ropa,Mujer,15738,553350.5
+2023-03-01,David,Ropa,Mujer,16542,596173.66
+2023-04-01,David,Ropa,Mujer,18458,661460.5
+2023-05-01,David,Ropa,Mujer,18453,661707.71
+2023-06-01,David,Ropa,Mujer,18134,605423.93
+2023-07-01,David,Ropa,Mujer,17606,679539.25
+2023-08-01,David,Ropa,Mujer,17878,592478.15
+2023-09-01,David,Ropa,Mujer,18755,688950.35
+2023-10-01,David,Ropa,Mujer,17851,647315.84
+2023-11-01,David,Ropa,Mujer,19971,820397.52
+2023-12-01,David,Ropa,Mujer,24114,845971.0
+2024-01-01,David,Ropa,Mujer,14362,538398.7
+2024-02-01,David,Ropa,Mujer,15849,608333.08
+2024-03-01,David,Ropa,Mujer,17192,705601.0
+2024-04-01,David,Ropa,Mujer,17907,742838.24
+2024-05-01,David,Ropa,Mujer,19732,665086.01
+2024-06-01,David,Ropa,Mujer,19952,629363.54
+2024-07-01,David,Ropa,Mujer,18983,773179.03
+2024-08-01,David,Ropa,Mujer,20290,710718.6
+2024-09-01,David,Ropa,Mujer,17970,689754.5
+2024-10-01,David,Ropa,Mujer,19211,639706.42
+2024-11-01,David,Ropa,Mujer,23453,816190.3
+2024-12-01,David,Ropa,Mujer,27675,915638.59
+2025-01-01,David,Ropa,Mujer,16421,542639.72
+2025-02-01,David,Ropa,Mujer,16447,642169.07
+2025-03-01,David,Ropa,Mujer,21544,770175.86
+2025-04-01,David,Ropa,Mujer,18621,694851.48
+2025-05-01,David,Ropa,Mujer,20927,720268.54
+2025-06-01,David,Ropa,Mujer,21075,700275.07
+2025-07-01,David,Ropa,Mujer,22898,758910.76
+2025-08-01,David,Ropa,Mujer,19106,775780.88
+2025-09-01,David,Ropa,Mujer,21602,794262.21
+2025-10-01,David,Ropa,Mujer,18771,715115.67
+2022-01-01,David,Ropa,Niños,8704,328640.56
+2022-02-01,David,Ropa,Niños,8546,340032.41
+2022-03-01,David,Ropa,Niños,9680,382416.05
+2022-04-01,David,Ropa,Niños,10929,437150.67
+2022-05-01,David,Ropa,Niños,10785,413596.58
+2022-06-01,David,Ropa,Niños,10404,384129.54
+2022-07-01,David,Ropa,Niños,11461,470407.76
+2022-08-01,David,Ropa,Niños,11187,410500.41
+2022-09-01,David,Ropa,Niños,9939,418135.11
+2022-10-01,David,Ropa,Niños,11262,406386.87
+2022-11-01,David,Ropa,Niños,13078,523820.62
+2022-12-01,David,Ropa,Niños,14577,611221.97
+2023-01-01,David,Ropa,Niños,8456,343825.84
+2023-02-01,David,Ropa,Niños,9194,344490.21
+2023-03-01,David,Ropa,Niños,11943,469827.58
+2023-04-01,David,Ropa,Niños,11399,455057.32
+2023-05-01,David,Ropa,Niños,10962,457346.34
+2023-06-01,David,Ropa,Niños,11588,427950.18
+2023-07-01,David,Ropa,Niños,13747,520723.61
+2023-08-01,David,Ropa,Niños,11222,459840.96
+2023-09-01,David,Ropa,Niños,12326,405915.25
+2023-10-01,David,Ropa,Niños,11017,431892.22
+2023-11-01,David,Ropa,Niños,12429,568811.98
+2023-12-01,David,Ropa,Niños,14976,560224.7
+2024-01-01,David,Ropa,Niños,9011,387229.27
+2024-02-01,David,Ropa,Niños,9800,416178.91
+2024-03-01,David,Ropa,Niños,10993,485104.65
+2024-04-01,David,Ropa,Niños,13228,450994.14
+2024-05-01,David,Ropa,Niños,13054,448936.31
+2024-06-01,David,Ropa,Niños,12806,514475.61
+2024-07-01,David,Ropa,Niños,12543,498975.47
+2024-08-01,David,Ropa,Niños,11287,498730.2
+2024-09-01,David,Ropa,Niños,11158,462580.83
+2024-10-01,David,Ropa,Niños,12761,438580.95
+2024-11-01,David,Ropa,Niños,15914,511715.14
+2024-12-01,David,Ropa,Niños,16862,667616.21
+2025-01-01,David,Ropa,Niños,9091,417080.51
+2025-02-01,David,Ropa,Niños,11181,420323.42
+2025-03-01,David,Ropa,Niños,12724,493285.15
+2025-04-01,David,Ropa,Niños,12793,491954.67
+2025-05-01,David,Ropa,Niños,13440,509874.74
+2025-06-01,David,Ropa,Niños,13695,501762.42
+2025-07-01,David,Ropa,Niños,13309,601008.76
+2025-08-01,David,Ropa,Niños,11902,508349.04
+2025-09-01,David,Ropa,Niños,14418,508576.23
+2025-10-01,David,Ropa,Niños,12420,471062.22
+2022-01-01,David,Ropa,Accesorios,13668,510125.96
+2022-02-01,David,Ropa,Accesorios,13575,516827.43
+2022-03-01,David,Ropa,Accesorios,17163,657278.1
+2022-04-01,David,Ropa,Accesorios,17728,695355.27
+2022-05-01,David,Ropa,Accesorios,17965,688376.95
+2022-06-01,David,Ropa,Accesorios,17309,705439.76
+2022-07-01,David,Ropa,Accesorios,17455,785091.02
+2022-08-01,David,Ropa,Accesorios,16009,699880.12
+2022-09-01,David,Ropa,Accesorios,14996,686395.88
+2022-10-01,David,Ropa,Accesorios,17451,601470.15
+2022-11-01,David,Ropa,Accesorios,18083,801915.52
+2022-12-01,David,Ropa,Accesorios,24914,843168.49
+2023-01-01,David,Ropa,Accesorios,12275,564436.88
+2023-02-01,David,Ropa,Accesorios,14071,580963.56
+2023-03-01,David,Ropa,Accesorios,17634,717755.67
+2023-04-01,David,Ropa,Accesorios,18560,677633.94
+2023-05-01,David,Ropa,Accesorios,16438,748957.5
+2023-06-01,David,Ropa,Accesorios,17505,763703.05
+2023-07-01,David,Ropa,Accesorios,19422,763987.21
+2023-08-01,David,Ropa,Accesorios,16698,760359.83
+2023-09-01,David,Ropa,Accesorios,16355,675880.07
+2023-10-01,David,Ropa,Accesorios,18910,713818.64
+2023-11-01,David,Ropa,Accesorios,21272,911723.87
+2023-12-01,David,Ropa,Accesorios,22396,957904.76
+2024-01-01,David,Ropa,Accesorios,15055,619532.8
+2024-02-01,David,Ropa,Accesorios,17634,595007.01
+2024-03-01,David,Ropa,Accesorios,19327,684316.81
+2024-04-01,David,Ropa,Accesorios,18941,818485.06
+2024-05-01,David,Ropa,Accesorios,20359,691946.16
+2024-06-01,David,Ropa,Accesorios,20639,831775.85
+2024-07-01,David,Ropa,Accesorios,21879,908207.38
+2024-08-01,David,Ropa,Accesorios,18720,702301.5
+2024-09-01,David,Ropa,Accesorios,19276,762969.0
+2024-10-01,David,Ropa,Accesorios,19687,709556.11
+2024-11-01,David,Ropa,Accesorios,21323,895674.4
+2024-12-01,David,Ropa,Accesorios,26217,967192.96
+2025-01-01,David,Ropa,Accesorios,16164,573212.49
+2025-02-01,David,Ropa,Accesorios,17717,668804.18
+2025-03-01,David,Ropa,Accesorios,19859,799023.32
+2025-04-01,David,Ropa,Accesorios,20879,886203.61
+2025-05-01,David,Ropa,Accesorios,18674,858759.09
+2025-06-01,David,Ropa,Accesorios,19820,847360.07
+2025-07-01,David,Ropa,Accesorios,23544,896436.69
+2025-08-01,David,Ropa,Accesorios,19088,863957.74
+2025-09-01,David,Ropa,Accesorios,18948,782953.59
+2025-10-01,David,Ropa,Accesorios,22041,842747.3
+2022-01-01,Santiago,Abarrotes,Bebidas,99130,2319416.14
+2022-02-01,Santiago,Abarrotes,Bebidas,124719,2611039.69
+2022-03-01,Santiago,Abarrotes,Bebidas,154761,3162395.43
+2022-04-01,Santiago,Abarrotes,Bebidas,151050,2726930.42
+2022-05-01,Santiago,Abarrotes,Bebidas,140502,3075568.58
+2022-06-01,Santiago,Abarrotes,Bebidas,132601,2956073.15
+2022-07-01,Santiago,Abarrotes,Bebidas,149521,3463184.14
+2022-08-01,Santiago,Abarrotes,Bebidas,145853,2958703.95
+2022-09-01,Santiago,Abarrotes,Bebidas,136070,3024930.04
+2022-10-01,Santiago,Abarrotes,Bebidas,145809,2940744.52
+2022-11-01,Santiago,Abarrotes,Bebidas,164135,3529188.91
+2022-12-01,Santiago,Abarrotes,Bebidas,216474,4357086.97
+2023-01-01,Santiago,Abarrotes,Bebidas,115635,2474829.66
+2023-02-01,Santiago,Abarrotes,Bebidas,126993,2807375.62
+2023-03-01,Santiago,Abarrotes,Bebidas,167248,3185063.15
+2023-04-01,Santiago,Abarrotes,Bebidas,152467,3237068.09
+2023-05-01,Santiago,Abarrotes,Bebidas,145183,3375149.22
+2023-06-01,Santiago,Abarrotes,Bebidas,159631,3426765.69
+2023-07-01,Santiago,Abarrotes,Bebidas,175981,3677873.73
+2023-08-01,Santiago,Abarrotes,Bebidas,164174,3489904.89
+2023-09-01,Santiago,Abarrotes,Bebidas,149236,3423151.77
+2023-10-01,Santiago,Abarrotes,Bebidas,155644,3256855.73
+2023-11-01,Santiago,Abarrotes,Bebidas,180676,3992803.64
+2023-12-01,Santiago,Abarrotes,Bebidas,201911,4887880.33
+2024-01-01,Santiago,Abarrotes,Bebidas,138264,2690369.18
+2024-02-01,Santiago,Abarrotes,Bebidas,152393,3171567.96
+2024-03-01,Santiago,Abarrotes,Bebidas,164631,3635959.52
+2024-04-01,Santiago,Abarrotes,Bebidas,174846,3540047.59
+2024-05-01,Santiago,Abarrotes,Bebidas,161195,3322752.24
+2024-06-01,Santiago,Abarrotes,Bebidas,184819,3451798.36
+2024-07-01,Santiago,Abarrotes,Bebidas,174058,4214557.6
+2024-08-01,Santiago,Abarrotes,Bebidas,154426,3614205.25
+2024-09-01,Santiago,Abarrotes,Bebidas,171507,3548778.01
+2024-10-01,Santiago,Abarrotes,Bebidas,174289,3807040.24
+2024-11-01,Santiago,Abarrotes,Bebidas,208975,4277130.78
+2024-12-01,Santiago,Abarrotes,Bebidas,218629,4930703.41
+2025-01-01,Santiago,Abarrotes,Bebidas,134826,3010263.39
+2025-02-01,Santiago,Abarrotes,Bebidas,158679,3381373.82
+2025-03-01,Santiago,Abarrotes,Bebidas,176128,3581622.04
+2025-04-01,Santiago,Abarrotes,Bebidas,200626,3793893.08
+2025-05-01,Santiago,Abarrotes,Bebidas,171293,3794814.34
+2025-06-01,Santiago,Abarrotes,Bebidas,186241,3722855.48
+2025-07-01,Santiago,Abarrotes,Bebidas,213246,4211885.76
+2025-08-01,Santiago,Abarrotes,Bebidas,177815,3749476.63
+2025-09-01,Santiago,Abarrotes,Bebidas,191351,3586342.54
+2025-10-01,Santiago,Abarrotes,Bebidas,199012,3748911.19
+2022-01-01,Santiago,Abarrotes,Lácteos,13042,630066.93
+2022-02-01,Santiago,Abarrotes,Lácteos,16693,733660.48
+2022-03-01,Santiago,Abarrotes,Lácteos,20084,842357.83
+2022-04-01,Santiago,Abarrotes,Lácteos,20390,914637.94
+2022-05-01,Santiago,Abarrotes,Lácteos,18717,927099.42
+2022-06-01,Santiago,Abarrotes,Lácteos,19499,933512.56
+2022-07-01,Santiago,Abarrotes,Lácteos,22087,1056291.59
+2022-08-01,Santiago,Abarrotes,Lácteos,18439,926221.33
+2022-09-01,Santiago,Abarrotes,Lácteos,18031,892979.94
+2022-10-01,Santiago,Abarrotes,Lácteos,20383,847089.06
+2022-11-01,Santiago,Abarrotes,Lácteos,22565,1059647.14
+2022-12-01,Santiago,Abarrotes,Lácteos,26230,1112857.96
+2023-01-01,Santiago,Abarrotes,Lácteos,14163,741315.45
+2023-02-01,Santiago,Abarrotes,Lácteos,15810,792282.23
+2023-03-01,Santiago,Abarrotes,Lácteos,21563,851827.09
+2023-04-01,Santiago,Abarrotes,Lácteos,20642,859833.41
+2023-05-01,Santiago,Abarrotes,Lácteos,19479,921074.1
+2023-06-01,Santiago,Abarrotes,Lácteos,18937,958003.08
+2023-07-01,Santiago,Abarrotes,Lácteos,22446,1029089.34
+2023-08-01,Santiago,Abarrotes,Lácteos,20520,964746.57
+2023-09-01,Santiago,Abarrotes,Lácteos,18999,938568.09
+2023-10-01,Santiago,Abarrotes,Lácteos,21600,972755.88
+2023-11-01,Santiago,Abarrotes,Lácteos,22204,1067219.14
+2023-12-01,Santiago,Abarrotes,Lácteos,27441,1217047.44
+2024-01-01,Santiago,Abarrotes,Lácteos,16884,775524.54
+2024-02-01,Santiago,Abarrotes,Lácteos,17634,859656.44
+2024-03-01,Santiago,Abarrotes,Lácteos,23152,918471.49
+2024-04-01,Santiago,Abarrotes,Lácteos,22770,990217.48
+2024-05-01,Santiago,Abarrotes,Lácteos,22984,934552.4
+2024-06-01,Santiago,Abarrotes,Lácteos,20073,1020829.0
+2024-07-01,Santiago,Abarrotes,Lácteos,22182,1092652.98
+2024-08-01,Santiago,Abarrotes,Lácteos,20800,1037424.68
+2024-09-01,Santiago,Abarrotes,Lácteos,21806,1076471.58
+2024-10-01,Santiago,Abarrotes,Lácteos,22806,973821.01
+2024-11-01,Santiago,Abarrotes,Lácteos,27828,1329869.24
+2024-12-01,Santiago,Abarrotes,Lácteos,31662,1430375.68
+2025-01-01,Santiago,Abarrotes,Lácteos,19048,838515.71
+2025-02-01,Santiago,Abarrotes,Lácteos,20833,961900.25
+2025-03-01,Santiago,Abarrotes,Lácteos,22486,1128602.16
+2025-04-01,Santiago,Abarrotes,Lácteos,22293,1094578.34
+2025-05-01,Santiago,Abarrotes,Lácteos,24310,1076621.46
+2025-06-01,Santiago,Abarrotes,Lácteos,21955,994711.67
+2025-07-01,Santiago,Abarrotes,Lácteos,23636,1086566.9
+2025-08-01,Santiago,Abarrotes,Lácteos,23543,1061155.49
+2025-09-01,Santiago,Abarrotes,Lácteos,24897,1055847.41
+2025-10-01,Santiago,Abarrotes,Lácteos,21527,1067650.46
+2022-01-01,Santiago,Abarrotes,Enlatados,11864,461452.96
+2022-02-01,Santiago,Abarrotes,Enlatados,14277,536438.59
+2022-03-01,Santiago,Abarrotes,Enlatados,16692,703041.08
+2022-04-01,Santiago,Abarrotes,Enlatados,15759,703628.59
+2022-05-01,Santiago,Abarrotes,Enlatados,16996,728817.91
+2022-06-01,Santiago,Abarrotes,Enlatados,14670,686200.24
+2022-07-01,Santiago,Abarrotes,Enlatados,16631,686717.58
+2022-08-01,Santiago,Abarrotes,Enlatados,16939,623925.21
+2022-09-01,Santiago,Abarrotes,Enlatados,15509,704891.5
+2022-10-01,Santiago,Abarrotes,Enlatados,17426,632345.59
+2022-11-01,Santiago,Abarrotes,Enlatados,18947,782241.33
+2022-12-01,Santiago,Abarrotes,Enlatados,23555,942634.74
+2023-01-01,Santiago,Abarrotes,Enlatados,12560,492275.73
+2023-02-01,Santiago,Abarrotes,Enlatados,14300,585538.82
+2023-03-01,Santiago,Abarrotes,Enlatados,16680,711944.16
+2023-04-01,Santiago,Abarrotes,Enlatados,17829,693339.59
+2023-05-01,Santiago,Abarrotes,Enlatados,17243,672557.26
+2023-06-01,Santiago,Abarrotes,Enlatados,18596,758381.53
+2023-07-01,Santiago,Abarrotes,Enlatados,17852,847804.5
+2023-08-01,Santiago,Abarrotes,Enlatados,15716,690125.42
+2023-09-01,Santiago,Abarrotes,Enlatados,16716,765113.41
+2023-10-01,Santiago,Abarrotes,Enlatados,17479,708704.07
+2023-11-01,Santiago,Abarrotes,Enlatados,21976,871530.78
+2023-12-01,Santiago,Abarrotes,Enlatados,23177,1087726.83
+2024-01-01,Santiago,Abarrotes,Enlatados,14188,613707.54
+2024-02-01,Santiago,Abarrotes,Enlatados,15132,702843.45
+2024-03-01,Santiago,Abarrotes,Enlatados,18783,722715.41
+2024-04-01,Santiago,Abarrotes,Enlatados,19765,712252.95
+2024-05-01,Santiago,Abarrotes,Enlatados,17366,840635.52
+2024-06-01,Santiago,Abarrotes,Enlatados,18001,761835.48
+2024-07-01,Santiago,Abarrotes,Enlatados,22179,820881.82
+2024-08-01,Santiago,Abarrotes,Enlatados,19705,814340.0
+2024-09-01,Santiago,Abarrotes,Enlatados,18590,831752.98
+2024-10-01,Santiago,Abarrotes,Enlatados,18413,835816.98
+2024-11-01,Santiago,Abarrotes,Enlatados,21074,900766.42
+2024-12-01,Santiago,Abarrotes,Enlatados,25782,1167901.18
+2025-01-01,Santiago,Abarrotes,Enlatados,15819,570354.33
+2025-02-01,Santiago,Abarrotes,Enlatados,17382,647643.94
+2025-03-01,Santiago,Abarrotes,Enlatados,18891,858038.28
+2025-04-01,Santiago,Abarrotes,Enlatados,18542,764185.67
+2025-05-01,Santiago,Abarrotes,Enlatados,18793,807979.67
+2025-06-01,Santiago,Abarrotes,Enlatados,18417,866283.99
+2025-07-01,Santiago,Abarrotes,Enlatados,19937,891109.42
+2025-08-01,Santiago,Abarrotes,Enlatados,19400,783694.88
+2025-09-01,Santiago,Abarrotes,Enlatados,18194,800735.14
+2025-10-01,Santiago,Abarrotes,Enlatados,18425,830247.58
+2022-01-01,Santiago,Abarrotes,Cereales,48053,1732261.39
+2022-02-01,Santiago,Abarrotes,Cereales,59401,2001889.22
+2022-03-01,Santiago,Abarrotes,Cereales,75124,2602567.34
+2022-04-01,Santiago,Abarrotes,Cereales,76093,2460171.3
+2022-05-01,Santiago,Abarrotes,Cereales,64809,2438543.76
+2022-06-01,Santiago,Abarrotes,Cereales,71191,2236660.63
+2022-07-01,Santiago,Abarrotes,Cereales,84137,2415634.75
+2022-08-01,Santiago,Abarrotes,Cereales,69066,2656853.52
+2022-09-01,Santiago,Abarrotes,Cereales,75306,2371556.45
+2022-10-01,Santiago,Abarrotes,Cereales,65473,2481564.93
+2022-11-01,Santiago,Abarrotes,Cereales,92162,2672401.14
+2022-12-01,Santiago,Abarrotes,Cereales,103883,3528586.46
+2023-01-01,Santiago,Abarrotes,Cereales,62069,2132646.24
+2023-02-01,Santiago,Abarrotes,Cereales,66923,2258210.32
+2023-03-01,Santiago,Abarrotes,Cereales,73969,2421413.42
+2023-04-01,Santiago,Abarrotes,Cereales,82711,2659888.01
+2023-05-01,Santiago,Abarrotes,Cereales,72633,2756525.27
+2023-06-01,Santiago,Abarrotes,Cereales,73494,2568129.41
+2023-07-01,Santiago,Abarrotes,Cereales,87011,3097521.66
+2023-08-01,Santiago,Abarrotes,Cereales,80082,2694937.14
+2023-09-01,Santiago,Abarrotes,Cereales,82577,2826089.03
+2023-10-01,Santiago,Abarrotes,Cereales,71557,2681758.59
+2023-11-01,Santiago,Abarrotes,Cereales,96694,2908945.08
+2023-12-01,Santiago,Abarrotes,Cereales,111544,3524502.03
+2024-01-01,Santiago,Abarrotes,Cereales,56036,1986771.79
+2024-02-01,Santiago,Abarrotes,Cereales,68008,2590269.86
+2024-03-01,Santiago,Abarrotes,Cereales,78299,2963751.67
+2024-04-01,Santiago,Abarrotes,Cereales,78655,2916424.43
+2024-05-01,Santiago,Abarrotes,Cereales,89762,2704903.0
+2024-06-01,Santiago,Abarrotes,Cereales,84193,2639028.46
+2024-07-01,Santiago,Abarrotes,Cereales,93961,3257679.46
+2024-08-01,Santiago,Abarrotes,Cereales,89658,2802480.55
+2024-09-01,Santiago,Abarrotes,Cereales,79845,2662547.81
+2024-10-01,Santiago,Abarrotes,Cereales,86797,2882745.94
+2024-11-01,Santiago,Abarrotes,Cereales,96941,3069672.69
+2024-12-01,Santiago,Abarrotes,Cereales,123068,3806744.34
+2025-01-01,Santiago,Abarrotes,Cereales,61861,2259878.67
+2025-02-01,Santiago,Abarrotes,Cereales,81598,2395933.36
+2025-03-01,Santiago,Abarrotes,Cereales,83153,3326157.86
+2025-04-01,Santiago,Abarrotes,Cereales,85047,2855822.78
+2025-05-01,Santiago,Abarrotes,Cereales,92623,2808068.49
+2025-06-01,Santiago,Abarrotes,Cereales,86237,2852449.42
+2025-07-01,Santiago,Abarrotes,Cereales,99017,3514952.87
+2025-08-01,Santiago,Abarrotes,Cereales,87132,2987063.16
+2025-09-01,Santiago,Abarrotes,Cereales,92380,3071911.47
+2025-10-01,Santiago,Abarrotes,Cereales,83322,2741757.06
+2022-01-01,Santiago,Abarrotes,Snacks,37095,802151.29
+2022-02-01,Santiago,Abarrotes,Snacks,41749,813065.81
+2022-03-01,Santiago,Abarrotes,Snacks,44898,1129642.95
+2022-04-01,Santiago,Abarrotes,Snacks,48139,1111338.57
+2022-05-01,Santiago,Abarrotes,Snacks,50080,1051613.3
+2022-06-01,Santiago,Abarrotes,Snacks,52557,1071667.42
+2022-07-01,Santiago,Abarrotes,Snacks,49659,1029059.66
+2022-08-01,Santiago,Abarrotes,Snacks,43302,1002261.6
+2022-09-01,Santiago,Abarrotes,Snacks,43934,1096858.33
+2022-10-01,Santiago,Abarrotes,Snacks,46820,948106.58
+2022-11-01,Santiago,Abarrotes,Snacks,61308,1188638.36
+2022-12-01,Santiago,Abarrotes,Snacks,60591,1474601.83
+2023-01-01,Santiago,Abarrotes,Snacks,38235,791395.2
+2023-02-01,Santiago,Abarrotes,Snacks,42218,1024682.66
+2023-03-01,Santiago,Abarrotes,Snacks,46822,1027384.16
+2023-04-01,Santiago,Abarrotes,Snacks,50913,1175208.41
+2023-05-01,Santiago,Abarrotes,Snacks,48902,1110995.91
+2023-06-01,Santiago,Abarrotes,Snacks,49901,1164767.52
+2023-07-01,Santiago,Abarrotes,Snacks,58894,1173964.41
+2023-08-01,Santiago,Abarrotes,Snacks,51647,1112446.98
+2023-09-01,Santiago,Abarrotes,Snacks,47564,1188395.19
+2023-10-01,Santiago,Abarrotes,Snacks,56171,1101884.54
+2023-11-01,Santiago,Abarrotes,Snacks,63387,1293734.23
+2023-12-01,Santiago,Abarrotes,Snacks,75823,1564154.85
+2024-01-01,Santiago,Abarrotes,Snacks,37833,929794.66
+2024-02-01,Santiago,Abarrotes,Snacks,42577,998467.15
+2024-03-01,Santiago,Abarrotes,Snacks,49786,1292361.42
+2024-04-01,Santiago,Abarrotes,Snacks,51652,1139353.41
+2024-05-01,Santiago,Abarrotes,Snacks,54137,1182247.23
+2024-06-01,Santiago,Abarrotes,Snacks,59881,1249127.45
+2024-07-01,Santiago,Abarrotes,Snacks,60068,1356317.11
+2024-08-01,Santiago,Abarrotes,Snacks,52770,1274484.2
+2024-09-01,Santiago,Abarrotes,Snacks,55762,1306127.01
+2024-10-01,Santiago,Abarrotes,Snacks,50805,1170697.86
+2024-11-01,Santiago,Abarrotes,Snacks,67544,1314817.06
+2024-12-01,Santiago,Abarrotes,Snacks,78168,1507095.79
+2025-01-01,Santiago,Abarrotes,Snacks,46830,997701.1
+2025-02-01,Santiago,Abarrotes,Snacks,55027,1162557.94
+2025-03-01,Santiago,Abarrotes,Snacks,56056,1201446.6
+2025-04-01,Santiago,Abarrotes,Snacks,59109,1185599.94
+2025-05-01,Santiago,Abarrotes,Snacks,63820,1161105.6
+2025-06-01,Santiago,Abarrotes,Snacks,62360,1354656.36
+2025-07-01,Santiago,Abarrotes,Snacks,64732,1346974.68
+2025-08-01,Santiago,Abarrotes,Snacks,64250,1247508.08
+2025-09-01,Santiago,Abarrotes,Snacks,53771,1273226.68
+2025-10-01,Santiago,Abarrotes,Snacks,64081,1358919.41
+2022-01-01,Santiago,Electrónica,TV,72771,1424693.77
+2022-02-01,Santiago,Electrónica,TV,90287,1766635.75
+2022-03-01,Santiago,Electrónica,TV,98889,1956764.18
+2022-04-01,Santiago,Electrónica,TV,94238,1955314.99
+2022-05-01,Santiago,Electrónica,TV,102000,2006851.22
+2022-06-01,Santiago,Electrónica,TV,90359,2249812.43
+2022-07-01,Santiago,Electrónica,TV,103950,2050013.88
+2022-08-01,Santiago,Electrónica,TV,93774,2077868.12
+2022-09-01,Santiago,Electrónica,TV,95415,1874943.82
+2022-10-01,Santiago,Electrónica,TV,102186,1904381.37
+2022-11-01,Santiago,Electrónica,TV,115714,2425206.46
+2022-12-01,Santiago,Electrónica,TV,143392,2870017.82
+2023-01-01,Santiago,Electrónica,TV,80199,1589906.49
+2023-02-01,Santiago,Electrónica,TV,86695,1823728.5
+2023-03-01,Santiago,Electrónica,TV,111851,2043333.13
+2023-04-01,Santiago,Electrónica,TV,99809,2139666.16
+2023-05-01,Santiago,Electrónica,TV,99516,2435160.3
+2023-06-01,Santiago,Electrónica,TV,105416,2425426.42
+2023-07-01,Santiago,Electrónica,TV,110312,2369145.81
+2023-08-01,Santiago,Electrónica,TV,94981,2258887.8
+2023-09-01,Santiago,Electrónica,TV,108445,2409785.25
+2023-10-01,Santiago,Electrónica,TV,105555,2007347.05
+2023-11-01,Santiago,Electrónica,TV,125009,2838868.2
+2023-12-01,Santiago,Electrónica,TV,161221,3397880.9
+2024-01-01,Santiago,Electrónica,TV,87227,1670119.47
+2024-02-01,Santiago,Electrónica,TV,104555,1921710.27
+2024-03-01,Santiago,Electrónica,TV,106402,2648501.19
+2024-04-01,Santiago,Electrónica,TV,116258,2443243.16
+2024-05-01,Santiago,Electrónica,TV,123110,2189417.8
+2024-06-01,Santiago,Electrónica,TV,116576,2307485.7
+2024-07-01,Santiago,Electrónica,TV,131638,2640834.07
+2024-08-01,Santiago,Electrónica,TV,111736,2518598.13
+2024-09-01,Santiago,Electrónica,TV,105324,2538120.38
+2024-10-01,Santiago,Electrónica,TV,113705,2665318.91
+2024-11-01,Santiago,Electrónica,TV,134701,2786372.79
+2024-12-01,Santiago,Electrónica,TV,172324,3421002.12
+2025-01-01,Santiago,Electrónica,TV,88843,1993420.39
+2025-02-01,Santiago,Electrónica,TV,116028,2201901.31
+2025-03-01,Santiago,Electrónica,TV,136289,2465594.86
+2025-04-01,Santiago,Electrónica,TV,118548,2892422.47
+2025-05-01,Santiago,Electrónica,TV,121055,2826869.5
+2025-06-01,Santiago,Electrónica,TV,134726,2639416.78
+2025-07-01,Santiago,Electrónica,TV,150151,2964298.43
+2025-08-01,Santiago,Electrónica,TV,123437,2496274.67
+2025-09-01,Santiago,Electrónica,TV,120380,2663419.21
+2025-10-01,Santiago,Electrónica,TV,125501,2743252.85
+2022-01-01,Santiago,Electrónica,Celulares,52865,962320.77
+2022-02-01,Santiago,Electrónica,Celulares,54858,1062061.9
+2022-03-01,Santiago,Electrónica,Celulares,64881,1443520.02
+2022-04-01,Santiago,Electrónica,Celulares,63029,1258315.7
+2022-05-01,Santiago,Electrónica,Celulares,68453,1423324.22
+2022-06-01,Santiago,Electrónica,Celulares,63756,1233617.09
+2022-07-01,Santiago,Electrónica,Celulares,68820,1625696.26
+2022-08-01,Santiago,Electrónica,Celulares,64722,1413521.96
+2022-09-01,Santiago,Electrónica,Celulares,60250,1222464.06
+2022-10-01,Santiago,Electrónica,Celulares,68847,1427815.81
+2022-11-01,Santiago,Electrónica,Celulares,71058,1632077.65
+2022-12-01,Santiago,Electrónica,Celulares,94510,2004831.53
+2023-01-01,Santiago,Electrónica,Celulares,49017,1086730.01
+2023-02-01,Santiago,Electrónica,Celulares,56141,1260693.05
+2023-03-01,Santiago,Electrónica,Celulares,71676,1525088.81
+2023-04-01,Santiago,Electrónica,Celulares,76663,1415107.09
+2023-05-01,Santiago,Electrónica,Celulares,73659,1299016.08
+2023-06-01,Santiago,Electrónica,Celulares,65956,1543441.48
+2023-07-01,Santiago,Electrónica,Celulares,71787,1548932.4
+2023-08-01,Santiago,Electrónica,Celulares,74894,1441341.43
+2023-09-01,Santiago,Electrónica,Celulares,69004,1300475.43
+2023-10-01,Santiago,Electrónica,Celulares,64717,1440201.67
+2023-11-01,Santiago,Electrónica,Celulares,89806,1899399.68
+2023-12-01,Santiago,Electrónica,Celulares,103872,1929919.69
+2024-01-01,Santiago,Electrónica,Celulares,61052,1126586.07
+2024-02-01,Santiago,Electrónica,Celulares,68257,1352895.93
+2024-03-01,Santiago,Electrónica,Celulares,79442,1630796.3
+2024-04-01,Santiago,Electrónica,Celulares,67578,1508857.09
+2024-05-01,Santiago,Electrónica,Celulares,68348,1475803.33
+2024-06-01,Santiago,Electrónica,Celulares,75244,1668547.6
+2024-07-01,Santiago,Electrónica,Celulares,82156,1747416.05
+2024-08-01,Santiago,Electrónica,Celulares,73596,1417304.86
+2024-09-01,Santiago,Electrónica,Celulares,72688,1401934.14
+2024-10-01,Santiago,Electrónica,Celulares,73199,1529157.14
+2024-11-01,Santiago,Electrónica,Celulares,90299,1737980.27
+2024-12-01,Santiago,Electrónica,Celulares,93561,2042204.03
+2025-01-01,Santiago,Electrónica,Celulares,56371,1316264.28
+2025-02-01,Santiago,Electrónica,Celulares,67344,1273140.81
+2025-03-01,Santiago,Electrónica,Celulares,82448,1702042.99
+2025-04-01,Santiago,Electrónica,Celulares,73795,1557070.43
+2025-05-01,Santiago,Electrónica,Celulares,79680,1716717.11
+2025-06-01,Santiago,Electrónica,Celulares,82325,1704342.88
+2025-07-01,Santiago,Electrónica,Celulares,85872,1618094.56
+2025-08-01,Santiago,Electrónica,Celulares,71473,1634739.9
+2025-09-01,Santiago,Electrónica,Celulares,78139,1514049.84
+2025-10-01,Santiago,Electrónica,Celulares,75726,1751277.36
+2022-01-01,Santiago,Electrónica,Audio,39868,497271.73
+2022-02-01,Santiago,Electrónica,Audio,40924,612279.32
+2022-03-01,Santiago,Electrónica,Audio,48662,736029.23
+2022-04-01,Santiago,Electrónica,Audio,49296,698743.45
+2022-05-01,Santiago,Electrónica,Audio,52796,721625.5
+2022-06-01,Santiago,Electrónica,Audio,52076,679170.13
+2022-07-01,Santiago,Electrónica,Audio,49932,769606.04
+2022-08-01,Santiago,Electrónica,Audio,47979,745805.15
+2022-09-01,Santiago,Electrónica,Audio,48244,699303.43
+2022-10-01,Santiago,Electrónica,Audio,51404,786384.02
+2022-11-01,Santiago,Electrónica,Audio,59513,896242.04
+2022-12-01,Santiago,Electrónica,Audio,70130,1006926.53
+2023-01-01,Santiago,Electrónica,Audio,43266,535195.31
+2023-02-01,Santiago,Electrónica,Audio,40801,668134.37
+2023-03-01,Santiago,Electrónica,Audio,49555,827740.17
+2023-04-01,Santiago,Electrónica,Audio,51495,749251.87
+2023-05-01,Santiago,Electrónica,Audio,50864,834343.09
+2023-06-01,Santiago,Electrónica,Audio,47442,747089.94
+2023-07-01,Santiago,Electrónica,Audio,52996,920712.75
+2023-08-01,Santiago,Electrónica,Audio,54360,720906.38
+2023-09-01,Santiago,Electrónica,Audio,56441,843683.68
+2023-10-01,Santiago,Electrónica,Audio,52610,785983.54
+2023-11-01,Santiago,Electrónica,Audio,63447,904947.14
+2023-12-01,Santiago,Electrónica,Audio,69848,1048854.82
+2024-01-01,Santiago,Electrónica,Audio,44752,627844.22
+2024-02-01,Santiago,Electrónica,Audio,50565,793365.29
+2024-03-01,Santiago,Electrónica,Audio,57637,801195.99
+2024-04-01,Santiago,Electrónica,Audio,53381,781318.41
+2024-05-01,Santiago,Electrónica,Audio,52071,863098.98
+2024-06-01,Santiago,Electrónica,Audio,51700,846720.97
+2024-07-01,Santiago,Electrónica,Audio,63454,938049.86
+2024-08-01,Santiago,Electrónica,Audio,60317,877000.17
+2024-09-01,Santiago,Electrónica,Audio,60694,809142.33
+2024-10-01,Santiago,Electrónica,Audio,56224,918369.15
+2024-11-01,Santiago,Electrónica,Audio,71827,1005296.53
+2024-12-01,Santiago,Electrónica,Audio,86377,1099993.06
+2025-01-01,Santiago,Electrónica,Audio,43795,720447.27
+2025-02-01,Santiago,Electrónica,Audio,50910,801057.02
+2025-03-01,Santiago,Electrónica,Audio,66419,882434.56
+2025-04-01,Santiago,Electrónica,Audio,59164,938464.69
+2025-05-01,Santiago,Electrónica,Audio,66203,864865.29
+2025-06-01,Santiago,Electrónica,Audio,67025,906090.04
+2025-07-01,Santiago,Electrónica,Audio,69433,1088324.4
+2025-08-01,Santiago,Electrónica,Audio,65017,849046.64
+2025-09-01,Santiago,Electrónica,Audio,64194,895435.97
+2025-10-01,Santiago,Electrónica,Audio,63582,975043.64
+2022-01-01,Santiago,Electrónica,Electrodomésticos,53696,1004247.96
+2022-02-01,Santiago,Electrónica,Electrodomésticos,60322,1268629.85
+2022-03-01,Santiago,Electrónica,Electrodomésticos,73215,1314258.56
+2022-04-01,Santiago,Electrónica,Electrodomésticos,72287,1475764.76
+2022-05-01,Santiago,Electrónica,Electrodomésticos,65731,1554511.92
+2022-06-01,Santiago,Electrónica,Electrodomésticos,67779,1560630.81
+2022-07-01,Santiago,Electrónica,Electrodomésticos,71079,1576005.83
+2022-08-01,Santiago,Electrónica,Electrodomésticos,64669,1435704.53
+2022-09-01,Santiago,Electrónica,Electrodomésticos,72301,1325019.76
+2022-10-01,Santiago,Electrónica,Electrodomésticos,74848,1496922.0
+2022-11-01,Santiago,Electrónica,Electrodomésticos,91564,1848587.64
+2022-12-01,Santiago,Electrónica,Electrodomésticos,100285,1922990.09
+2023-01-01,Santiago,Electrónica,Electrodomésticos,52479,1142757.76
+2023-02-01,Santiago,Electrónica,Electrodomésticos,58480,1405007.92
+2023-03-01,Santiago,Electrónica,Electrodomésticos,79365,1664802.67
+2023-04-01,Santiago,Electrónica,Electrodomésticos,75868,1468529.25
+2023-05-01,Santiago,Electrónica,Electrodomésticos,76458,1563700.03
+2023-06-01,Santiago,Electrónica,Electrodomésticos,78896,1452836.17
+2023-07-01,Santiago,Electrónica,Electrodomésticos,85501,1567259.3
+2023-08-01,Santiago,Electrónica,Electrodomésticos,79688,1675329.37
+2023-09-01,Santiago,Electrónica,Electrodomésticos,68062,1647274.81
+2023-10-01,Santiago,Electrónica,Electrodomésticos,78389,1628551.97
+2023-11-01,Santiago,Electrónica,Electrodomésticos,95919,1690004.53
+2023-12-01,Santiago,Electrónica,Electrodomésticos,100095,2316250.04
+2024-01-01,Santiago,Electrónica,Electrodomésticos,61593,1226303.17
+2024-02-01,Santiago,Electrónica,Electrodomésticos,65374,1362889.9
+2024-03-01,Santiago,Electrónica,Electrodomésticos,87197,1670974.68
+2024-04-01,Santiago,Electrónica,Electrodomésticos,72426,1520275.62
+2024-05-01,Santiago,Electrónica,Electrodomésticos,81155,1740565.62
+2024-06-01,Santiago,Electrónica,Electrodomésticos,74552,1682881.22
+2024-07-01,Santiago,Electrónica,Electrodomésticos,91598,1706991.19
+2024-08-01,Santiago,Electrónica,Electrodomésticos,74702,1552353.9
+2024-09-01,Santiago,Electrónica,Electrodomésticos,75653,1551034.88
+2024-10-01,Santiago,Electrónica,Electrodomésticos,79790,1508901.47
+2024-11-01,Santiago,Electrónica,Electrodomésticos,103809,2021588.55
+2024-12-01,Santiago,Electrónica,Electrodomésticos,105384,2475592.93
+2025-01-01,Santiago,Electrónica,Electrodomésticos,59513,1199801.79
+2025-02-01,Santiago,Electrónica,Electrodomésticos,76376,1369258.86
+2025-03-01,Santiago,Electrónica,Electrodomésticos,85440,1796368.58
+2025-04-01,Santiago,Electrónica,Electrodomésticos,92465,1883738.94
+2025-05-01,Santiago,Electrónica,Electrodomésticos,79392,1709243.98
+2025-06-01,Santiago,Electrónica,Electrodomésticos,87923,1717344.65
+2025-07-01,Santiago,Electrónica,Electrodomésticos,88952,1985189.12
+2025-08-01,Santiago,Electrónica,Electrodomésticos,79565,1690643.48
+2025-09-01,Santiago,Electrónica,Electrodomésticos,88564,1602961.81
+2025-10-01,Santiago,Electrónica,Electrodomésticos,87030,1853898.26
+2022-01-01,Santiago,Hogar,Muebles,42041,840408.11
+2022-02-01,Santiago,Hogar,Muebles,40463,1064808.85
+2022-03-01,Santiago,Hogar,Muebles,52994,1094680.97
+2022-04-01,Santiago,Hogar,Muebles,52816,1095267.64
+2022-05-01,Santiago,Hogar,Muebles,55936,1108911.83
+2022-06-01,Santiago,Hogar,Muebles,55993,1156892.06
+2022-07-01,Santiago,Hogar,Muebles,58237,1194116.8
+2022-08-01,Santiago,Hogar,Muebles,48420,1237000.6
+2022-09-01,Santiago,Hogar,Muebles,54084,1088613.16
+2022-10-01,Santiago,Hogar,Muebles,47026,1232552.16
+2022-11-01,Santiago,Hogar,Muebles,64682,1261871.81
+2022-12-01,Santiago,Hogar,Muebles,77314,1649060.3
+2023-01-01,Santiago,Hogar,Muebles,40126,994356.45
+2023-02-01,Santiago,Hogar,Muebles,47784,973072.32
+2023-03-01,Santiago,Hogar,Muebles,54019,1340849.71
+2023-04-01,Santiago,Hogar,Muebles,54103,1214461.43
+2023-05-01,Santiago,Hogar,Muebles,52707,1335305.21
+2023-06-01,Santiago,Hogar,Muebles,57657,1269371.36
+2023-07-01,Santiago,Hogar,Muebles,65521,1295099.4
+2023-08-01,Santiago,Hogar,Muebles,59614,1149585.44
+2023-09-01,Santiago,Hogar,Muebles,51221,1177889.83
+2023-10-01,Santiago,Hogar,Muebles,58891,1126221.25
+2023-11-01,Santiago,Hogar,Muebles,68864,1366427.95
+2023-12-01,Santiago,Hogar,Muebles,72908,1580706.62
+2024-01-01,Santiago,Hogar,Muebles,40289,971827.48
+2024-02-01,Santiago,Hogar,Muebles,47668,1184773.64
+2024-03-01,Santiago,Hogar,Muebles,63657,1221660.46
+2024-04-01,Santiago,Hogar,Muebles,60375,1218748.53
+2024-05-01,Santiago,Hogar,Muebles,61408,1353804.03
+2024-06-01,Santiago,Hogar,Muebles,55952,1236347.45
+2024-07-01,Santiago,Hogar,Muebles,67528,1331152.69
+2024-08-01,Santiago,Hogar,Muebles,53258,1228363.12
+2024-09-01,Santiago,Hogar,Muebles,57342,1427582.55
+2024-10-01,Santiago,Hogar,Muebles,60299,1400666.62
+2024-11-01,Santiago,Hogar,Muebles,65575,1533168.37
+2024-12-01,Santiago,Hogar,Muebles,87650,1899891.96
+2025-01-01,Santiago,Hogar,Muebles,44836,1067425.25
+2025-02-01,Santiago,Hogar,Muebles,55292,1243334.55
+2025-03-01,Santiago,Hogar,Muebles,61930,1464313.75
+2025-04-01,Santiago,Hogar,Muebles,64340,1449074.33
+2025-05-01,Santiago,Hogar,Muebles,58171,1346615.98
+2025-06-01,Santiago,Hogar,Muebles,57028,1282452.49
+2025-07-01,Santiago,Hogar,Muebles,75128,1540162.36
+2025-08-01,Santiago,Hogar,Muebles,60219,1523167.68
+2025-09-01,Santiago,Hogar,Muebles,67163,1432337.56
+2025-10-01,Santiago,Hogar,Muebles,69432,1506615.66
+2022-01-01,Santiago,Hogar,Limpieza,7391,95958.31
+2022-02-01,Santiago,Hogar,Limpieza,7628,99469.2
+2022-03-01,Santiago,Hogar,Limpieza,10224,113246.8
+2022-04-01,Santiago,Hogar,Limpieza,8796,130195.87
+2022-05-01,Santiago,Hogar,Limpieza,9689,126740.98
+2022-06-01,Santiago,Hogar,Limpieza,8559,135593.16
+2022-07-01,Santiago,Hogar,Limpieza,10693,131646.49
+2022-08-01,Santiago,Hogar,Limpieza,9028,112698.34
+2022-09-01,Santiago,Hogar,Limpieza,9354,129314.62
+2022-10-01,Santiago,Hogar,Limpieza,9157,124061.92
+2022-11-01,Santiago,Hogar,Limpieza,10597,139727.64
+2022-12-01,Santiago,Hogar,Limpieza,13552,182679.16
+2023-01-01,Santiago,Hogar,Limpieza,8181,93465.68
+2023-02-01,Santiago,Hogar,Limpieza,9404,107209.29
+2023-03-01,Santiago,Hogar,Limpieza,9510,121674.08
+2023-04-01,Santiago,Hogar,Limpieza,10574,129805.16
+2023-05-01,Santiago,Hogar,Limpieza,10467,130321.71
+2023-06-01,Santiago,Hogar,Limpieza,9816,132855.39
+2023-07-01,Santiago,Hogar,Limpieza,10075,151806.46
+2023-08-01,Santiago,Hogar,Limpieza,10518,143228.8
+2023-09-01,Santiago,Hogar,Limpieza,11036,122871.75
+2023-10-01,Santiago,Hogar,Limpieza,10401,120662.53
+2023-11-01,Santiago,Hogar,Limpieza,12003,143656.32
+2023-12-01,Santiago,Hogar,Limpieza,14258,172238.82
+2024-01-01,Santiago,Hogar,Limpieza,7661,109912.19
+2024-02-01,Santiago,Hogar,Limpieza,9700,126246.28
+2024-03-01,Santiago,Hogar,Limpieza,11403,150202.18
+2024-04-01,Santiago,Hogar,Limpieza,10097,134780.01
+2024-05-01,Santiago,Hogar,Limpieza,11689,136546.88
+2024-06-01,Santiago,Hogar,Limpieza,10366,141582.69
+2024-07-01,Santiago,Hogar,Limpieza,13107,142615.95
+2024-08-01,Santiago,Hogar,Limpieza,10613,145219.67
+2024-09-01,Santiago,Hogar,Limpieza,10167,155805.93
+2024-10-01,Santiago,Hogar,Limpieza,10545,138107.05
+2024-11-01,Santiago,Hogar,Limpieza,12885,179095.04
+2024-12-01,Santiago,Hogar,Limpieza,13904,198887.97
+2025-01-01,Santiago,Hogar,Limpieza,8877,105756.19
+2025-02-01,Santiago,Hogar,Limpieza,10099,131626.32
+2025-03-01,Santiago,Hogar,Limpieza,12211,146250.96
+2025-04-01,Santiago,Hogar,Limpieza,10557,138162.12
+2025-05-01,Santiago,Hogar,Limpieza,11750,156460.01
+2025-06-01,Santiago,Hogar,Limpieza,10612,163285.32
+2025-07-01,Santiago,Hogar,Limpieza,13335,162380.8
+2025-08-01,Santiago,Hogar,Limpieza,10619,149006.07
+2025-09-01,Santiago,Hogar,Limpieza,12614,164263.07
+2025-10-01,Santiago,Hogar,Limpieza,12125,161904.32
+2022-01-01,Santiago,Hogar,Cocina,9303,289896.41
+2022-02-01,Santiago,Hogar,Cocina,12186,351307.39
+2022-03-01,Santiago,Hogar,Cocina,12772,404456.66
+2022-04-01,Santiago,Hogar,Cocina,13669,377775.19
+2022-05-01,Santiago,Hogar,Cocina,13544,398190.93
+2022-06-01,Santiago,Hogar,Cocina,12309,388083.84
+2022-07-01,Santiago,Hogar,Cocina,13618,419013.76
+2022-08-01,Santiago,Hogar,Cocina,12490,358027.45
+2022-09-01,Santiago,Hogar,Cocina,12829,378752.31
+2022-10-01,Santiago,Hogar,Cocina,12367,362109.75
+2022-11-01,Santiago,Hogar,Cocina,14168,495788.15
+2022-12-01,Santiago,Hogar,Cocina,19674,516523.57
+2023-01-01,Santiago,Hogar,Cocina,11507,335277.65
+2023-02-01,Santiago,Hogar,Cocina,11552,350765.67
+2023-03-01,Santiago,Hogar,Cocina,13582,420740.72
+2023-04-01,Santiago,Hogar,Cocina,12652,413475.99
+2023-05-01,Santiago,Hogar,Cocina,14542,379567.79
+2023-06-01,Santiago,Hogar,Cocina,14949,399773.71
+2023-07-01,Santiago,Hogar,Cocina,14348,414797.71
+2023-08-01,Santiago,Hogar,Cocina,13080,420036.39
+2023-09-01,Santiago,Hogar,Cocina,14850,405599.42
+2023-10-01,Santiago,Hogar,Cocina,14362,432747.54
+2023-11-01,Santiago,Hogar,Cocina,15310,464443.61
+2023-12-01,Santiago,Hogar,Cocina,20132,535433.75
+2024-01-01,Santiago,Hogar,Cocina,10879,324206.74
+2024-02-01,Santiago,Hogar,Cocina,12483,406395.97
+2024-03-01,Santiago,Hogar,Cocina,15896,459067.67
+2024-04-01,Santiago,Hogar,Cocina,16020,433385.03
+2024-05-01,Santiago,Hogar,Cocina,14782,442050.09
+2024-06-01,Santiago,Hogar,Cocina,16431,403895.13
+2024-07-01,Santiago,Hogar,Cocina,16280,531544.42
+2024-08-01,Santiago,Hogar,Cocina,15902,455189.74
+2024-09-01,Santiago,Hogar,Cocina,15034,421621.2
+2024-10-01,Santiago,Hogar,Cocina,16281,448088.52
+2024-11-01,Santiago,Hogar,Cocina,19575,487345.8
+2024-12-01,Santiago,Hogar,Cocina,19373,674199.63
+2025-01-01,Santiago,Hogar,Cocina,13216,331943.44
+2025-02-01,Santiago,Hogar,Cocina,14673,414286.91
+2025-03-01,Santiago,Hogar,Cocina,17151,449281.98
+2025-04-01,Santiago,Hogar,Cocina,15238,493979.31
+2025-05-01,Santiago,Hogar,Cocina,17196,499589.82
+2025-06-01,Santiago,Hogar,Cocina,17342,489800.14
+2025-07-01,Santiago,Hogar,Cocina,17076,532643.97
+2025-08-01,Santiago,Hogar,Cocina,17673,510538.92
+2025-09-01,Santiago,Hogar,Cocina,14748,433487.35
+2025-10-01,Santiago,Hogar,Cocina,15072,457373.04
+2022-01-01,Santiago,Hogar,Decoración,9762,314683.24
+2022-02-01,Santiago,Hogar,Decoración,12477,431127.74
+2022-03-01,Santiago,Hogar,Decoración,12939,422143.15
+2022-04-01,Santiago,Hogar,Decoración,14406,431290.31
+2022-05-01,Santiago,Hogar,Decoración,13655,419303.2
+2022-06-01,Santiago,Hogar,Decoración,14873,470656.43
+2022-07-01,Santiago,Hogar,Decoración,14642,555058.82
+2022-08-01,Santiago,Hogar,Decoración,14452,479860.7
+2022-09-01,Santiago,Hogar,Decoración,13317,494417.39
+2022-10-01,Santiago,Hogar,Decoración,14661,419235.08
+2022-11-01,Santiago,Hogar,Decoración,18133,562018.52
+2022-12-01,Santiago,Hogar,Decoración,18215,644965.77
+2023-01-01,Santiago,Hogar,Decoración,12216,375898.81
+2023-02-01,Santiago,Hogar,Decoración,13141,389650.04
+2023-03-01,Santiago,Hogar,Decoración,14044,519793.44
+2023-04-01,Santiago,Hogar,Decoración,14956,501624.76
+2023-05-01,Santiago,Hogar,Decoración,14147,527885.8
+2023-06-01,Santiago,Hogar,Decoración,15784,499827.11
+2023-07-01,Santiago,Hogar,Decoración,17558,512763.63
+2023-08-01,Santiago,Hogar,Decoración,13979,516166.18
+2023-09-01,Santiago,Hogar,Decoración,15195,468455.21
+2023-10-01,Santiago,Hogar,Decoración,16131,538638.3
+2023-11-01,Santiago,Hogar,Decoración,19800,615171.55
+2023-12-01,Santiago,Hogar,Decoración,21304,653706.22
+2024-01-01,Santiago,Hogar,Decoración,13391,443336.28
+2024-02-01,Santiago,Hogar,Decoración,14022,461609.41
+2024-03-01,Santiago,Hogar,Decoración,16034,494863.01
+2024-04-01,Santiago,Hogar,Decoración,17521,554807.85
+2024-05-01,Santiago,Hogar,Decoración,16357,514374.5
+2024-06-01,Santiago,Hogar,Decoración,16288,573947.08
+2024-07-01,Santiago,Hogar,Decoración,17983,633023.63
+2024-08-01,Santiago,Hogar,Decoración,17516,592912.44
+2024-09-01,Santiago,Hogar,Decoración,17468,541284.76
+2024-10-01,Santiago,Hogar,Decoración,16064,536208.03
+2024-11-01,Santiago,Hogar,Decoración,19001,682215.22
+2024-12-01,Santiago,Hogar,Decoración,22895,701833.59
+2025-01-01,Santiago,Hogar,Decoración,13453,442124.77
+2025-02-01,Santiago,Hogar,Decoración,14242,501008.42
+2025-03-01,Santiago,Hogar,Decoración,18720,536068.61
+2025-04-01,Santiago,Hogar,Decoración,17632,574439.99
+2025-05-01,Santiago,Hogar,Decoración,17093,625284.83
+2025-06-01,Santiago,Hogar,Decoración,16290,625619.92
+2025-07-01,Santiago,Hogar,Decoración,18432,590930.06
+2025-08-01,Santiago,Hogar,Decoración,19269,536214.35
+2025-09-01,Santiago,Hogar,Decoración,16991,556301.66
+2025-10-01,Santiago,Hogar,Decoración,16509,627793.93
+2022-01-01,Santiago,Ropa,Hombre,15606,372417.95
+2022-02-01,Santiago,Ropa,Hombre,21597,441410.2
+2022-03-01,Santiago,Ropa,Hombre,24497,520088.94
+2022-04-01,Santiago,Ropa,Hombre,24425,499997.31
+2022-05-01,Santiago,Ropa,Hombre,23145,509339.66
+2022-06-01,Santiago,Ropa,Hombre,22176,562691.47
+2022-07-01,Santiago,Ropa,Hombre,23638,552351.42
+2022-08-01,Santiago,Ropa,Hombre,22105,489873.73
+2022-09-01,Santiago,Ropa,Hombre,22527,488354.16
+2022-10-01,Santiago,Ropa,Hombre,24284,510416.74
+2022-11-01,Santiago,Ropa,Hombre,27940,649780.05
+2022-12-01,Santiago,Ropa,Hombre,29608,678293.84
+2023-01-01,Santiago,Ropa,Hombre,16611,426792.84
+2023-02-01,Santiago,Ropa,Hombre,19177,419802.13
+2023-03-01,Santiago,Ropa,Hombre,24072,537338.2
+2023-04-01,Santiago,Ropa,Hombre,26634,576329.02
+2023-05-01,Santiago,Ropa,Hombre,25184,528577.25
+2023-06-01,Santiago,Ropa,Hombre,25990,553156.43
+2023-07-01,Santiago,Ropa,Hombre,26780,565362.77
+2023-08-01,Santiago,Ropa,Hombre,23832,572629.14
+2023-09-01,Santiago,Ropa,Hombre,22591,497285.38
+2023-10-01,Santiago,Ropa,Hombre,26354,584705.19
+2023-11-01,Santiago,Ropa,Hombre,31079,615870.25
+2023-12-01,Santiago,Ropa,Hombre,32037,821929.7
+2024-01-01,Santiago,Ropa,Hombre,19553,421836.39
+2024-02-01,Santiago,Ropa,Hombre,22050,514549.61
+2024-03-01,Santiago,Ropa,Hombre,26658,558588.32
+2024-04-01,Santiago,Ropa,Hombre,28328,626590.15
+2024-05-01,Santiago,Ropa,Hombre,26422,536265.74
+2024-06-01,Santiago,Ropa,Hombre,26216,542279.38
+2024-07-01,Santiago,Ropa,Hombre,26035,636607.11
+2024-08-01,Santiago,Ropa,Hombre,23734,531084.79
+2024-09-01,Santiago,Ropa,Hombre,24381,544303.18
+2024-10-01,Santiago,Ropa,Hombre,23575,630977.82
+2024-11-01,Santiago,Ropa,Hombre,32728,761724.87
+2024-12-01,Santiago,Ropa,Hombre,38037,791278.65
+2025-01-01,Santiago,Ropa,Hombre,19190,500237.44
+2025-02-01,Santiago,Ropa,Hombre,25032,527372.43
+2025-03-01,Santiago,Ropa,Hombre,25690,586607.15
+2025-04-01,Santiago,Ropa,Hombre,26498,639817.41
+2025-05-01,Santiago,Ropa,Hombre,26210,634467.94
+2025-06-01,Santiago,Ropa,Hombre,26890,675080.51
+2025-07-01,Santiago,Ropa,Hombre,28865,644632.68
+2025-08-01,Santiago,Ropa,Hombre,27534,636086.14
+2025-09-01,Santiago,Ropa,Hombre,27084,559831.0
+2025-10-01,Santiago,Ropa,Hombre,30280,567409.62
+2022-01-01,Santiago,Ropa,Mujer,4770,169574.83
+2022-02-01,Santiago,Ropa,Mujer,5455,185185.45
+2022-03-01,Santiago,Ropa,Mujer,5720,221970.22
+2022-04-01,Santiago,Ropa,Mujer,6689,212404.2
+2022-05-01,Santiago,Ropa,Mujer,6159,245499.65
+2022-06-01,Santiago,Ropa,Mujer,6215,205587.92
+2022-07-01,Santiago,Ropa,Mujer,7399,269891.65
+2022-08-01,Santiago,Ropa,Mujer,6181,231191.47
+2022-09-01,Santiago,Ropa,Mujer,5760,220250.16
+2022-10-01,Santiago,Ropa,Mujer,5924,238092.01
+2022-11-01,Santiago,Ropa,Mujer,8294,273932.86
+2022-12-01,Santiago,Ropa,Mujer,8106,319036.72
+2023-01-01,Santiago,Ropa,Mujer,4931,168502.1
+2023-02-01,Santiago,Ropa,Mujer,5759,202541.74
+2023-03-01,Santiago,Ropa,Mujer,6762,231049.79
+2023-04-01,Santiago,Ropa,Mujer,6100,220066.74
+2023-05-01,Santiago,Ropa,Mujer,6773,236850.82
+2023-06-01,Santiago,Ropa,Mujer,6614,223679.19
+2023-07-01,Santiago,Ropa,Mujer,8152,254999.92
+2023-08-01,Santiago,Ropa,Mujer,6310,223810.5
+2023-09-01,Santiago,Ropa,Mujer,6574,224221.09
+2023-10-01,Santiago,Ropa,Mujer,6662,229000.39
+2023-11-01,Santiago,Ropa,Mujer,7948,321633.86
+2023-12-01,Santiago,Ropa,Mujer,9795,307171.57
+2024-01-01,Santiago,Ropa,Mujer,5120,200794.41
+2024-02-01,Santiago,Ropa,Mujer,5810,205538.27
+2024-03-01,Santiago,Ropa,Mujer,7571,282415.82
+2024-04-01,Santiago,Ropa,Mujer,7240,239329.2
+2024-05-01,Santiago,Ropa,Mujer,7116,284209.89
+2024-06-01,Santiago,Ropa,Mujer,6760,266280.3
+2024-07-01,Santiago,Ropa,Mujer,7466,257968.67
+2024-08-01,Santiago,Ropa,Mujer,6531,281028.86
+2024-09-01,Santiago,Ropa,Mujer,6648,261632.2
+2024-10-01,Santiago,Ropa,Mujer,7322,248136.05
+2024-11-01,Santiago,Ropa,Mujer,9368,329311.57
+2024-12-01,Santiago,Ropa,Mujer,9704,395822.52
+2025-01-01,Santiago,Ropa,Mujer,5604,208190.75
+2025-02-01,Santiago,Ropa,Mujer,6073,227989.17
+2025-03-01,Santiago,Ropa,Mujer,7567,294590.09
+2025-04-01,Santiago,Ropa,Mujer,7023,288621.39
+2025-05-01,Santiago,Ropa,Mujer,8386,300149.29
+2025-06-01,Santiago,Ropa,Mujer,8007,289218.96
+2025-07-01,Santiago,Ropa,Mujer,9349,290631.89
+2025-08-01,Santiago,Ropa,Mujer,8332,302539.16
+2025-09-01,Santiago,Ropa,Mujer,7698,256485.74
+2025-10-01,Santiago,Ropa,Mujer,7770,265570.67
+2022-01-01,Santiago,Ropa,Niños,11977,584037.38
+2022-02-01,Santiago,Ropa,Niños,13969,725513.27
+2022-03-01,Santiago,Ropa,Niños,15159,715885.11
+2022-04-01,Santiago,Ropa,Niños,15185,747914.19
+2022-05-01,Santiago,Ropa,Niños,17270,800103.75
+2022-06-01,Santiago,Ropa,Niños,16603,755223.67
+2022-07-01,Santiago,Ropa,Niños,17751,929812.91
+2022-08-01,Santiago,Ropa,Niños,16362,710941.03
+2022-09-01,Santiago,Ropa,Niños,14396,786274.21
+2022-10-01,Santiago,Ropa,Niños,16267,792729.33
+2022-11-01,Santiago,Ropa,Niños,19107,962834.66
+2022-12-01,Santiago,Ropa,Niños,22453,1036746.65
+2023-01-01,Santiago,Ropa,Niños,12572,616565.04
+2023-02-01,Santiago,Ropa,Niños,13433,767596.36
+2023-03-01,Santiago,Ropa,Niños,16189,793421.2
+2023-04-01,Santiago,Ropa,Niños,18802,900213.29
+2023-05-01,Santiago,Ropa,Niños,16932,855562.75
+2023-06-01,Santiago,Ropa,Niños,17132,889282.64
+2023-07-01,Santiago,Ropa,Niños,17275,969180.13
+2023-08-01,Santiago,Ropa,Niños,15652,795545.25
+2023-09-01,Santiago,Ropa,Niños,17996,856603.3
+2023-10-01,Santiago,Ropa,Niños,17379,907117.63
+2023-11-01,Santiago,Ropa,Niños,20733,1000202.75
+2023-12-01,Santiago,Ropa,Niños,22906,1293356.04
+2024-01-01,Santiago,Ropa,Niños,14726,681199.81
+2024-02-01,Santiago,Ropa,Niños,14855,723787.89
+2024-03-01,Santiago,Ropa,Niños,17557,896752.1
+2024-04-01,Santiago,Ropa,Niños,18571,999875.43
+2024-05-01,Santiago,Ropa,Niños,17918,883966.16
+2024-06-01,Santiago,Ropa,Niños,17773,984541.9
+2024-07-01,Santiago,Ropa,Niños,21188,1085649.57
+2024-08-01,Santiago,Ropa,Niños,19283,889553.75
+2024-09-01,Santiago,Ropa,Niños,19933,840597.37
+2024-10-01,Santiago,Ropa,Niños,18410,958215.74
+2024-11-01,Santiago,Ropa,Niños,20544,1058952.8
+2024-12-01,Santiago,Ropa,Niños,25019,1356488.52
+2025-01-01,Santiago,Ropa,Niños,16698,737862.71
+2025-02-01,Santiago,Ropa,Niños,17600,843453.88
+2025-03-01,Santiago,Ropa,Niños,21166,1050548.11
+2025-04-01,Santiago,Ropa,Niños,18313,971816.14
+2025-05-01,Santiago,Ropa,Niños,20388,983910.99
+2025-06-01,Santiago,Ropa,Niños,18435,970587.46
+2025-07-01,Santiago,Ropa,Niños,22655,1065708.5
+2025-08-01,Santiago,Ropa,Niños,22024,1000395.85
+2025-09-01,Santiago,Ropa,Niños,22217,1056696.65
+2025-10-01,Santiago,Ropa,Niños,20479,967716.78
+2022-01-01,Santiago,Ropa,Accesorios,10477,211669.97
+2022-02-01,Santiago,Ropa,Accesorios,11598,223721.37
+2022-03-01,Santiago,Ropa,Accesorios,14920,267786.69
+2022-04-01,Santiago,Ropa,Accesorios,13386,248339.47
+2022-05-01,Santiago,Ropa,Accesorios,13377,276733.71
+2022-06-01,Santiago,Ropa,Accesorios,13332,267927.58
+2022-07-01,Santiago,Ropa,Accesorios,14466,287334.77
+2022-08-01,Santiago,Ropa,Accesorios,13678,238065.03
+2022-09-01,Santiago,Ropa,Accesorios,15312,282744.3
+2022-10-01,Santiago,Ropa,Accesorios,14997,267057.26
+2022-11-01,Santiago,Ropa,Accesorios,17861,293983.96
+2022-12-01,Santiago,Ropa,Accesorios,21085,373217.59
+2023-01-01,Santiago,Ropa,Accesorios,11039,220044.4
+2023-02-01,Santiago,Ropa,Accesorios,14132,242077.04
+2023-03-01,Santiago,Ropa,Accesorios,14310,295695.4
+2023-04-01,Santiago,Ropa,Accesorios,14925,287951.95
+2023-05-01,Santiago,Ropa,Accesorios,15698,308710.04
+2023-06-01,Santiago,Ropa,Accesorios,14204,258045.43
+2023-07-01,Santiago,Ropa,Accesorios,17754,287125.53
+2023-08-01,Santiago,Ropa,Accesorios,15082,264844.05
+2023-09-01,Santiago,Ropa,Accesorios,16307,294112.65
+2023-10-01,Santiago,Ropa,Accesorios,15408,291586.7
+2023-11-01,Santiago,Ropa,Accesorios,17334,366663.69
+2023-12-01,Santiago,Ropa,Accesorios,22616,415145.78
+2024-01-01,Santiago,Ropa,Accesorios,11938,231046.85
+2024-02-01,Santiago,Ropa,Accesorios,14210,287130.81
+2024-03-01,Santiago,Ropa,Accesorios,15327,293161.89
+2024-04-01,Santiago,Ropa,Accesorios,17143,328043.04
+2024-05-01,Santiago,Ropa,Accesorios,17304,303045.42
+2024-06-01,Santiago,Ropa,Accesorios,16342,316697.18
+2024-07-01,Santiago,Ropa,Accesorios,20098,353680.51
+2024-08-01,Santiago,Ropa,Accesorios,18002,315775.7
+2024-09-01,Santiago,Ropa,Accesorios,17445,285436.23
+2024-10-01,Santiago,Ropa,Accesorios,17464,304039.45
+2024-11-01,Santiago,Ropa,Accesorios,19103,373593.09
+2024-12-01,Santiago,Ropa,Accesorios,24183,460625.34
+2025-01-01,Santiago,Ropa,Accesorios,12812,247550.53
+2025-02-01,Santiago,Ropa,Accesorios,14352,307519.79
+2025-03-01,Santiago,Ropa,Accesorios,19996,329848.94
+2025-04-01,Santiago,Ropa,Accesorios,18625,337086.75
+2025-05-01,Santiago,Ropa,Accesorios,17929,353611.72
+2025-06-01,Santiago,Ropa,Accesorios,17409,339376.01
+2025-07-01,Santiago,Ropa,Accesorios,20413,401012.51
+2025-08-01,Santiago,Ropa,Accesorios,16542,344534.9
+2025-09-01,Santiago,Ropa,Accesorios,16706,335346.14
+2025-10-01,Santiago,Ropa,Accesorios,16481,302022.07
