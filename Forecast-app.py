@@ -1,0 +1,67 @@
+# app.py
+import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
+from io import BytesIO
+from forecast_model import make_forecast
+
+# Título y descripción
+st.set_page_config(page_title="Forecast de Ventas Retail", page_icon="📈", layout="wide")
+st.title("📈 Forecast de Ventas Retail")
+st.write("""
+Sube tu archivo de ventas (CSV) para generar pronósticos a **3, 6 y 12 meses**.
+Puedes filtrar por sucursal, departamento y categoría para ver predicciones específicas.
+""")
+
+# Cargar archivo
+uploaded_file = st.file_uploader("📂 Sube tu archivo CSV", type=["csv"])
+
+if uploaded_file:
+    df = pd.read_csv(uploaded_file)
+    df['Fecha'] = pd.to_datetime(df['Fecha'])
+
+    # Filtros
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        sucursal = st.selectbox("Sucursal", ["Todas"] + sorted(df['Sucursal'].unique().tolist()))
+    with col2:
+        departamento = st.selectbox("Departamento", ["Todos"] + sorted(df['Departamento'].unique().tolist()))
+    with col3:
+        categoria = st.selectbox("Categoría", ["Todas"] + sorted(df['Categoría'].unique().tolist()))
+
+    # Aplicar filtros
+    df_filtrado = df.copy()
+    if sucursal != "Todas":
+        df_filtrado = df_filtrado[df_filtrado['Sucursal'] == sucursal]
+    if departamento != "Todos":
+        df_filtrado = df_filtrado[df_filtrado['Departamento'] == departamento]
+    if categoria != "Todas":
+        df_filtrado = df_filtrado[df_filtrado['Categoría'] == categoria]
+
+    st.subheader("📊 Datos seleccionados")
+    st.dataframe(df_filtrado.head())
+
+    # Agregar botón para generar forecast
+    if st.button("🚀 Generar Forecast"):
+        with st.spinner("Calculando pronósticos..."):
+            forecast_3m = make_forecast(df_filtrado[['Fecha', 'Venta_USD']], 3)
+            forecast_6m = make_forecast(df_filtrado[['Fecha', 'Venta_USD']], 6)
+            forecast_12m = make_forecast(df_filtrado[['Fecha', 'Venta_USD']], 12)
+
+            # Gráfico
+            fig, ax = plt.subplots(figsize=(10, 5))
+            ax.plot(df_filtrado['Fecha'], df_filtrado['Venta_USD'], label='Ventas reales', marker='o')
+            ax.plot(forecast_12m['Fecha'], forecast_12m['Forecast_USD'], label='Forecast 12M', linestyle='--', marker='x')
+            ax.set_title("Forecast de Ventas")
+            ax.legend()
+            st.pyplot(fig)
+
+            # Guardar Excel para descarga
+            def to_excel(df):
+                output = BytesIO()
+                df.to_excel(output, index=False, engine='openpyxl')
+                return output.getvalue()
+
+            st.download_button("📄 Descargar Forecast 3 Meses", to_excel(forecast_3m), file_name="forecast_3m.xlsx")
+            st.download_button("📄 Descargar Forecast 6 Meses", to_excel(forecast_6m), file_name="forecast_6m.xlsx")
+            st.download_button("📄 Descargar Forecast 12 Meses", to_excel(forecast_12m), file_name="forecast_12m.xlsx")
