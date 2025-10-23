@@ -1,4 +1,4 @@
-Fecha,Sucursal,Departamento,Categoría,Unidades_Vendidas,Venta_USD
+Fecha,Sucursal,Departamento,Categoría,Unidades_Vendidas,Monto_Venta_USD
 2022-01-01,Panamá Norte,Abarrotes,Bebidas,49375,2153409.09
 2022-02-01,Panamá Norte,Abarrotes,Bebidas,50036,2356012.36
 2022-03-01,Panamá Norte,Abarrotes,Bebidas,69401,2689652.66
