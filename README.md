@@ -41,7 +41,7 @@ Esta app permite:
 
 ## **Cómo Ejecutar**
 
-⬇️ **Clonar el repositorio**:
+😉 **Clonar el repositorio**:
 
 ```bash
 git clone https://github.com/tu_usuario/forecast-retail-app.git
