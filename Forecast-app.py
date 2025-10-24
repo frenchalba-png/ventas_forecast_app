@@ -51,7 +51,6 @@ if df is not None:
         max_value=fecha_max.date()
     )
 
-    # Validar rango
     if isinstance(rango, (list, tuple)) and len(rango) == 2:
         inicio, fin = pd.to_datetime(rango[0]), pd.to_datetime(rango[1])
         data_filtrada = data[(data["ds"] >= inicio) & (data["ds"] <= fin)]
@@ -78,12 +77,18 @@ if df is not None:
     data_mostrar = data_filtrada.copy()
     data_mostrar["Fecha"] = pd.to_datetime(data_mostrar["ds"]).dt.strftime("%b-%Y")
     data_mostrar["Monto de Venta (USD)"] = data_mostrar["y"].apply(lambda x: f"$ {x:,.2f}")
-    
-    # 🔹 Quitar índice y mostrar en dataframe (manteniendo el scroll)
-    data_mostrar = data_mostrar.reset_index(drop=True)
-    st.dataframe(
-        data_mostrar[["Fecha", "Monto de Venta (USD)"]],
-        use_container_width=True
+
+    # --- Tabla sin índice, con scroll (HTML con estilo básico) ---
+    html_table = data_mostrar[["Fecha", "Monto de Venta (USD)"]].to_html(
+        index=False, justify="left", border=0
+    )
+    st.markdown(
+        f"""
+        <div style="border:1px solid #ddd; border-radius:8px; padding:10px; max-height:400px; overflow-y:auto;">
+            {html_table}
+        </div>
+        """,
+        unsafe_allow_html=True
     )
 
     # --- Sección de Forecasts ---
@@ -94,14 +99,10 @@ if df is not None:
         forecast_formateado["Fecha"] = pd.to_datetime(forecast_formateado["ds"]).dt.strftime("%b-%Y")
         forecast_formateado["Monto Pronosticado (USD)"] = forecast_formateado["yhat"].apply(lambda x: f"$ {x:,.2f}")
 
-        # 🔹 Quitar índice antes de mostrar
-        forecast_formateado = forecast_formateado.reset_index(drop=True)
-
-        # Mostrar resumen y botón de descarga
         promedio = forecast_formateado["yhat"].tail().mean()
         st.markdown(f"**📅 Pronóstico a {label}:** Venta promedio proyectada = `$ {promedio:,.2f}`")
-        
-        csv = forecast_formateado[["Fecha", "Monto Pronosticado (USD)"]].to_csv(index=False).encode('utf-8')
+
+        csv = forecast_formateado[["Fecha", "Monto Pronosticado (USD)"]].to_csv(index=False).encode("utf-8")
         st.download_button(
             label=f"⬇️ Descargar forecast {label}",
             data=csv,
@@ -109,15 +110,23 @@ if df is not None:
             mime="text/csv"
         )
 
-        # 🔹 Mostrar tabla con scroll, sin índice
-        st.dataframe(
-            forecast_formateado[["Fecha", "Monto Pronosticado (USD)"]].tail(10),
-            use_container_width=True
+        # --- Tabla sin índice, con scroll ---
+        html_forecast = forecast_formateado[["Fecha", "Monto Pronosticado (USD)"]].tail(10).to_html(
+            index=False, justify="left", border=0
+        )
+        st.markdown(
+            f"""
+            <div style="border:1px solid #ddd; border-radius:8px; padding:10px; max-height:300px; overflow-y:auto;">
+                {html_forecast}
+            </div>
+            """,
+            unsafe_allow_html=True
         )
 
     mostrar_forecast(forecast_3m, "3 meses")
     mostrar_forecast(forecast_6m, "6 meses")
     mostrar_forecast(forecast_12m, "12 meses")
+
 
 
 
