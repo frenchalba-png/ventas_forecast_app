@@ -4,7 +4,7 @@ Aplicación interactiva en **Python + Streamlit** para generar **pronósticos de
 
 Ideal para empresas retail tipo **Walmart / Costco / Albertsons** que quieran anticipar sus ventas y tomar decisiones basadas en datos.
 
-🔗 [Ver aplicación en línea]([https://ventas-forecast-drf9gxstskpugncxfwiph2k.streamlit.app/])
+🔗 [Ver aplicación en línea](https://ventas-forecast-drf9gxstskpugncxfwiph2k.streamlit.app/)
 ---
 
 ## **Descripción del Proyecto**
