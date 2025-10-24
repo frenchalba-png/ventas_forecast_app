@@ -6,7 +6,7 @@ Ideal para empresas retail tipo **Walmart / Costco / Albertsons** que quieran an
 
 ---
 
-## ** Descripción del Proyecto**
+## **Descripción del Proyecto**
 
 Esta app permite:
 
@@ -26,7 +26,7 @@ Esta app permite:
 
 ---
 
-## ** Funcionalidades Principales**
+## **Funcionalidades Principales**
 
 - 🔄 **Carga automática o manual del CSV**  
 - 📊 **Pronósticos a 3, 6 y 12 meses**  
@@ -39,7 +39,7 @@ Esta app permite:
 
 ---
 
-## ** Cómo Ejecutar**
+## **Cómo Ejecutar**
 
 1️⃣ **Clonar el repositorio**:
 
