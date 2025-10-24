@@ -73,7 +73,14 @@ if df is not None:
     data_mostrar = data_filtrada.copy()
     data_mostrar["Fecha"] = pd.to_datetime(data_mostrar["ds"]).dt.strftime("%b-%Y")
     data_mostrar["Monto de Venta (USD)"] = data_mostrar["y"].apply(lambda x: f"$ {x:,.2f}")
-    st.dataframe(data_mostrar[["Fecha", "Monto de Venta (USD)"]], use_container_width=True)
+
+    # 🔹 Quitar índice antes de mostrar
+    data_mostrar = data_mostrar.reset_index(drop=True)
+
+    st.dataframe(
+        data_mostrar[["Fecha", "Monto de Venta (USD)"]],
+        use_container_width=True
+    )
 
     # --- Sección de Forecasts ---
     st.subheader("Pronósticos de Ventas Futuras")
@@ -83,7 +90,10 @@ if df is not None:
         forecast_formateado["Fecha"] = pd.to_datetime(forecast_formateado["ds"]).dt.strftime("%b-%Y")
         forecast_formateado["Monto Pronosticado (USD)"] = forecast_formateado["yhat"].apply(lambda x: f"$ {x:,.2f}")
 
-        # Mostrar resumen y link de descarga
+        # 🔹 Quitar índice antes de mostrar
+        forecast_formateado = forecast_formateado.reset_index(drop=True)
+
+        # Mostrar resumen y botón de descarga
         promedio = forecast_formateado["yhat"].tail().mean()
         st.markdown(f"**📅 Pronóstico a {label}:** Venta promedio proyectada = `$ {promedio:,.2f}`")
         
@@ -95,11 +105,15 @@ if df is not None:
             mime="text/csv"
         )
 
-        st.dataframe(forecast_formateado[["Fecha", "Monto Pronosticado (USD)"]].tail(10), use_container_width=True)
+        st.dataframe(
+            forecast_formateado[["Fecha", "Monto Pronosticado (USD)"]].tail(10),
+            use_container_width=True
+        )
 
     mostrar_forecast(forecast_3m, "3 meses")
     mostrar_forecast(forecast_6m, "6 meses")
     mostrar_forecast(forecast_12m, "12 meses")
+
 
 
 
