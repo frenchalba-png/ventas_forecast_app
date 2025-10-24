@@ -26,7 +26,9 @@ else:
 
 # --- Procesar datos si df existe ---
 if df is not None:
-    st.write("✅ Columnas detectadas:", list(df.columns))
+    # 📋 Mostrar columnas detectadas dentro de un expander (oculto por defecto)
+    with st.expander("📋 Ver columnas detectadas"):
+        st.write(list(df.columns))
 
     # --- Sidebar: filtros ---
     st.sidebar.header("🎯 Filtros")
@@ -41,17 +43,21 @@ if df is not None:
     # --- Preparar datos ---
     data = preparar_datos(df, sucursal, departamento, categoria)
 
-    # --- Rango de fechas ---
+    # --- Rango de fechas con calendario ---
     fecha_min, fecha_max = data["ds"].min(), data["ds"].max()
-    rango = st.slider(
+    rango = st.date_input(
         "📅 Selecciona el rango de fechas a mostrar",
-        min_value=fecha_min.to_pydatetime(),
-        max_value=fecha_max.to_pydatetime(),
-        value=(fecha_min.to_pydatetime(), fecha_max.to_pydatetime()),
-        format="MMM YYYY"
+        value=(fecha_min.date(), fecha_max.date()),
+        min_value=fecha_min.date(),
+        max_value=fecha_max.date()
     )
 
-    data_filtrada = data[(data["ds"] >= rango[0]) & (data["ds"] <= rango[1])]
+    # Validar rango
+    if len(rango) == 2:
+        inicio, fin = pd.to_datetime(rango[0]), pd.to_datetime(rango[1])
+        data_filtrada = data[(data["ds"] >= inicio) & (data["ds"] <= fin)]
+    else:
+        data_filtrada = data.copy()
 
     # --- Entrenar modelo y predecir ---
     forecast_3m = entrenar_y_predecir(data, 90)
@@ -74,11 +80,10 @@ if df is not None:
     data_mostrar["Fecha"] = pd.to_datetime(data_mostrar["ds"]).dt.strftime("%b-%Y")
     data_mostrar["Monto de Venta (USD)"] = data_mostrar["y"].apply(lambda x: f"$ {x:,.2f}")
 
-    # 🔹 Quitar índice antes de mostrar
-    data_mostrar = data_mostrar.reset_index(drop=True)
-
+    # 🔹 Mostrar tabla sin índice
     st.dataframe(
-        data_mostrar[["Fecha", "Monto de Venta (USD)"]],
+        data_mostrar[["Fecha", "Monto de Venta (USD)"]]
+        .style.hide(axis="index"),
         use_container_width=True
     )
 
@@ -89,9 +94,6 @@ if df is not None:
         forecast_formateado = forecast.copy()
         forecast_formateado["Fecha"] = pd.to_datetime(forecast_formateado["ds"]).dt.strftime("%b-%Y")
         forecast_formateado["Monto Pronosticado (USD)"] = forecast_formateado["yhat"].apply(lambda x: f"$ {x:,.2f}")
-
-        # 🔹 Quitar índice antes de mostrar
-        forecast_formateado = forecast_formateado.reset_index(drop=True)
 
         # Mostrar resumen y botón de descarga
         promedio = forecast_formateado["yhat"].tail().mean()
@@ -105,14 +107,19 @@ if df is not None:
             mime="text/csv"
         )
 
+        # 🔹 Mostrar tabla sin índice
         st.dataframe(
-            forecast_formateado[["Fecha", "Monto Pronosticado (USD)"]].tail(10),
+            forecast_formateado[["Fecha", "Monto Pronosticado (USD)"]]
+            .tail(10)
+            .style.hide(axis="index"),
             use_container_width=True
         )
 
     mostrar_forecast(forecast_3m, "3 meses")
     mostrar_forecast(forecast_6m, "6 meses")
     mostrar_forecast(forecast_12m, "12 meses")
+
+
 
 
 
