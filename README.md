@@ -32,7 +32,7 @@ Esta app permite:
 - 📊 **Pronósticos a 3, 6 y 12 meses**  
 - 📈 **Visualizaciones interactivas** con Plotly  
 - 🎯 **Filtros por sucursal, departamento y categoría**  
-- 💾 **Descarga de resultados** en CSV:  
+- ⬇️ **Descarga de resultados** en CSV:  
   - `forecast_3m.csv`  
   - `forecast_6m.csv`  
   - `forecast_12m.csv`  
@@ -41,7 +41,7 @@ Esta app permite:
 
 ## **Cómo Ejecutar**
 
-1️⃣ **Clonar el repositorio**:
+⬇️ **Clonar el repositorio**:
 
 ```bash
 git clone https://github.com/tu_usuario/forecast-retail-app.git
